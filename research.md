@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Resaerch
+subtitle: asdf
 ---
 
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
+
+![William O'Brochta](https://obrochtawj.github.com/images/header.jpg)
 
 What else do you need?
 
