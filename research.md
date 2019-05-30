@@ -9,7 +9,7 @@ My name is Inigo Montoya. I have the following qualities:
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-![William O'Brochta](https://obrochtawj.github.com/images/header.jpg)
+![William O'Brochta](https://obrochtawj.github.com/img/header.jpg)
 
 What else do you need?
 
