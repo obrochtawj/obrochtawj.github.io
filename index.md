@@ -9,7 +9,6 @@ use-site-title: true
 <br/><br/>
 # William O'Brochta
 ## Ph.D. Student in Political Science
-<br/><br/>
 
 I am a Ph.D. student in Political Science at Washington University in St. Louis. I study ethnic representation, identity, and collective action, particularly in developing nations. I have a B.A. from Hendrix College and an A.M. from Washington Universtiy in St. Louis.
 
