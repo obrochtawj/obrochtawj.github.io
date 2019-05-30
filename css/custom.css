@@ -48,12 +48,12 @@
 
 .index-page .img {
     width: 175px;
-    /*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    border-radius: 50%;*/
     float: left;
     margin-right: 20px;
+}
+
+.index-page .img2 {
+    width: 75px;
 }
 
 
@@ -77,6 +77,10 @@
     }
 
     .index-page .img {
+        margin-top: 10px;
+    }
+
+    .index-page .img2 {
         margin-top: 10px;
     }
 
