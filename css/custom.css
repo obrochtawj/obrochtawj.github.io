@@ -37,11 +37,11 @@
 
 /* Avatar pic */
 .index-page .avatar-img {
-    width: 100px;
+    width: 175px;
     /*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
-    border-radius: 50%;
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    border-radius: 50%;*/
     float: left;
     margin-right: 20px;
 }
