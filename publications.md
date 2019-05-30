@@ -4,6 +4,10 @@ title: Publications
 permalink: "/publications"
 ---
 
+* "Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), forthcoming with Springer Verlag.
+
+  [PDF](/files/CompetitiveAuthoritarianPoliticalSpace.pdf)    [Replication Files](/files/CompetitivePoliticalSpace.zip)
+
 * "A Meta-Analysis of Natural Resources and Conflict," 2019. _Research and Politcs_ 6(1):1-6.
 
   Publisher Link PDF Replication Files
