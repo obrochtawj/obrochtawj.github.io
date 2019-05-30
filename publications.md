@@ -14,7 +14,7 @@ permalink: "/publications"
 
 * "Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. _Caucasus Survey_ 6(1): 18-41.
 
-  [Publisher Link](https://doi.org/10.1080/23761199.2017.1344028), [PDF](/files/RegionalAutonomyAccepted.pdf), [Supplemental Information](/files/RegionalAutonomySupplementa.pdf)
+  [Publisher Link](https://doi.org/10.1080/23761199.2017.1344028), [PDF](/files/RegionalAutonomyAccepted.pdf), [Supplemental Information](/files/RegionalAutonomySupplemental.pdf)
 
 * "International Tourism's Impact on Regional Autonomy: Evidence from 2004 EU Accession Countries," 2017. _Tourism Economics_ 23(8): 1632-1661.
 
