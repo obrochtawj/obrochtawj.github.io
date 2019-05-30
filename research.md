@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resaerch
-subtitle: asdf
+permalink: "/research"
 ---
 
 My name is Inigo Montoya. I have the following qualities:
