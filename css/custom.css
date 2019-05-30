@@ -46,6 +46,17 @@
     margin-right: 20px;
 }
 
+.index-page .img {
+    width: 175px;
+    /*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    border-radius: 50%;*/
+    float: left;
+    margin-right: 20px;
+}
+
+
 @media only screen and (min-width: 768px) {
     .index-page {
         margin-top: 130px
@@ -62,6 +73,10 @@
     }
 
     .index-page .avatar-img {
+        margin-top: 10px;
+    }
+
+    .index-page .img {
         margin-top: 10px;
     }
 
