@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
+url: "https://www.williamobrochta.net"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -84,7 +84,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +15405256607
+#  telephone: +15405256607
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -103,7 +103,7 @@ url-pretty: "williamobrochta.net"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-141179079-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
