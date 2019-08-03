@@ -4,13 +4,17 @@ title: Publications
 permalink: "/publications"
 ---
 
-* "Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), forthcoming with Springer Verlag.
+* "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_, forthcoming.
 
-  [PDF](/files/CompetitiveAuthoritarianPoliticalSpace.pdf), [Replication Files](/files/CompetitivePoliticalSpace.zip)
+   [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
 
 * "A Meta-Analysis of Natural Resources and Conflict," 2019. _Research and Politcs_ 6(1):1-6.
 
   [Publisher Link (open access)](https://doi.org/10.1177/2053168018818232), [Replication Files](/files/Meta-Analysis_Data_Files.zip)
+
+* "Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.
+
+  [PDF](/files/CompetitiveAuthoritarianPoliticalSpace.pdf), [Replication Files](/files/CompetitivePoliticalSpace.zip)
 
 * "Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. _Caucasus Survey_ 6(1): 18-41.
 
