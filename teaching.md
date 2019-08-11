@@ -17,7 +17,7 @@ I value reflection as a way to process experiences and take feedback into consid
 
 #### Interests
 * Research Design and Methods: [Download syllabus.](/files/ResearchMethods.pdf)
-* Identity and Action
+* Identity and Action: [Download syllabus.](/files/IdentityAndAction.pdf)
 * Introduction to Formal Theory
 * The Politics of Developing Nations
 * Meta-Analysis for Social Scientists
