@@ -4,7 +4,7 @@ title: Publications
 permalink: "/publications"
 ---
 
-* "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_, forthcoming.
+* "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9):405-423.
 
    [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
 

@@ -25,13 +25,14 @@ I value reflection as a way to process experiences and take feedback into consid
 
 
 ## Pedegogy Training
-* **Teaching Citation (expected 2021):** Documented and reflected on three substantial teaching experiences.
+* **Teaching Citation (2019):** Documented and reflected on three substantial teaching experiences.
 * **Graduate, Course Design Institute:** Intensive program with instruction on course design best-practices.
 * **Student, Scholarship of Teaching and Learning Course:** Semester-long interdisciplinary program to learn about SoTL research and begin designing a teaching research project.
 * **Member, Graduate Teaching and Learning Community:** Participate in monthly meetings on a variety of teaching related topics.
 * **Attendee, APSA Teaching and Learning Conference (2018, 2019)**
 
 ## Teaching Related Service
+* **Teaching Political Science Workshop Series (founder, 2019-):** Create and deliver workshops designed to improve pedegogy skills among graduate students.
 * **Washington University Teaching and Professional Development Committee (2018-):** Assess and make recommendations to improve graduate student teaching related training across the University.
 * **Washington University Teaching Center Graduate Student Advisory Council (2017-):** Provide feedback on graduate student teaching programming, host events discussing pedegogy.
 
