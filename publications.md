@@ -4,6 +4,10 @@ title: Publications
 permalink: "/publications"
 ---
 
+* "Ethnic Diversity in Central Government Cabinets," accepted at _Politics, Groups, and Identities_.
+
+	[PDF](/files/EthnicDiversityCabinets.pdf), [Supplemental Information](/files/EthnicDiversitySupplemental.pdf), [Replication Files](/files/EthnicCabinetDiversityDataFiles.zip)
+
 * "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9):405-423.
 
    [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
@@ -31,6 +35,10 @@ permalink: "/publications"
 &nbsp;
 
 #### Other Publications
+
+* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), forthcoming at _PS: Political Science and Politics_.
+
+	[PDF](/files/ResearchMethodsTrack.pdf)
 
 * "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.
 
