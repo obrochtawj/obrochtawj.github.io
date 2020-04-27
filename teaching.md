@@ -10,18 +10,20 @@ I believe that students bring valuable perspectives and interests to political s
 ## Teaching Experience and Interests
 I value reflection as a way to process experiences and take feedback into consideration in order to improve my teaching. [Click here to download my reflections on these teaching experiences.](/files/OBrochtaTeachingReflections.pdf)
 
+* **Representation, Identity, and Dissent (Instructor):** [Download syllabus.](/files/RepresentationIdentityDissent.pdf) Designed an interdisciplinary seminar tying together different types of identity (ethnicity, gender, regional/national, religious) and different forms of action (political representation, protest, separatism, war). Comparative politics course with emphasis on applicability to American politics and public policy. Community engagement component. Students write a research article and conduct public policy-related activities.
 * **Introduction to Comparative Politics (Instructor):** [Download syllabus.](/files/IntroComparative.pdf) Designed course around student involvement in the research process. Incorporated research methods, reflective and formative journal writing, and policy application components into the syllabus. Students engage with published research and focus on writing their own research article through collaborative methods workshops.
 * **Immigration, Identity, and the Internet (Co-Instructor):** [Download syllabus.](/files/ImmigrationIdentityInternet.pdf) Team taught the course with the primary instructor. Re-designed the syllabus and re-structed assessments. Focused the course on improving writing skills and community engagement opportunities.
 * **Research Workshop (Assistant in Instruction):** Mentored graduate students on writing their third year papers. Provided written and verbal feedback on writing style and content. Worked with individual students to encourage growth in their writing and research abilities.
+* **Party Politics (Assistant in Instruction):** Led research article writing workshops for graduate students. Provided written and verbal feedback on writing style and content; mentored students on research ideas.
 * **Political Protest and Violence (Assistant in Instruction):** Instructor for one-third of the classes. Developed formative and summative assessments, created interactive and experiential learning activities for classes when I was not teaching.
 * **Theories of Social Justice (Assistant in Instruction):** Implemented comprehensive advising system to improve student assessment peformance. Mentored individual students on research papers.
 
 #### Interests
-* Research Design and Methods: [Download syllabus.](/files/ResearchMethods.pdf)
-* Identity and Action: [Download syllabus.](/files/IdentityAndAction.pdf)
-* Introduction to Formal Theory
-* The Politics of Developing Nations
-* Meta-Analysis for Social Scientists
+* Research Design and Methods: ([Download syllabus.](/files/ResearchMethods.pdf)) Students write their own research article including data analysis. Emphasizes advanced theory development and research design. Provides an introduction to both qualitative and quantitative research methods.
+* Introduction to Formal Theory: Design complete. Provides an introduction to rational choice and prospect theory with a focus on reading and interpreting simple formal models. Frequent use of simulations and games to make course concepts applicable and relevant. Not a course in mathematics, students will learn how formal theoretic logic can help to explain political phenomena. 
+* The Politics of Developing Nations: Synthesizes a wide literature on developing nations with a focus on both institutions and behavior. Course will challenge students to apply this literature to American public policy problems.
+* Meta-Analysis for Social Scientists: Introduces meta-analysis techniques for social scientists. Students will collaborate with me to conduct a meta-analysis on a topic of their choosing.
+* Experimental Design: Teach basic aspects of designing an experiment and conducting experimental data analysis. Course will be designed around a collaborative effort to conduct an experiment as a class using an online survey panel.
 
 
 
@@ -30,17 +32,36 @@ I value reflection as a way to process experiences and take feedback into consid
 * **Graduate, Course Design Institute:** Intensive program with instruction on course design best-practices.
 * **Student, Scholarship of Teaching and Learning Course:** Semester-long interdisciplinary program to learn about SoTL research and begin designing a teaching research project.
 * **Member, Graduate Teaching and Learning Community:** Participate in monthly meetings on a variety of teaching related topics.
-* **Attendee, APSA Teaching and Learning Conference (2018, 2019)**
+* **Attendee, APSA Teaching and Learning Conference (2018, 2019, 2020)**
 
 ## Teaching Related Service
+* **Washington University Teaching Center Graduate Student Advisory Council (2017-2020):** Provide feedback on graduate student teaching programming, host events discussing pedegogy.
 * **Teaching Political Science Workshop Series (founder, 2019-):** Create and deliver workshops designed to improve pedegogy skills among graduate students.
-* **Washington University Teaching and Professional Development Committee (2018-):** Assess and make recommendations to improve graduate student teaching related training across the University.
-* **Washington University Teaching Center Graduate Student Advisory Council (2017-):** Provide feedback on graduate student teaching programming, host events discussing pedegogy.
+* **Teaching Center Orientation Mentor (2018-present):** Lead new graduate teacher workshop sessions during teaching orientation.
+* **Washinton University Graduate Advisory Council (2018-2019):** Cross-disciplinary group addressing graduate student issues for the graduate school including teaching responsibilities.
+* **Washington University Teaching and Professional Development Committee (2018-2019):** Assess and make recommendations to improve graduate student teaching related training across the University.
+
 
 
 ## Scholarship of Teaching and Learning
-My current research focuses on how well first year students in introductory political science courses can demonstrate research article writing skills. I am assessing this research question via a pre- and post-test design, a quantitative evaluation of rubrics for student work throughout the semester, and a post-semester focus group. I hope that this research can provide recommendations for ways to integrate writing into introductory courses of any size. I am also interested in group collaboration, active learning, and interdisciplinary teaching.
+My SoTL research focuses on making political science applicable and relevant to a broad and diverse group of students. I am currently focusing on two strategies --- research article writing and community engagement --- to achieve these goals.
 
+Students often finish political science courses without feeling like they are a political scientist. They may be introduced to various topics in the discipline, but without actually conducting political science research, students are just observers to the work that political scientists do. I argue that teaching students of any grade level, major, or experience to write a research article is an empowering experience that cultivates student interest in the discipline, creates a shared political scientist identity, and teaches important writing and critical thinking skills.
+
+### Writing a Resaerch Article
+Writing a research article is one of my signature pedagogies. Importantly, I teach and mentor students through the article writing process that we use as political scientists, and the expectation is that students produce a full draft research article suitable for submission to an undergraduate political science journal by the end of the semester.
+
+To evaluate the effectiveness of this approach, I conducted research in my Introduction to Comparative Politics course where students had almost no prior exposure to research article writing. My motivation for choosing this course was two-fold: first, if writing a research article is an empowering force, then the best place to start is in introductory courses in order to get students excited about and invested in political science. Second, by teaching these concepts to mostly inexperienced non-majors and assessing their ability to perform article writing related tasks, I can set-up a pipeline where article writing is taught across different courses and expectations build on each other.
+
+Using a pre- and post-test design coupled with a quantitative evaluation of student writing performance, I found that students in an introductory course can successfully write a research article and do so quite proficiently. Further, student interest in political science, identification as a social scientist, and willingness to work hard to understand political science concepts significantly increased. My goal moving forward is to establish a series of courses where research article writing is taught in order to better prepare students for senior capstone experiences, to improve the quality of student writing, and to provide continuity between courses that encourages and supports students to become political science majors.
+
+
+### Small Scale Community Engagement
+One of the most important parts of teaching the research article writing process is emphasizing the relevance of doing political science research to public policy problems. Along with writing the research article, my students develop policy briefing papers about their research findings and engage in legislative policy simulations that reveal how research can be applied to make improvements to policy. Since I teach comparative politics, many of the relevant, public policy connections we make seem to apply only to countries about which students may be interested, but where they have little personal investment.
+
+To address this issue, I am working on a project to conceptualize and assess how community engagement can be employed in comparative politics courses. Community engagement is critically important for teaching students about diversity and inclusion, for establishing meaningful relationships with public policy practitioners, and for applying student research to generate meaningful community service.  In contrast to the limited existing work on comparative community engagement that emphasizes study abroad trips and extended volunteer placements, I investigate the effectiveness of small community engagement projects at increasing the public policy relevance of comparative politics theories. Small scale community engagement projects are much easier to integrate into existing courses and allow me to design courses that include both research article writing and meaningful community experiences.
+
+I design three types of small scale community engagement experiences ordered in terms of student investment and implementation complexity. For each type, I use pre- and post-test surveys and reflections to assess both students' improved ability to relate comparative politics theories the course and to public policy topics and their understanding of people with different backgrounds and experiences. First, students work alone on four small assignments where they learn about their community. Next, students go into the community and conduct qualitative interviews and compile data for an in-class simulation. Finally, students participate in a whole class project to develop a workshop about representation for local youth from underserved communities.
 
 
 
