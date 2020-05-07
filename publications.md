@@ -4,9 +4,9 @@ title: Publications
 permalink: "/publications"
 ---
 
-* "Ethnic Diversity in Central Government Cabinets," accepted at _Politics, Groups, and Identities_.
+* "Ethnic Diversity in Central Government Cabinets," published at _Politics, Groups, and Identities_.
 
-	[PDF](/files/EthnicDiversityCabinets.pdf), [Supplemental Information](/files/EthnicDiversitySupplemental.pdf), [Replication Files](/files/EthnicCabinetDiversityDataFiles.zip)
+	[Publisher Link](https://doi.org/10.1080/21565503.2020.1756360), [PDF](/files/EthnicDiversityCabinets.pdf), [Supplemental Information](/files/EthnicDiversitySupplemental.pdf), [Replication Files](/files/EthnicCabinetDiversityDataFiles.zip)
 
 * "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9):405-423.
 
