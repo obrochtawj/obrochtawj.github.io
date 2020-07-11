@@ -7,48 +7,38 @@ permalink: "/publications"
 * "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), forthcoming at _British Journal of Political Science_.  
   [PDF](/files/RhetoricRadicalization.pdf), [Supplemental Information](/files/RhetoricRadicalizationSupplemental.pdf), [Replication Files](/files/RhetoricRadicalizationDataFiles.zip)
 
-* "Ethnic Diversity in Central Government Cabinets," published at _Politics, Groups, and Identities_.
-
+* "Ethnic Diversity in Central Government Cabinets," published at _Politics, Groups, and Identities_.  
 	[Publisher Link](https://doi.org/10.1080/21565503.2020.1756360), [PDF](/files/EthnicDiversityCabinets.pdf), [Supplemental Information](/files/EthnicDiversitySupplemental.pdf), [Replication Files](/files/EthnicCabinetDiversityDataFiles.zip)
 
-* "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9):405-423.
-
+* "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9): 405-423.  
    [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
 
-* "A Meta-Analysis of Natural Resources and Conflict," 2019. _Research and Politcs_ 6(1):1-6.
-
+* "A Meta-Analysis of Natural Resources and Conflict," 2019. _Research and Politcs_ 6(1): 1-6.  
   [Publisher Link (open access)](https://doi.org/10.1177/2053168018818232), [Replication Files](/files/Meta-Analysis_Data_Files.zip)
 
-* "Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.
-
+* "Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.  
   [PDF](/files/CompetitiveAuthoritarianPoliticalSpace.pdf), [Replication Files](/files/CompetitivePoliticalSpace.zip)
 
-* "Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. _Caucasus Survey_ 6(1): 18-41.
-
+* "Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. _Caucasus Survey_ 6(1): 18-41.  
   [Publisher Link](https://doi.org/10.1080/23761199.2017.1344028), [PDF](/files/RegionalAutonomyAccepted.pdf), [Supplemental Information](/files/RegionalAutonomySupplemental.pdf)
 
-* "International Tourism's Impact on Regional Autonomy: Evidence from 2004 EU Accession Countries," 2017. _Tourism Economics_ 23(8): 1632-1661.
-
+* "International Tourism's Impact on Regional Autonomy: Evidence from 2004 EU Accession Countries," 2017. _Tourism Economics_ 23(8): 1632-1661.  
   [Publisher Link](https://doi.org/10.1177/1354816617716247), [PDF](/files/TourismAutonomyAccepted.pdf), [Replication Files](/files/TourismRegionalism.zip)
 
-* "Did Natural Resource Wealth Motivate Fighting in the Bosnian War?" 2016. _Journal of International Studies_ 9(1): 27-43.
-
+* "Did Natural Resource Wealth Motivate Fighting in the Bosnian War?" 2016. _Journal of International Studies_ 9(1): 27-43.  
   [PDF](/files/JIS_Vol9_No1_OBrochta.pdf), [Replication Files](/files/BosniaNaturalResources.zip)
 
 &nbsp;
 
 #### Other Publications
 
-* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), forthcoming at _PS: Political Science and Politics_.
-
+* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), forthcoming at _PS: Political Science and Politics_.  
 	[PDF](/files/ResearchMethodsTrack.pdf)
 
-* "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.
-
+* "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.  
   [PDF](/files/UpdatePhytoremediation.pdf)
 
-* "Phytoremediation Comparisons Between _Solanum lysopersicum_ Wild-Type and brt Mutant Using Kelthane Miticide," 2011. _Report of the Tomato Genetics Cooperative_ 61: 5-11.
-
+* "Phytoremediation Comparisons Between _Solanum lysopersicum_ Wild-Type and brt Mutant Using Kelthane Miticide," 2011. _Report of the Tomato Genetics Cooperative_ 61: 5-11.  
   [PDF](/files/PhytoremediationComparisons.pdf)
 
 
