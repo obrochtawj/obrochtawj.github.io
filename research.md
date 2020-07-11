@@ -23,7 +23,7 @@ permalink: "/research"
 
 
 ## Collective Action and Critical Events
-* Is Muslim radicalization a byproduct of low socioeconomic status or identity threat? Survey experiment in Bosnia. (Under Review)
+* Is Muslim radicalization a byproduct of low socioeconomic status or identity threat? Survey experiment in Bosnia. (Published in _British Journal of Political Science_)
 * Are elected and unelected officials differentially responsive to critical events? Newly collected attendance data in the UK. (Under Review)
 * How do country leaders use electoral system change to influence the international community's evaluation of election fraus?
 

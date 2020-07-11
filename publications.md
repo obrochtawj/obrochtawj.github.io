@@ -4,7 +4,7 @@ title: Publications
 permalink: "/publications"
 ---
 
-* "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), forthcoming at _British Journal of Political Science_.
+* "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), forthcoming at _British Journal of Political Science_.  
   [PDF](/files/RhetoricRadicalization.pdf), [Supplemental Information](/files/RhetoricRadicalizationSupplemental.pdf), [Replication Files](/files/RhetoricRadicalizationDataFiles.zip)
 
 * "Ethnic Diversity in Central Government Cabinets," published at _Politics, Groups, and Identities_.
