@@ -32,8 +32,8 @@ permalink: "/publications"
 
 #### Other Publications
 
-* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), forthcoming at _PS: Political Science and Politics_.  
-	[PDF](/files/ResearchMethodsTrack.pdf)
+* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. _PS: Political Science and Politics_ 53(3): 588-590.  
+	[Publisher Link](https://doi.org/10.1017/S1049096520000621), [PDF](/files/ResearchMethodsTrack.pdf)
 
 * "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.  
   [PDF](/files/UpdatePhytoremediation.pdf)
