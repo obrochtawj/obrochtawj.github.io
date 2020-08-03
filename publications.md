@@ -6,6 +6,10 @@ permalink: "/publications"
 
 * "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), forthcoming at _British Journal of Political Science_.  
   [PDF](/files/RhetoricRadicalization.pdf), [Supplemental Information](/files/RhetoricRadicalizationSupplemental.pdf), [Replication Files](/files/RhetoricRadicalizationDataFiles.zip)
+  <details>
+  <summary>Abstract</summary>
+    Does anti-Muslim rhetoric by Western politicians breed radical attitudes among European Muslims? We explore this question by conducting an experimental study in Bosnia -- a European democracy, where, unlike the rest of Europe, Muslims are neither immigrants nor socio-economically disadvantaged. This helps us clearly identify the radicalization potential of Western rhetoric alone, absent contextual factors such as social inferiority. Experimental evidence with Bosnian Muslims from five surveys (with a total _N_=2,608) suggests that rhetorical attacks on Islam by Western politicians do not strengthen individuals’ Muslim identity, cause higher levels of animosity toward the West, or lead to condoning the use of violence. We also find that pro-Muslim rhetoric, while increasing positive views of the West, does not affect individuals’ strength of Muslim identity or their radical sympathies. These results provide important implications for our understanding of sources of radicalization and for efforts to curb radical tendencies.
+  </details> 
 
 * "Ethnic Diversity in Central Government Cabinets," published at _Politics, Groups, and Identities_.  
 	[Publisher Link](https://doi.org/10.1080/21565503.2020.1756360), [PDF](/files/EthnicDiversityCabinets.pdf), [Supplemental Information](/files/EthnicDiversitySupplemental.pdf), [Replication Files](/files/EthnicCabinetDiversityDataFiles.zip)
@@ -13,7 +17,7 @@ permalink: "/publications"
 * "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9): 405-423.  
    [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
 
-* "A Meta-Analysis of Natural Resources and Conflict," 2019. _Research and Politcs_ 6(1): 1-6.  
+* "A Meta-Analysis of Natural Resources and Conflict," 2019. _Research and Politics_ 6(1): 1-6.  
   [Publisher Link (open access)](https://doi.org/10.1177/2053168018818232), [Replication Files](/files/Meta-Analysis_Data_Files.zip)
 
 * "Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.  
