@@ -18,7 +18,8 @@ permalink: "/publications"
   <summary>Abstract</summary>
     Why is there so much variation in the ethnic composition of cabinets? Previous work has focused on cabinet policy alignment, largely overlooking the role of identity-based characteristics like ethnicity. I theorize that country leaders make ethnic cabinet appointments to gain political support, both when country-level ethnic diversity is high and when ethnic groups rely on leader decisions in order to receive resources. Cabinet appointments offer leaders a way to distribute resources while creating a credible commitment to remove these resources if ethnic group support wanes. I introduce a new cross-national time-series dataset of cabinet minister names from 149 countries from 1967 to 2017. Using novel methods from computer science, I code the ethnicity of cabinet ministers’ names and construct a cabinet diversity index for each country-year. After validating this measure, I find support for my hypothesis. Country leaders in reliant societies increase ethnic cabinet appointments seven to twenty-five percent over leaders in non-reliant societies. The results provide the first large scale cross-national analysis of the strategic ways in which leaders use cabinet seats to manage the distribution of resources.
   </details>  
-  
+  <hr style="height:2px; visibility:hidden;" />
+
 
 * "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9): 405-423.  
    [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
