@@ -10,7 +10,7 @@ permalink: "/publications"
   <summary>Abstract</summary>
     Does anti-Muslim rhetoric by Western politicians breed radical attitudes among European Muslims? We explore this question by conducting an experimental study in Bosnia - a European democracy, where, unlike the rest of Europe, Muslims are neither immigrants nor socio-economically disadvantaged. This helps us clearly identify the radicalization potential of Western rhetoric alone, absent contextual factors such as social inferiority. Experimental evidence with Bosnian Muslims from five surveys (with a total N=2,608) suggests that rhetorical attacks on Islam by Western politicians do not strengthen individuals’ Muslim identity, cause higher levels of animosity toward the West, or lead to condoning the use of violence. We also find that pro-Muslim rhetoric, while increasing positive views of the West, does not affect individuals’ strength of Muslim identity or their radical sympathies. These results provide important implications for our understanding of sources of radicalization and for efforts to curb radical tendencies.
   </details>  
-  <br style="line-height: 1px" />
+  <br style="line-height: 2px" />
 
 * "Ethnic Diversity in Central Government Cabinets," published at _Politics, Groups, and Identities_.  
 	[Publisher Link](https://doi.org/10.1080/21565503.2020.1756360), [PDF](/files/EthnicDiversityCabinets.pdf), [Supplemental Information](/files/EthnicDiversitySupplemental.pdf), [Replication Files](/files/EthnicCabinetDiversityDataFiles.zip)
