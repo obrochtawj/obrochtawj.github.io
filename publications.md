@@ -75,6 +75,10 @@ permalink: "/publications"
 * "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. _PS: Political Science and Politics_ 53(3): 588-590.  
 	[Publisher Link](https://doi.org/10.1017/S1049096520000621), [PDF](/files/ResearchMethodsTrack.pdf)
 
+* "Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted with Palgrave Macmillan.
+
+* "Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at _The Political Science Educator_.
+
 * "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.  
   [PDF](/files/UpdatePhytoremediation.pdf)
 
