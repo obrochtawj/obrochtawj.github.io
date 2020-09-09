@@ -27,7 +27,7 @@ permalink: "/research"
   <hr style="height:0.25px; visibility:hidden;" />
 
 
-#Related Projects
+Related Projects
 * What impact do ethnically diverse political elites have on substantive representation?  
   <details>
   <summary>Abstract</summary>
