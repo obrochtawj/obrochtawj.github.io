@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: "/research"
 ---
+Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 ## Dissertation: Citizen and Elite Responses to Ethnic Representation
 * Why is there so much variation in the ethnic composition of cabinets?  [(Published in _Politics, Groups, and Identities_)](https://doi.org/10.1080/01292986.2019.1651883)  
