@@ -18,7 +18,7 @@ I value reflection as a way to process experiences and take feedback into consid
 * **Research Workshop (Assistant in Instruction):** Mentored graduate students on writing their third year papers. Provided written and verbal feedback on writing style and content. Worked with individual students to encourage growth in their writing and research abilities.
 * **Party Politics (Assistant in Instruction):** Led research article writing workshops for graduate students. Provided written and verbal feedback on writing style and content; mentored students on research ideas.
 * **Political Protest and Violence (Assistant in Instruction):** Instructor for one-third of the classes. Developed formative and summative assessments, created interactive and experiential learning activities for classes when I was not teaching.
-* **Theories of Social Justice (Assistant in Instruction):** Implemented comprehensive advising system to improve student assessment peformance. Mentored individual students on research papers.
+* **Theories of Social Justice (Assistant in Instruction):** Implemented comprehensive advising system to improve student assessment performance. Mentored individual students on research papers.
 
 #### Interests
 * **Research Design and Methods:** ([Download syllabus.](/files/ResearchMethods.pdf)) Students write their own research article including data analysis. Emphasizes advanced theory development and research design. Provides an introduction to both qualitative and quantitative research methods.
@@ -29,7 +29,7 @@ I value reflection as a way to process experiences and take feedback into consid
 
 
 
-## Pedegogy Training
+## Pedagogy Training
 * **Teaching Citation (2019):** Documented and reflected on three substantial teaching experiences.
 * **SoTL Scholar Certification (2020):** Implemented a SoTL project, documented and reflected on the experience, and presented the project at the APSA Teaching and Learning conference.
 * **Graduate, Course Design Institute:** Intensive program with instruction on course design best-practices.
@@ -38,10 +38,10 @@ I value reflection as a way to process experiences and take feedback into consid
 * **Attendee, APSA Teaching and Learning Conference (2018, 2019, 2020)**
 
 ## Teaching Related Service
-* **Washington University Teaching Center Graduate Student Advisory Council (2017-2020):** Provide feedback on graduate student teaching programming, host events discussing pedegogy.
-* **Teaching Political Science Workshop Series (founder, 2019-):** Create and deliver workshops designed to improve pedegogy skills among graduate students.
+* **Washington University Teaching Center Graduate Student Advisory Council (2017-2020):** Provide feedback on graduate student teaching programming, host events discussing pedagogy.
+* **Teaching Political Science Workshop Series (founder, 2019-):** Create and deliver workshops designed to improve pedagogy skills among graduate students.
 * **Teaching Center Orientation Mentor (2018-present):** Lead new graduate teacher workshop sessions during teaching orientation.
-* **Washinton University Graduate Advisory Council (2018-2019):** Cross-disciplinary group addressing graduate student issues for the graduate school including teaching responsibilities.
+* **Washington University Graduate Advisory Council (2018-2019):** Cross-disciplinary group addressing graduate student issues for the graduate school including teaching responsibilities.
 * **Washington University Teaching and Professional Development Committee (2018-2019):** Assess and make recommendations to improve graduate student teaching related training across the University.
 
 
@@ -55,7 +55,7 @@ Students often finish political science courses without feeling like they are a 
 
 [Click here for an interview with the Teaching Center about my work.](https://teachingcenter.wustl.edu/2019/10/graduate-student-postdoc-spotlight-with-william-obrochta-from-political-science/)
 
-### Writing a Resaerch Article
+### Writing a Research Article
 Writing a research article is one of my signature pedagogies. Importantly, I teach and mentor students through the article writing process that we use as political scientists, and the expectation is that students produce a full draft research article suitable for submission to an undergraduate political science journal by the end of the semester.
 
 To evaluate the effectiveness of this approach, I conducted research in my Introduction to Comparative Politics course where students had almost no prior exposure to research article writing. My motivation for choosing this course was two-fold: first, if writing a research article is an empowering force, then the best place to start is in introductory courses in order to get students excited about and invested in political science. Second, by teaching these concepts to mostly inexperienced non-majors and assessing their ability to perform article writing related tasks, I can set-up a pipeline where article writing is taught across different courses and expectations build on each other.
