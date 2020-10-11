@@ -24,7 +24,7 @@ I value reflection as a way to process experiences and take feedback into consid
 * **Research Design and Methods:** ([Download syllabus.](/files/ResearchMethods.pdf)) Students write their own research article including data analysis. Emphasizes advanced theory development and research design. Provides an introduction to both qualitative and quantitative research methods.
 * **Introduction to Formal Theory:** Design complete. Provides an introduction to rational choice and prospect theory with a focus on reading and interpreting simple formal models. Frequent use of simulations and games to make course concepts applicable and relevant. Not a course in mathematics, students will learn how formal theoretic logic can help to explain political phenomena. 
 * **The Politics of Developing Nations:** Synthesizes a wide literature on developing nations with a focus on both institutions and behavior. Course will challenge students to apply this literature to American public policy problems.
-* **Meta-Analysis for Social Scientists:** Introduces meta-analysis techniques for social scientists. Students will collaborate with me to conduct a meta-analysis on a topic of their choosing.
+* **Meta-Analysis for Social Scientists:** ([Download syllabus.](/files/DevelopmentMediumClass.pdf)) Introduces meta-analysis techniques for social scientists. Students will collaborate with me to conduct a meta-analysis on a topic of their choosing.
 * **Experimental Design:** Teach basic aspects of designing an experiment and conducting experimental data analysis. Course will be designed around a collaborative effort to conduct an experiment as a class using an online survey panel.
 
 
