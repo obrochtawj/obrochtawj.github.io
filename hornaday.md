@@ -4,7 +4,9 @@ title: Hornaday
 permalink: "/hornaday"
 ---
 
-I serve as the Council William T. Hornaday Awards Coordinator for the Blue Ridge Mountains Council Conservation Committee. I am also the Council Life to Eagle Specialist. I earned my Hornaday Badge, Hornaday Silver Medal, and Hornaday Gold Badge and am an Eagle Scout.
+Please note that the William T. Hornaday Awards have been discontinued and are being replaced by the BSA Distinguished Conservation Service Award. No information is available about the new award requirements; this page will be updated when relevant information is released.
+
+I serve as the Council Distinguished Conservation Service Awards Coordinator for the Blue Ridge Mountains Council Conservation Committee. I earned my Hornaday Badge, Hornaday Silver Medal, and Hornaday Gold Badge and am an Eagle Scout.
 
 This page provides Hornaday related resources that we use in the Blue Ridge Mountains Council. Our Hornaday Guide was the first comprehensive Hornaday documentation available when it was released in 2011. Now in its seventh edition, the BRMC Hornaday Guide is the most widely used source for Hornaday information in the country.
 
