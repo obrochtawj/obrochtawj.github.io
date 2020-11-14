@@ -8,18 +8,13 @@ permalink: "/bsa_conservation_service_awards"
 ![](/bsa/BRMC_CCC_logo.jpg)
 # BSA Distinguished Conservation Service Awards
 
-The BSA Distinguished Conservation Service Awards succeed 
+The BSA Distinguished Conservation Service Awards are the highest conservation-related awards in Scouting. This awards program was developed in 2020 to succeed the William T. Hornaday Awards program. Though there have been important changes to the types of awards available, the expectations for award projects remain virtually unchanged.
 
-
-Please note that the William T. Hornaday Awards have been discontinued and are being replaced by the BSA Distinguished Conservation Service Award. No information is available about the new award requirements; this page will be updated when relevant information is released.
-
-I serve as the Council Distinguished Conservation Service Awards Coordinator for the Blue Ridge Mountains Council Conservation Committee. I earned my Hornaday Badge, Hornaday Silver Medal, and Hornaday Gold Badge and am an Eagle Scout.
-
-This page provides Hornaday related resources that we use in the Blue Ridge Mountains Council. Our Hornaday Guide was the first comprehensive Hornaday documentation available when it was released in 2011. Now in its seventh edition, the BRMC Hornaday Guide is the most widely used source for Hornaday information in the country.
-
-Please contact me at [william@obrochta.net](mailto:william@obrochta.net) if you are interested in learning more about the Hornaday awards or if you would like to start working toward earning an award. I have helped Scouts and Scouters from hundreds of Councils through this process. If you are not sure if someone in your Council advises Hornaday awards, contact me; I am happy to assist you and to help you find the resources you need.
+This website provides resources developed by the Blue Ridge Mountains Council Conservation Committee to help Scouts and Scouters interested in earning or learning more about the BSA Distinguished Conservation Service Awards. Because these awards are new, we will add resources to this site as they are created. The BRMC has extensive experience supporting conservation projects and awards and is happy to help you or your Council transition to this new awards program. I serve as the Council BSA Distinguished Conservation Service Awards Coordinator; please contact me at [william@obrochta.net](mailto:william@obrochta.net) with any questions or if you are interested in learning more about the Awards. If you are not sure if someone in your Council advises these awards, contact me; I am happy to assist you and to help you find the resources you need.
 
 ## Hornaday Guide
+We are actively working to update our Hornaday Guide to fit the requirements for the BSA Distinguished Conservation Service Award. In the meantime, our advice about conducting Award projects remains applicable.
+
 [Click here to download the latest edition of the BRMC Hornaday Guide.](/bsa/BRMCHornadayGuide.pdf) This guide provides step-by-step instructions to help you as you work on a Hornaday award.
 
 The Blue Ridge Mountains Council is pleased to provide some examples of Hornaday project workbooks. Note that these workbooks are from many stages of the Hornaday process and do not necessarily represent workbooks that accompanied submitted Hornaday award applications. Project type, age of the Scout, and scope varied significantly across these projects. 
