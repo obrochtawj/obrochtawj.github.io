@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 
-permalink: "/bsa_conservation_service_awards"
+title: BSA Distinguished Conservation Service Awards
+permalink: "/bsa_distinguished_conservation_service_awards"
 ---
 
 
 ![](/bsa/BRMC_CCC_logo.jpg)
-# BSA Distinguished Conservation Service Awards
 
 The BSA Distinguished Conservation Service Awards are the highest conservation-related awards in Scouting. This awards program was developed in 2020 to succeed the William T. Hornaday Awards program. Though there have been important changes to the types of awards available, the expectations for award projects remain virtually unchanged.
 
