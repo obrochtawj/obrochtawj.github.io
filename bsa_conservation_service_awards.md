@@ -6,8 +6,9 @@ permalink: "/bsa_conservation_service_awards"
 
 
 ![](/bsa/BRMC_CCC_logo.jpg)
+# BSA Distinguished Conservation Service Awards
 
-
+The BSA Distinguished Conservation Service Awards succeed 
 
 
 Please note that the William T. Hornaday Awards have been discontinued and are being replaced by the BSA Distinguished Conservation Service Award. No information is available about the new award requirements; this page will be updated when relevant information is released.
