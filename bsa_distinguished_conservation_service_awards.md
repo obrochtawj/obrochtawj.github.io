@@ -14,7 +14,7 @@ This website provides resources developed by the Blue Ridge Mountains Council Co
 ## BSA Distinguished Conservation Service Awards Guide
 We have released the BRMC Distinguished Conservation Service Awards Guide with advice for Scouts and Councils about fulfilling the requirements for this new award. A comparison of the old Hornaday and new DCS Awards program can be found on page 10 of the BRMC DCS Awards Guide or by [clicking here.](/bsa/HornadayDCSAwardsComparsion.pdf)
 
-[Click here to download the latest edition of the BRMC DCS Awards.](/bsa/BRMCDistinguishedConservationServiceAwardsGuide.pdf) This guide provides step-by-step instructions to help you as you work on a BSA Distinguished Conservation Service Award.
+[Click here to download the latest edition of the BRMC BSA Distinguished Conservation Service Awards Guide.](/bsa/BRMCDistinguishedConservationServiceAwardsGuide.pdf) This guide provides step-by-step instructions to help you as you work on a BSA Distinguished Conservation Service Award.
 
 The Blue Ridge Mountains Council is pleased to provide some examples of DCS Award project workbooks. Note that these workbooks are for the Hornaday Award, though the DCS Awards Worbook is essentially the same. These workbooks are from many stages of the DCS Awards process and do not necessarily represent workbooks that accompanied submitted DCS Awards applications. Project type, age of the Scout, and scope varied significantly across these projects. [Example 1](/bsa/HornadayWorkbook1.pdf), [Example 2](/bsa/HornadayWorkbook2.pdf), [Example 3](/bsa/HornadayWorkbook3.pdf), [Example 4](/bsa/HornadayWorkbook4.pdf), [Example 5](/bsa/OBrochtaHornadayPackage.pdf)
 
