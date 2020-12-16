@@ -4,6 +4,14 @@ title: Publications
 permalink: "/publications"
 ---
 
+* "Technology and Collective Action Event Size: Lessons for India," forthcoming at _Studies in Indian Politics_.  
+  [PDF](/files/TechnologyEventSize.pdf)
+  <details>
+  <summary>Abstract</summary>
+    Events are a form of geographically and temporally focused collective action aimed at making broad social or political claims. Event attendance matters for how much impact the event has, but estimating the number of event attendees is quite difficult. Political scientists have recently developed methods for detecting event size using social media data from technology-based sources. These methods have been used to estimate event size in some contexts, but the Indian case presents special challenges that make using technology-based data to estimate event size particularly difficult. Drawing on fieldwork during the 2019 Citizenship Amendment Act protests in Delhi, I find that strategic choices on behalf of both protesters and the government made estimating event size using technological data quite challenging. I then discuss some ways that event size measurement techniques can be adapted for the Indian context.
+  </details>  
+  <hr style="height:0.25px; visibility:hidden;" />
+
 * "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), forthcoming at _British Journal of Political Science_.  
   [PDF](/files/RhetoricRadicalization.pdf), [Supplemental Information](/files/RhetoricRadicalizationSupplemental.pdf), [Replication Files](/files/RhetoricRadicalizationDataFiles.zip)
   <details>
@@ -19,7 +27,6 @@ permalink: "/publications"
     Why is there so much variation in the ethnic composition of cabinets? Previous work has focused on cabinet policy alignment, largely overlooking the role of identity-based characteristics like ethnicity. I theorize that country leaders make ethnic cabinet appointments to gain political support, both when country-level ethnic diversity is high and when ethnic groups rely on leader decisions in order to receive resources. Cabinet appointments offer leaders a way to distribute resources while creating a credible commitment to remove these resources if ethnic group support wanes. I introduce a new cross-national time-series dataset of cabinet minister names from 149 countries from 1967 to 2017. Using novel methods from computer science, I code the ethnicity of cabinet ministers’ names and construct a cabinet diversity index for each country-year. After validating this measure, I find support for my hypothesis. Country leaders in reliant societies increase ethnic cabinet appointments seven to twenty-five percent over leaders in non-reliant societies. The results provide the first large scale cross-national analysis of the strategic ways in which leaders use cabinet seats to manage the distribution of resources.
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
-
 
 * "Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. _Asian Journal of Communication_ 25(9): 405-423.  
    [Publisher Link](https://doi.org/10.1080/01292986.2019.1651883), [PDF](/files/PickYourLanguageAccepted.pdf), [Supplemental Information](/files/PickYourLanguageSupplemental.pdf), [Replication Files](/files/PickYourLanguageDataFiles.zip)
@@ -72,12 +79,13 @@ permalink: "/publications"
 
 #### Other Publications
 
-* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. _PS: Political Science and Politics_ 53(3): 588-590.  
-	[Publisher Link](https://doi.org/10.1017/S1049096520000621), [PDF](/files/ResearchMethodsTrack.pdf)
-
 * "Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted with Palgrave Macmillan.
 
 * "Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at _The Political Science Educator_.
+  [PDF](/files/PeerTeachingMentoring.pdf)
+
+* "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. _PS: Political Science and Politics_ 53(3): 588-590.  
+  [Publisher Link](https://doi.org/10.1017/S1049096520000621), [PDF](/files/ResearchMethodsTrack.pdf)
 
 * "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.  
   [PDF](/files/UpdatePhytoremediation.pdf)
