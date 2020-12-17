@@ -82,17 +82,17 @@ Related Projects
   </details>  
   <hr style="height:0.25px; visibility:hidden;" /> 
 
+* Are unelected officials differentially responsive to critical events? [(Published in _British Politics_)](https://williamobrochta.net/files/PeersResponsiveness.pdf)
+  <details>
+  <summary>Abstract</summary>
+   What motivates Peers to attend legislative sittings? Sitting attendance is a symbolic way for legislators to show citizens that they are being productive and hence is often explained by electoral motivations that Peers lack. I argue that Peers make decisions to attend sittings when critical events threaten their position in the legislature. Attending at these times --- namely after scandals and House of Lords reform debates --- is an attempt to counteract negative impressions about the House and its members. Other critical events that may impact elected legislators such as terrorist attacks and natural disasters should have no impact on Peers attendance. Using a newly compiled dataset on attendance and critical events, I show that Peers respond by increasing attendance only after House of Lords reform debates in either House; attendance after scandals, natural disasters, and terrorist attacks is unchanged. This suggests that Peers are responsive in only the most urgent cases: when they are in the spotlight and the future of the House is on the line. More broadly, I offer the first empirical investigation of symbolic responsiveness among unelected legislators and show that there are some situations where said legislators feel the need to respond.
+  </details>  
+  <hr style="height:0.25px; visibility:hidden;" />
+
 * How does the public talk about autonomous regions compared to de facto states? (Under Review)
   <details>
   <summary>Abstract</summary>
    Public discourse about autonomous regions and de facto - or unrecognized - states plays an important role in the policies parent states adopt to respond to these entities. I theorize that public discourse about autonomous regions will underscore commonalities with the parent state. Public discourse about de facto states will treat the state as a separate entity. Changes in the relationship between the separatist entity and parent state may also alter public discourse. I employ newspaper data as a measure of public discourse about Adjara and Abkhazia, Georgia. Using sentiment analysis and topic models, I show that public discourse about autonomous regions discusses domestic politics whereas discourse about de facto states emphasizes international relations. This analysis of public discourse offers insights into the ways in which parent state citizens discuss separatist entities and how leaders may wish to steer public discourse about these regions in the future.
-  </details>  
-  <hr style="height:0.25px; visibility:hidden;" />
-
-* Are elected and unelected officials differentially responsive to critical events? (Under Review)
-  <details>
-  <summary>Abstract</summary>
-   What motivates Peers to attend legislative sittings? Sitting attendance is a symbolic way for legislators to show citizens that they are being productive and hence is often explained by electoral motivations that Peers lack. I argue that Peers make decisions to attend sittings when critical events threaten their position in the legislature. Attending at these times - namely after scandals and House of Lords reform debates - is an attempt to counteract negative impressions about the House and its members. Other critical events that may impact elected legislators such as terrorist attacks and natural disasters should have no impact on Peers attendance. Using a newly compiled dataset on attendance and critical events, I show that Peers respond by increasing attendance only after House of Lords reform debates in either House; attendance after scandals, natural disasters, and terrorist attacks is unchanged. This suggests that Peers are responsive in only the most urgent cases: when they are in the spotlight and the future of the House is on the line. More broadly, I offer the first empirical investigation of symbolic responsiveness among unelected legislators and show that there are some situations where said legislators feel the need to respond.
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
@@ -109,6 +109,13 @@ Related Projects
   <details>
   <summary>Abstract</summary>
      Riot reporting is one aspect of newspaper coverage that can drive people into the streets in acts of collective protest or violence. Media observers and scholars have proposed that the language of Indian newspapers, be it English or vernacular, partially dictates the kinds of riot events reported and the quality of those reports. I tested whether this conventional wisdom holds by investigating the content of Indian riot coverage in the English <i>Times of India</i> and Hindu <i>Hindustan</i>. While <i>Hindustan</i> emphasized official statements and interviews with political parties, neither newspaper accurately represented the actual number of riots in their reporting. In fact, coverage in both papers followed predictable patterns likely driven by a new focus on selling newspapers at any cost in order to increase advertising revenue. This study contributes to a growing literature highlighting the similarities between media outlets and the degree to which their reporting is removed from actual events.
+  </details>  
+  <hr style="height:0.25px; visibility:hidden;" />
+
+* Measuring protest event size using social media reports. [(Published in _Studies in Indian Politics_)](https://williamobrochta.net/files/TechnologyEventSize.pdf)
+  <details>
+  <summary>Abstract</summary>
+    Events are a form of geographically and temporally focused collective action aimed at making broad social or political claims. Event attendance matters for how much impact the event has, but estimating the number of event attendees is quite difficult. Political scientists have recently developed methods for detecting event size using social media data from technology-based sources. These methods have been used to estimate event size in some contexts, but the Indian case presents special challenges that make using technology-based data to estimate event size particularly difficult. Drawing on fieldwork during the 2019 Citizenship Amendment Act protests in Delhi, I find that strategic choices on behalf of both protesters and the government made estimating event size using technological data quite challenging. I then discuss some ways that event size measurement techniques can be adapted for the Indian context.
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
@@ -139,9 +146,6 @@ Related Projects
      What can researchers do to address unexpected survey and experimental responses on Amazon Mechanical Turk (MTurk)? Much of the unexpected responses problem has been traced to India, and several survey and technological techniques have been developed to detect foreign workers accessing U.S.-based surveys. We survey Indian MTurkers and find that 26% pass common, survey-based methods of detecting foreign workers. Additionally, 3% of our respondents claim to be located in the United States, implying that these respondents circumvent IP address blocking techniques designed to prevent foreign workers from accessing U.S.-based surveys. Foreign workers have strong monetary incentives for seeking out U.S.-based MTurk tasks. We suggest that restricting respondents to Master Workers and removing the U.S. location requirement is a cost-effective way to more effectively filter out unexpected responses.
   </details>  
   <hr style="height:0.25px; visibility:hidden;" /> 
-
-
-* Measuring protest event size using social media reports.
 
 
 

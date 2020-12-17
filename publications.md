@@ -4,6 +4,14 @@ title: Publications
 permalink: "/publications"
 ---
 
+* "Do Peers Respond? Attendance and Critical Events," forthcoming at _British Politics_.  
+  [PDF](/files/PeersResponsiveness.pdf), [Replication Files](/files/PeersResponsivenessDataFiles.zip)
+  <details>
+  <summary>Abstract</summary>
+    What motivates Peers to attend legislative sittings? Sitting attendance is a symbolic way for legislators to show citizens that they are being productive and hence is often explained by electoral motivations that Peers lack. I argue that Peers make decisions to attend sittings when critical events threaten their position in the legislature. Attending at these times --- namely after scandals and House of Lords reform debates --- is an attempt to counteract negative impressions about the House and its members. Other critical events that may impact elected legislators such as terrorist attacks and natural disasters should have no impact on Peers attendance. Using a newly compiled dataset on attendance and critical events, I show that Peers respond by increasing attendance only after House of Lords reform debates in either House; attendance after scandals, natural disasters, and terrorist attacks is unchanged. This suggests that Peers are responsive in only the most urgent cases: when they are in the spotlight and the future of the House is on the line. More broadly, I offer the first empirical investigation of symbolic responsiveness among unelected legislators and show that there are some situations where said legislators feel the need to respond.
+  </details>  
+  <hr style="height:0.25px; visibility:hidden;" />
+
 * "Technology and Collective Action Event Size: Lessons for India," forthcoming at _Studies in Indian Politics_.  
   [PDF](/files/TechnologyEventSize.pdf)
   <details>
