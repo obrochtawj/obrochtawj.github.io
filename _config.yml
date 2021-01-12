@@ -27,7 +27,7 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Teaching: "teaching"
-  BSA Conservation Service Awards: "bsa_distinguished_conservation_service_awards"
+  Conservation Awards: "bsa_distinguished_conservation_service_awards"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

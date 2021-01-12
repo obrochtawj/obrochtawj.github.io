@@ -4,8 +4,8 @@ title: Publications
 permalink: "/publications"
 ---
 
-* "Do Peers Respond? Attendance and Critical Events," forthcoming at _British Politics_.  
-  [PDF](/files/PeersResponsiveness.pdf), [Replication Files](/files/PeersResponsivenessDataFiles.zip)
+* "Do Peers Respond? Attendance and Critical Events," published at _British Politics_.  
+  [Publisher Link](https://doi.org/10.1057/s41293-020-00154-4), [PDF](/files/PeersResponsiveness.pdf), [Replication Files](/files/PeersResponsivenessDataFiles.zip)
   <details>
   <summary>Abstract</summary>
     What motivates Peers to attend legislative sittings? Sitting attendance is a symbolic way for legislators to show citizens that they are being productive and hence is often explained by electoral motivations that Peers lack. I argue that Peers make decisions to attend sittings when critical events threaten their position in the legislature. Attending at these times --- namely after scandals and House of Lords reform debates --- is an attempt to counteract negative impressions about the House and its members. Other critical events that may impact elected legislators such as terrorist attacks and natural disasters should have no impact on Peers attendance. Using a newly compiled dataset on attendance and critical events, I show that Peers respond by increasing attendance only after House of Lords reform debates in either House; attendance after scandals, natural disasters, and terrorist attacks is unchanged. This suggests that Peers are responsive in only the most urgent cases: when they are in the spotlight and the future of the House is on the line. More broadly, I offer the first empirical investigation of symbolic responsiveness among unelected legislators and show that there are some situations where said legislators feel the need to respond.
@@ -20,8 +20,8 @@ permalink: "/publications"
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
-* "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), forthcoming at _British Journal of Political Science_.  
-  [PDF](/files/RhetoricRadicalization.pdf), [Supplemental Information](/files/RhetoricRadicalizationSupplemental.pdf), [Replication Files](/files/RhetoricRadicalizationDataFiles.zip)
+* "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), published at _British Journal of Political Science_.  
+  [Publisher Link](https://doi.org/10.1017/S0007123420000484), [PDF](/files/RhetoricRadicalization.pdf), [Supplemental Information](/files/RhetoricRadicalizationSupplemental.pdf), [Replication Files](/files/RhetoricRadicalizationDataFiles.zip)
   <details>
   <summary>Abstract</summary>
     Does anti-Muslim rhetoric by Western politicians breed radical attitudes among European Muslims? We explore this question by conducting an experimental study in Bosnia - a European democracy, where, unlike the rest of Europe, Muslims are neither immigrants nor socio-economically disadvantaged. This helps us clearly identify the radicalization potential of Western rhetoric alone, absent contextual factors such as social inferiority. Experimental evidence with Bosnian Muslims from five surveys (with a total N=2,608) suggests that rhetorical attacks on Islam by Western politicians do not strengthen individuals’ Muslim identity, cause higher levels of animosity toward the West, or lead to condoning the use of violence. We also find that pro-Muslim rhetoric, while increasing positive views of the West, does not affect individuals’ strength of Muslim identity or their radical sympathies. These results provide important implications for our understanding of sources of radicalization and for efforts to curb radical tendencies.
