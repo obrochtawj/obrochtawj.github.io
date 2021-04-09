@@ -13,7 +13,7 @@ permalink: "/publications"
   <hr style="height:0.25px; visibility:hidden;" />
 
 * "Technology and Collective Action Event Size: Lessons for India," forthcoming at _Studies in Indian Politics_.  
-  [PDF](/files/TechnologyEventSize.pdf)
+  [PDF](https://doi.org/10.1177/2321023021999231)
   <details>
   <summary>Abstract</summary>
     Events are a form of geographically and temporally focused collective action aimed at making broad social or political claims. Event attendance matters for how much impact the event has, but estimating the number of event attendees is quite difficult. Political scientists have recently developed methods for detecting event size using social media data from technology-based sources. These methods have been used to estimate event size in some contexts, but the Indian case presents special challenges that make using technology-based data to estimate event size particularly difficult. Drawing on fieldwork during the 2019 Citizenship Amendment Act protests in Delhi, I find that strategic choices on behalf of both protesters and the government made estimating event size using technological data quite challenging. I then discuss some ways that event size measurement techniques can be adapted for the Indian context.
