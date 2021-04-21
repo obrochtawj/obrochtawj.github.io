@@ -4,6 +4,14 @@ title: Publications
 permalink: "/publications"
 ---
 
+* "Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at _Research and Politics_.  
+  [PDF](/files/MTurkIndia.pdf), [Replication Files](https://doi.org/10.7910/DVN/KVJMEZ)
+  <details>
+  <summary>Abstract</summary>
+    What can researchers do to address anomalous survey and experimental responses on Amazon Mechanical Turk (MTurk)? Much of the anomalous response problem has been traced to India, and several survey and technological techniques have been developed to detect foreign workers accessing U.S.-specific surveys. We survey Indian MTurkers and find that 26% pass survey questions used to detect foreign workers, and 3% claim to be located in the United States. We show that restricting respondents to Master Workers and removing the U.S. location requirement encourages Indian MTurkers to correctly self-report their location, helping to reduce anomalous responses among U.S. respondents and to improve data quality. Based on these results, we outline key considerations for researchers seeking to maximize data quality while keeping costs low.
+  </details>  
+  <hr style="height:0.25px; visibility:hidden;" />
+
 * "Do Peers Respond? Attendance and Critical Events," published at _British Politics_.  
   [Publisher Link](https://doi.org/10.1057/s41293-020-00154-4), [PDF](/files/PeersResponsiveness.pdf), [Replication Files](/files/PeersResponsivenessDataFiles.zip)
   <details>
@@ -87,7 +95,8 @@ permalink: "/publications"
 
 #### Other Publications
 
-* "Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted with Palgrave Macmillan.
+* "Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at _Handbook of Political Research Pedagogy_ published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).
+  [PDF](/files/ArticlesNotPapers.pdf)
 
 * "Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at _The Political Science Educator_.
   [PDF](/files/PeerTeachingMentoring.pdf)

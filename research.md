@@ -13,14 +13,14 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
-* Can country leaders improve citizens' views of the ethnic outgroup when making political appointments?  (Under Review)
+* Can country leaders improve citizens' views of the ethnic outgroup when making political appointments?  (Revise and Resubmit)
   <details>
   <summary>Abstract</summary>
    Can country leaders improve citizens’ views of the ethnic outgroup by changing the ethnic composition of their government? Years of pressure from the international community calling for leaders to ethnically diversify their governments — particularly cabinets — seems to suggest that ethnic representation is key to improving citizens’ views of the outgroup. I argue that citizens’ views improve when their level of ethnic representation increases. Increased ethnic representation provides perceived benefits to coethnic citizens which lead to a more favorable view of ethnic outgroups. When non- dominant group ethnic representation increases, non-dominant citizens’ views of the outgroup will become more favorable, while dominant citizens’ views will worsen. Using a vignette experiment with ethnic Albanians and Macedonians in North Macedonia, I show that ethnic representation does not provide the improvements in outgroup relations that many have hoped. Both groups’ a↵ect toward and perceptions of the cabinet change somewhat, but changing ethnic representation does not alter overall outgroup attitudes.
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
-* How do political elites respond to ethnic diversity?  
+* How do political elites respond to ethnic diversity?  (Under Review)
   <details>
   <summary>Abstract</summary>
    How do political elites’ views of ethnic outgroups change in response to increased ethnic diversity? Political elites serve critical roles as elected representatives and public figures such that is is not clear whether existing work on the effects of ethnic diversity among citizens can be extended to include elites. I argue that political elites work in a competitive environment wherein increased ethnic diversity promotes ethnic animosity and worsens views of ethnic outgroups. Frequent interethnic contact can serve to counteract this relationship, but its effects may be stifled by rhetorical ethnic cues. Using new data and a survey experiment with local government committee members in India, I show that neither increased committee diversity nor ethnic cues negatively impact elites’ views of the outgroup while interethnic contact improves outgroup views. Increased ethnic diversity is, therefore, a promising avenue for improving views of the outgroup if leaders can encourage interethnic contact between elites.
@@ -105,6 +105,13 @@ Related Projects
 
 
 ## Measurement and Event Data
+* Assessing unexpected responses among Indian Amazon Mechanical Turk respondents. [(Published in _Research and Politics_)](/files/MTurkIndia.pdf)
+  <details>
+  <summary>Abstract</summary>
+     What can researchers do to address anomalous survey and experimental responses on Amazon Mechanical Turk (MTurk)? Much of the anomalous response problem has been traced to India, and several survey and technological techniques have been developed to detect foreign workers accessing U.S.-specific surveys. We survey Indian MTurkers and find that 26% pass survey questions used to detect foreign workers, and 3% claim to be located in the United States. We show that restricting respondents to Master Workers and removing the U.S. location requirement encourages Indian MTurkers to correctly self-report their location, helping to reduce anomalous responses among U.S. respondents and to improve data quality. Based on these results, we outline key considerations for researchers seeking to maximize data quality while keeping costs low.
+  </details>  
+  <hr style="height:0.25px; visibility:hidden;" /> 
+
 * Does the process of collecting news influence how riots are reported? Newspaper text analysis in India. [(Published in _Asian Journal of Communication_)](https://doi.org/10.1080/01292986.2019.1651883)
   <details>
   <summary>Abstract</summary>
@@ -137,13 +144,6 @@ Related Projects
   <details>
   <summary>Abstract</summary>
      Competitive authoritarian regimes are those in which electoral competition is allowed, but elections are not free and fair. Dozens such regimes exist around the world, but their political space is unexplored. We hypothesize that voters in these regimes define political space in two dimensions, where these dimensions are different from those in developing democracies. Using World Values Survey data from Kyrgyzstan in two time periods, we show the development of voter preferences along two dimensions: fondness for tradition and trust of political institutions. We explore why parties faced with this political space do not run on these issues even though their party platforms nominally try to appeal to them. Finally, we argue that these findings extend to regimes of a similar type by mapping political space in Kazakhstan, Georgia, and Hungary. Providing incentives for parties to run on their stated platforms may help institutionalize political competition in competitive authoritarian regimes.
-  </details>  
-  <hr style="height:0.25px; visibility:hidden;" /> 
-
-* Assessing unexpected responses among Indian Amazon Mechanical Turk respondents. (Under Review)
-  <details>
-  <summary>Abstract</summary>
-     What can researchers do to address unexpected survey and experimental responses on Amazon Mechanical Turk (MTurk)? Much of the unexpected responses problem has been traced to India, and several survey and technological techniques have been developed to detect foreign workers accessing U.S.-based surveys. We survey Indian MTurkers and find that 26% pass common, survey-based methods of detecting foreign workers. Additionally, 3% of our respondents claim to be located in the United States, implying that these respondents circumvent IP address blocking techniques designed to prevent foreign workers from accessing U.S.-based surveys. Foreign workers have strong monetary incentives for seeking out U.S.-based MTurk tasks. We suggest that restricting respondents to Master Workers and removing the U.S. location requirement is a cost-effective way to more effectively filter out unexpected responses.
   </details>  
   <hr style="height:0.25px; visibility:hidden;" /> 
 
