@@ -5,7 +5,7 @@ permalink: "/teaching"
 ---
 
 ## Teaching Philosophy
-I believe that students bring valuable perspectives and interests to political science that they can use to engage with research and to further develop interests and skills that will be broadly applicable. My chief goal in the classroom is to help students find how they can contribute to political science research relevant to real world problems and important to their own values and career goals. [Click here to download my teaching philosophy statement.](/files/OBrochta_TPS.pdf)
+I believe that students bring valuable perspectives and interests to political science that they can use to engage with research and to further develop interests and skills that will be broadly applicable. My chief goal in the classroom is to help students find how they can contribute to political science research relevant to real world problems and important to their own values and career goals. [Click here to download my teaching philosophy statement.](/files/OBrochta_Teaching.pdf)
 
 My research investigates core aspects of diversity, equity, and inclusion. As such, I strive to create a collective political scientist identity among students in my courses, empowering students to relate political science to their own lives and to issues they care about, and setting up appropriate support structures for each student. [Click here to download my diversity, equity, and inclusion statement.](/files/OBrochta_Diversity.pdf)
 
