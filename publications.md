@@ -7,7 +7,7 @@ permalink: "/publications"
 Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 <ol reversed>
-<li>"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>. 
+<li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>. 
   <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
 <a href="#mturk" data-toggle="collapse">Abstract</a>
   <div id="mturk" class="collapse">
