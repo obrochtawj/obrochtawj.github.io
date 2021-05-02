@@ -6,7 +6,6 @@ permalink: "/publications"
 
 Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
-<html>
 <ol reversed>
 <li>"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>.  
   <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
@@ -93,14 +92,12 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 <a href="#resources" data-toggle="collapse">Abstract</a>
   <div id="resources" class="collapse">
      The 1992 to 1995 Bosnian War was not a war begun over a conflict for natural resources. Instead, this study hypothesizes that the intensity of fighting during the War was positively influenced by the presence of high levels of natural resource wealth distributed throughout Bosnia. Drawing upon self-coded data for myriad measures of the intensity of fighting and natural resources in a given area of the country, we use multiple regression techniques as well as factor analysis to support the hypothesis and conclude that natural resource wealth was an important factor in influencing the course of the War. Natural resources both strategically deprived the opposing army from adequate land and water during the War and also ensured that high quality natural resource infrastructure and forest resources were available after the War ended. This research is unique in that it examines the importance of natural resources where fighting takes place.
-  </details></li>
+  </div></li>
 
 </ol>
-</html>
 
 #### Other Publications
 
-<html>
 <ol reversed>
 <li>"Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at <i>Handbook of Political Research Pedagogy</i> published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).
   <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a></li>
@@ -112,5 +109,4 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   <a href="https://doi.org/10.1017/S1049096520000621">Publisher Link</a>, <a href="https://williamobrochta.net/files/ResearchMethodsTrack.pdf">PDF</a></li>
 
 </ol>
-</html>
 
