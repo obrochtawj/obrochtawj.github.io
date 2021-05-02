@@ -7,7 +7,7 @@ permalink: "/publications"
 Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>. 
+<li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>.<br> 
   <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
 <a href="#mturk" data-toggle="collapse">Abstract</a>
   <div id="mturk" class="collapse">
@@ -15,7 +15,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li> "Do Peers Respond? Attendance and Critical Events," published at <i>British Politics</i>. 
+<li style="margin-bottom: 10px"> "Do Peers Respond? Attendance and Critical Events," published at <i>British Politics</i>.<br> 
   <a href="https://doi.org/10.1057/s41293-020-00154-4">Publisher Link</a>, <a href="https://williamobrochta.net/files/PeersResponsiveness.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PeersResponsivenessDataFiles.zip">Replication Files</a>, 
 <a href="#peers" data-toggle="collapse">Abstract</a>
   <div id="peers" class="collapse">
@@ -23,7 +23,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li> "Technology and Collective Action Event Size: Lessons for India," published at <i>Studies in Indian Politics</i>. 
+<li style="margin-bottom: 10px"> "Technology and Collective Action Event Size: Lessons for India," published at <i>Studies in Indian Politics</i>.<br> 
   <a href="https://doi.org/10.1177/2321023021999231">Publisher Link</a>, <a href="https://williamobrochta.net/files/TechnologyEventSize.pdf">PDF</a>, 
 <a href="#events" data-toggle="collapse">Abstract</a>
   <div id="events" class="collapse">
@@ -31,7 +31,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li> "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), published at <i>British Journal of Political Science</i>. 
+<li style="margin-bottom: 10px"> "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), published at <i>British Journal of Political Science</i>.<br> 
   <a href="https://doi.org/10.1017/S0007123420000484">Publisher Link</a>, <a href="https://williamobrochta.net/files/RhetoricRadicalization.pdf">PDF</a>, <a href="https://williamobrochta.net/files/RhetoricRadicalizationSupplemental.pdf">Supplemental Information</a>, <a href="https://williamobrochta.net/files/RhetoricRadicalizationDataFiles.zip">Replication Files</a>, 
 <a href="#radicalization" data-toggle="collapse">Abstract</a>
   <div id="radicalization" class="collapse">
@@ -39,7 +39,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li>"Ethnic Diversity in Central Government Cabinets," published at <i>Politics, Groups, and Identities</i>. 
+<li style="margin-bottom: 10px">"Ethnic Diversity in Central Government Cabinets," published at <i>Politics, Groups, and Identities</i>.<br> 
 	<a href="https://doi.org/10.1080/21565503.2020.1756360">Publisher Link</a>, <a href="https://williamobrochta.net/files/EthnicDiversityCabinets.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EthnicDiversitySupplemental.pdf">Supplemental Information</a>, <a href="https://williamobrochta.net/files/EthnicCabinetDiversityDataFiles.zip">Replication Files</a>, 
 <a href="#cabinets" data-toggle="collapse">Abstract</a>
   <div id="cabinets" class="collapse">
@@ -47,7 +47,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li>"Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. <i>Asian Journal of Communication</i> 25(9): 405-423. 
+<li style="margin-bottom: 10px">"Pick Your Language: How Riot Reporting Differs Between English and Hindi Newspapers in India," 2019. <i>Asian Journal of Communication</i> 25(9): 405-423.<br> 
    <a href="https://doi.org/10.1080/01292986.2019.1651883">Publisher Link</a>, <a href="https://williamobrochta.net/files/PickYourLanguageAccepted.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PickYourLanguageSupplemental.pdf">Supplemental Information</a>, <a href="https://williamobrochta.net/files/PickYourLanguageDataFiles.zip">Replication Files</a>, 
 <a href="#hindienglish" data-toggle="collapse">Abstract</a>
   <div id="hindienglish" class="collapse">
@@ -55,7 +55,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li>"A Meta-Analysis of Natural Resources and Conflict," 2019. <i>Research and Politics</i> 6(1): 1-6. 
+<li style="margin-bottom: 10px">"A Meta-Analysis of Natural Resources and Conflict," 2019. <i>Research and Politics</i> 6(1): 1-6.<br> 
   <a href="https://doi.org/10.1177/2053168018818232">Publisher Link (open access)</a>, <a href="https://williamobrochta.net/files/Meta-Analysis_Data_Files.zip">Replication Files</a>, 
 <a href="#metaanalysis" data-toggle="collapse">Abstract</a>
   <div id="metaanalysis" class="collapse">
@@ -63,7 +63,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li>"Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag. 
+<li style="margin-bottom: 10px">"Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.<br> 
   <a href="https://williamobrochta.net/files/CompetitiveAuthoritarianPoliticalSpace.pdf">PDF</a>, <a href="https://williamobrochta.net/files/CompetitivePoliticalSpace.zip">Replication Files</a>, 
 <a href="#proforma" data-toggle="collapse">Abstract</a>
   <div id="proforma" class="collapse">
@@ -71,7 +71,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>  
 
 
-<li>"Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. <i>Caucasus Survey</i> 6(1): 18-41. 
+<li style="margin-bottom: 10px">"Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. <i>Caucasus Survey</i> 6(1): 18-41.<br> 
   <a href="https://doi.org/10.1080/23761199.2017.1344028">Publisher Link</a>, <a href="https://williamobrochta.net/files/RegionalAutonomyAccepted.pdf">PDF</a>, <a href="https://williamobrochta.net/files/RegionalAutonomySupplemental.pdf">Supplemental Information</a>, 
 <a href="#adjara" data-toggle="collapse">Abstract</a>
   <div id="adjara" class="collapse">
@@ -79,7 +79,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li> 
 
 
-<li>"International Tourism's Impact on Regional Autonomy: Evidence from 2004 EU Accession Countries," 2017. <i>Tourism Economics</i> 23(8): 1632-1661. 
+<li style="margin-bottom: 10px">"International Tourism's Impact on Regional Autonomy: Evidence from 2004 EU Accession Countries," 2017. <i>Tourism Economics</i> 23(8): 1632-1661.<br> 
   <a href="https://doi.org/10.1177/1354816617716247">Publisher Link</a>, <a href="https://williamobrochta.net/files/TourismAutonomyAccepted.pdf">PDF</a>, <a href="https://williamobrochta.net/files/TourismRegionalism.zip">Replication Files</a>, 
 <a href="#tourism" data-toggle="collapse">Abstract</a>
   <div id="tourism" class="collapse">
@@ -87,7 +87,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li> 
 
 
-<li>"Did Natural Resource Wealth Motivate Fighting in the Bosnian War?" 2016. <i>Journal of International Studies</i> 9(1): 27-43. 
+<li style="margin-bottom: 10px">"Did Natural Resource Wealth Motivate Fighting in the Bosnian War?" 2016. <i>Journal of International Studies</i> 9(1): 27-43.<br> 
   <a href="https://williamobrochta.net/files/JIS_Vol9_No1_OBrochta.pdf">PDF</a>, <a href="https://williamobrochta.net/files/BosniaNaturalResources.zip">Replication Files</a>, 
 <a href="#resources" data-toggle="collapse">Abstract</a>
   <div id="resources" class="collapse">
@@ -101,14 +101,14 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 #### Other Publications
 
 <ol reversed>
-<li>"Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at <i>Handbook of Political Research Pedagogy</i> published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).
+<li style="margin-bottom: 10px">"Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at <i>Handbook of Political Research Pedagogy</i> published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).<br>
  <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a></li>
 
-<li>"Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at <i>The Political Science Educator</i>. 
+<li style="margin-bottom: 10px">"Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at <i>The Political Science Educator</i>.<br> 
   <a href="https://williamobrochta.net/files/PeerTeachingMentoring.pdf">PDF</a></li>
 
 
-<li>"Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. <i>PS: Political Science and Politics</i> 53(3): 588-590. 
+<li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. <i>PS: Political Science and Politics</i> 53(3): 588-590.<br> 
   <a href="https://doi.org/10.1017/S1049096520000621">Publisher Link</a>, <a href="https://williamobrochta.net/files/ResearchMethodsTrack.pdf">PDF</a></li>
 
 </ol>
