@@ -96,7 +96,6 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 </ol>
 
-&nbsp;
 
 #### Other Publications
 
