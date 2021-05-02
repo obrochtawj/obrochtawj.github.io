@@ -96,7 +96,7 @@ Related Projects
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
-* How do country leaders use electoral system change to influence the international community's evaluation of election fraud? (Under Review)
+* How do country leaders use electoral system change to influence the international community's evaluation of election fraud? (Revise and Resubmit)
   <details>
   <summary>Abstract</summary>
    What prompts leaders in post-Communist states to alter electoral system proportionality? We propose that the international community rewards leaders for increasing proportionality. Our formal model characterizes leaders as either truly interested in democratic reforms or pseudo-reformers, who increase proportionality to receive international community benefits while engaging in electoral fraud. We hypothesize that the international community will be more (less) likely to detect fraud when leaders decrease (increase) proportionality regardless of whether fraud actually occurs. We first test our hypotheses in Ukraine, finding that fraud occurs, but that the international community is less likely to detect fraud following an increase in proportionality and vice versa. Using cross-national data from 20 Eastern European countries, we find again that decreased proportionality is associated with more fraud reports. We suggest that the international community relies too heavily on proportionality as a signal of election quality, frequently missing fraud in more proportional systems.

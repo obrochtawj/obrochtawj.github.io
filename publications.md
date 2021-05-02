@@ -20,8 +20,8 @@ permalink: "/publications"
   </details>  
   <hr style="height:0.25px; visibility:hidden;" />
 
-* "Technology and Collective Action Event Size: Lessons for India," forthcoming at _Studies in Indian Politics_.  
-  [PDF](https://doi.org/10.1177/2321023021999231)
+* "Technology and Collective Action Event Size: Lessons for India," published at _Studies in Indian Politics_.  
+  [Publisher Link](https://doi.org/10.1177/2321023021999231), [PDF](/files/TechnologyEventSize.pdf)
   <details>
   <summary>Abstract</summary>
     Events are a form of geographically and temporally focused collective action aimed at making broad social or political claims. Event attendance matters for how much impact the event has, but estimating the number of event attendees is quite difficult. Political scientists have recently developed methods for detecting event size using social media data from technology-based sources. These methods have been used to estimate event size in some contexts, but the Indian case presents special challenges that make using technology-based data to estimate event size particularly difficult. Drawing on fieldwork during the 2019 Citizenship Amendment Act protests in Delhi, I find that strategic choices on behalf of both protesters and the government made estimating event size using technological data quite challenging. I then discuss some ways that event size measurement techniques can be adapted for the Indian context.
@@ -103,11 +103,11 @@ permalink: "/publications"
 
 * "Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. _PS: Political Science and Politics_ 53(3): 588-590.  
   [Publisher Link](https://doi.org/10.1017/S1049096520000621), [PDF](/files/ResearchMethodsTrack.pdf)
-
+<!-- 
 * "Update in the Use of brt Mutant Tomato Plants for DDT Phytoremediation," 2012. _Report of the Tomato Genetics Cooperative_ 62: 23-24.  
   [PDF](/files/UpdatePhytoremediation.pdf)
 
 * "Phytoremediation Comparisons Between _Solanum lysopersicum_ Wild-Type and brt Mutant Using Kelthane Miticide," 2011. _Report of the Tomato Genetics Cooperative_ 61: 5-11.  
-  [PDF](/files/PhytoremediationComparisons.pdf)
+  [PDF](/files/PhytoremediationComparisons.pdf) -->
 
 
