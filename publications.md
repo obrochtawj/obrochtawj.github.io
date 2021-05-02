@@ -8,15 +8,15 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 <ol reversed>
 <li>"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>.  
-  <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>
-<a href="#uii" data-toggle="collapse">[Abstract]</a>
-  <div id="uii" class="collapse">
+  <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a><br>
+<a href="#mturk" data-toggle="collapse">[Abstract]</a>
+  <div id="mturk" class="collapse">
     What can researchers do to address anomalous survey and experimental responses on Amazon Mechanical Turk (MTurk)? Much of the anomalous response problem has been traced to India, and several survey and technological techniques have been developed to detect foreign workers accessing U.S.-specific surveys. We survey Indian MTurkers and find that 26% pass survey questions used to detect foreign workers, and 3% claim to be located in the United States. We show that restricting respondents to Master Workers and removing the U.S. location requirement encourages Indian MTurkers to correctly self-report their location, helping to reduce anomalous responses among U.S. respondents and to improve data quality. Based on these results, we outline key considerations for researchers seeking to maximize data quality while keeping costs low.
   </div>
   <hr style="height:0.25px; visibility:hidden;" /></li>
 
 <li> "Do Peers Respond? Attendance and Critical Events," published at _British Politics_.  
-  [Publisher Link](https://doi.org/10.1057/s41293-020-00154-4), [PDF](/files/PeersResponsiveness.pdf), [Replication Files](/files/PeersResponsivenessDataFiles.zip)
+  <a href="https://doi.org/10.1057/s41293-020-00154-4">Publisher Link</a>, <a href="https://williamobrochta.net/files/PeersResponsiveness.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PeersResponsivenessDataFiles.zip">Replication Files</a>
   <details>
   <summary>Abstract</summary>
     What motivates Peers to attend legislative sittings? Sitting attendance is a symbolic way for legislators to show citizens that they are being productive and hence is often explained by electoral motivations that Peers lack. I argue that Peers make decisions to attend sittings when critical events threaten their position in the legislature. Attending at these times --- namely after scandals and House of Lords reform debates --- is an attempt to counteract negative impressions about the House and its members. Other critical events that may impact elected legislators such as terrorist attacks and natural disasters should have no impact on Peers attendance. Using a newly compiled dataset on attendance and critical events, I show that Peers respond by increasing attendance only after House of Lords reform debates in either House; attendance after scandals, natural disasters, and terrorist attacks is unchanged. This suggests that Peers are responsive in only the most urgent cases: when they are in the spotlight and the future of the House is on the line. More broadly, I offer the first empirical investigation of symbolic responsiveness among unelected legislators and show that there are some situations where said legislators feel the need to respond.
