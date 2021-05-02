@@ -96,14 +96,14 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 </ol>
 
-
+<br>
 
 #### Other Publications
 
 <ol reversed>
 <li>"Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at <i>Handbook of Political Research Pedagogy</i> published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).<br>
-  <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a></li>
-
+  <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a></li><br>
+<br>
 
 <li>"Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at <i>The Political Science Educator</i>.<br>
   <a href="https://williamobrochta.net/files/PeerTeachingMentoring.pdf">PDF</a></li>
