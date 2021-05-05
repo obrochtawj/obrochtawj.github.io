@@ -7,6 +7,14 @@ permalink: "/publications"
 Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Citizen Responses to Ethnic Representation," published at <i>Political Studies</i>.<br> 
+  <a href="https://williamobrochta.net//files/CitizenResponses.pdf">PDF</a>, <a href="https://williamobrochta.net//files/CitizenResponsesReplication.zip">Replication Files</a>, 
+<a href="#citizenresponses" data-toggle="collapse">Abstract</a>
+  <div id="citizenresponses" class="collapse">
+    Can country leaders improve citizens' ethnic outgroup views by changing ethnic representation in government? Years of pressure from the international community calling for leaders to make particularly their cabinets more ethnically representative seems to suggest that ethnic representation — conceptualized as descriptive and substantive representation and ministerial cooperation — is key to improving citizens' outgroup views. I argue that increasing ethnic representation influences majority and minority citizens differently: minority citizens' outgroup views will become more favorable, while majority citizens' views will worsen. Using a pre-registered vignette experiment with ethnic Albanians and Macedonians in North Macedonia, I show that ethnic representation does not provide the improvements in outgroup relations that many have hoped. Both groups' affect toward and perceptions of the cabinet change somewhat, but increasing ethnic representation does not improve overall outgroup attitudes. These results suggest that ethnic representation alone does not lead to more productive interethnic relationships.
+  </div></li>
+
+
 <li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>.<br> 
   <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
 <a href="#mturk" data-toggle="collapse">Abstract</a>
