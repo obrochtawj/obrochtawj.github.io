@@ -16,7 +16,7 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
 
 
 <li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>.<br> 
-  <a href="https://williamobrochta.net//files/MTurkIndia.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
+  <a href="https://doi.org/10.1177/20531680211016971">Publisher Link (open access)</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
 <a href="#mturk" data-toggle="collapse">Abstract</a>
   <div id="mturk" class="collapse">
     What can researchers do to address anomalous survey and experimental responses on Amazon Mechanical Turk (MTurk)? Much of the anomalous response problem has been traced to India, and several survey and technological techniques have been developed to detect foreign workers accessing U.S.-specific surveys. We survey Indian MTurkers and find that 26% pass survey questions used to detect foreign workers, and 3% claim to be located in the United States. We show that restricting respondents to Master Workers and removing the U.S. location requirement encourages Indian MTurkers to correctly self-report their location, helping to reduce anomalous responses among U.S. respondents and to improve data quality. Based on these results, we outline key considerations for researchers seeking to maximize data quality while keeping costs low.
