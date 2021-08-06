@@ -71,12 +71,12 @@ Read my research statement [(click here)](/files/OBrochta_Research.pdf).
   </div></li>
 
 
-<li style="margin-bottom: 10px">"Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.<br> 
+<!-- <li style="margin-bottom: 10px">"Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.<br> 
   <a href="https://williamobrochta.net/files/CompetitiveAuthoritarianPoliticalSpace.pdf">PDF</a>, <a href="https://williamobrochta.net/files/CompetitivePoliticalSpace.zip">Replication Files</a>, 
 <a href="#proforma" data-toggle="collapse">Abstract</a>
   <div id="proforma" class="collapse">
      Competitive authoritarian regimes are those in which electoral competition is allowed, but elections are not free and fair. Dozens such regimes exist around the world, but their political space is unexplored. We hypothesize that voters in these regimes define political space in two dimensions, where these dimensions are different from those in developing democracies. Using World Values Survey data from Kyrgyzstan in two time periods, we show the development of voter preferences along two dimensions: fondness for tradition and trust of political institutions. We explore why parties faced with this political space do not run on these issues even though their party platforms nominally try to appeal to them. Finally, we argue that these findings extend to regimes of a similar type by mapping political space in Kazakhstan, Georgia, and Hungary. Providing incentives for parties to run on their stated platforms may help institutionalize political competition in competitive authoritarian regimes.
-  </div></li>  
+  </div></li>   -->
 
 
 <li style="margin-bottom: 10px">"Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. <i>Caucasus Survey</i> 6(1): 18-41.<br> 
