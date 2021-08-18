@@ -4,11 +4,25 @@ title: Publications
 permalink: "/publications"
 ---
 
-Read my research statement [(click here)](/files/OBrochta_Research.pdf).
+<!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Signaling Democratic Progress Through Electoral System Reform in Post-Communist States" (with Patrick Cunha Silva), published at <i>Political Resarch Quarterly</i>.<br> 
+  <!-- <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/Signaling.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SignalingReplicationFiles.zip">Replication Files</a>, 
+<a href="#signaling" data-toggle="collapse">Abstract</a>
+  <div id="signaling" class="collapse">
+    The international community invests heavily in democracy promotion, but these efforts sometimes embolden leaders not interested in true democratic reform. We develop and test a formal model explaining why this occurs in the context of electoral system reform --- one of the most important signals of democratic quality. Our formal model characterizes leaders as either truly reform minded or pseudo-reformers, those who increase electoral system proportionality in order to receive international community benefits while engaging in electoral fraud. We hypothesize that the international community will be more (less) likely to detect fraud when leaders decrease (increase) proportionality, regardless of whether there is evidence of numerical fraud. Using a mixed-methods approach with cross-national and case study data from post-Communist states, we find that the international community is generally less likely to detect fraud following an increase in proportionality and vice versa. We suggest that democracy promoters over-reward perceived democratic progress such that pseudo-reformers often benefit.
+  </div></li>
+
+<li style="margin-bottom: 10px">"Small-Scale Civic Engagement with Big Impacts," published at <i>PS: Political Science and Politics</i>.<br> 
+  <!-- <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/SmallCivicEngagement.pdf">PDF</a>, 
+<a href="#smallcivicengagement" data-toggle="collapse">Abstract</a>
+  <div id="smallcivicengagement" class="collapse">
+    I describe a series of small-scale civic engagement activities applicable across subfields, versions of which can be relatively easily integrated into existing course designs without requiring extensive additional time or resources. These activities focus on local community engagement as a way to help students to more effectively relate political science topics to community issues, to develop tools to solve common public policy problems, and to increase their understanding of individuals with different backgrounds and life experiences. This article is intended to provide a jumping off point for instructors beginning to teach civic engagement, while simultaneously helping them avoid common pitfalls associated with short-term civic engagement projects.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Citizen Responses to Ethnic Representation," published at <i>Political Studies</i>.<br> 
-  <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>, <a href="https://williamobrochta.net//files/CitizenResponses.pdf">PDF</a>, <a href="https://williamobrochta.net//files/CitizenResponsesReplication.zip">Replication Files</a>, 
+  <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>, <a href="https://williamobrochta.net/files/CitizenResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/CitizenResponsesReplication.zip">Replication Files</a>, 
 <a href="#citizenresponses" data-toggle="collapse">Abstract</a>
   <div id="citizenresponses" class="collapse">
     Can country leaders improve citizens' ethnic outgroup views by changing ethnic representation in government? Years of pressure from the international community calling for leaders to make particularly their cabinets more ethnically representative seems to suggest that ethnic representation — conceptualized as descriptive and substantive representation and ministerial cooperation — is key to improving citizens' outgroup views. I argue that increasing ethnic representation influences majority and minority citizens differently: minority citizens' outgroup views will become more favorable, while majority citizens' views will worsen. Using a pre-registered vignette experiment with ethnic Albanians and Macedonians in North Macedonia, I show that ethnic representation does not provide the improvements in outgroup relations that many have hoped. Both groups' affect toward and perceptions of the cabinet change somewhat, but increasing ethnic representation does not improve overall outgroup attitudes. These results suggest that ethnic representation alone does not lead to more productive interethnic relationships.
