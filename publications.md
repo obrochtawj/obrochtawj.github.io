@@ -126,7 +126,7 @@ permalink: "/publications"
 <li style="margin-bottom: 10px">"Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at <i>Handbook of Political Research Pedagogy</i> published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).<br>
  <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a></li>
 
-<li style="margin-bottom: 10px">"Graduate Student Peer Teaching Mentoring" (with Bryant Moy), accepted at <i>The Political Science Educator</i>.<br> 
+<li style="margin-bottom: 10px">"Department-Level Graduate Student Peer Teaching Workshops" (with Bryant Moy), 2021. <i>The Political Science Educator</i> 25(1): 6-8.<br> 
   <a href="https://williamobrochta.net/files/PeerTeachingMentoring.pdf">PDF</a></li>
 
 
