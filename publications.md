@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Completing the Research Article Writing Process in an Introductory Course," published at <i>Journal of Political Science Education</i>.<br> 
+  <!-- <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/IntroWriting.pdf">PDF</a>, <a href="https://williamobrochta.net/files/WritingReplicationFiles.zip">Replication Files</a>, 
+<a href="#introwriting" data-toggle="collapse">Abstract</a>
+  <div id="introwriting" class="collapse">
+    How well can students exposed to political science for the first time work through the research article writing process? Previous research has introduced selected research article writing skills to students in introductory courses, but has not studied whether students in such courses can complete the entire process of writing and revising a research article. I re-designed an Introduction to Comparative Politics course based on the research article writing process. I hypothesized that students would make major gains in article writing skills and develop a proficient ability to write each research article component. Using a pre- and post-test design along with rubrics for each part of the research article, I found support for my hypotheses. Students reported large increases in confidence and ability to handle research article writing tasks as a result of the course and demonstrated proficiency on more than two-thirds of rubric items. These results suggest that research article writing tasks are appropriate for students in introductory courses and that their presence can help effectively introduce students to the discipline. I also provide suggestions for ways to implement parts of this course design in traditional, large introductory course settings.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Signaling Democratic Progress Through Electoral System Reform in Post-Communist States" (with Patrick Cunha Silva), published at <i>Political Resarch Quarterly</i>.<br> 
   <!-- <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/Signaling.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SignalingReplicationFiles.zip">Replication Files</a>, 
 <a href="#signaling" data-toggle="collapse">Abstract</a>
