@@ -130,8 +130,11 @@ permalink: "/publications"
 #### Other Publications
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Research Articles, Not Research Papers: Empowering Students Through Research Writing," accepted at <i>Handbook of Political Research Pedagogy</i> published by Palgrave Macmillan (Daniel Mallison, Julia Marin Hellwege, and Eric Loepp, eds.).<br>
- <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a></li>
+<li style="margin-bottom: 10px">"Research Articles, Not Research Papers: Empowering Students Through Research Writing," 2021, In Daniel Mallison, Julia Marin Hellwege, and Eric Loepp (eds.) <i>Handbook of Political Research Pedagogy</i> Cham, Switzerland: Palgrave Macmillan, 367-378.<br>
+ <a href="https://link.springer.com/chapter/10.1007/978-3-030-76955-0_31">Publisher Link</a>, <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a>, <a href="#articlesnotpapers" data-toggle="collapse">Abstract</a>
+  <div id="articlesnotpapers" class="collapse">
+     Both students and instructors are frequently frustrated by research paper assignments because they involve only part of the research article writing process. I argue that integrating the entire article writing process into a course empowers students to work as political scientists, makes the discipline relevant, provides critical writing skills, and improves classroom climate. I discuss my journey developing courses based on the research article writing process, describing strengths and weaknesses of this approach. Additionally, I highlight research-based simulations as a key component of article writing that helps students understand the importance of political science. I encourage instructors to embrace the shift in thinking associated with teaching the research article writing process, the results of which substantially benefit students.
+  </div></li>
 
 <li style="margin-bottom: 10px">"Department-Level Graduate Student Peer Teaching Workshops" (with Bryant Moy), 2021. <i>The Political Science Educator</i> 25(1): 6-8.<br> 
   <a href="https://williamobrochta.net/files/PeerTeachingMentoring.pdf">PDF</a></li>
