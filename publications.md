@@ -8,7 +8,7 @@ permalink: "/publications"
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Completing the Research Article Writing Process in an Introductory Course," published at <i>Journal of Political Science Education</i>.<br> 
-  <!-- <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/IntroWriting.pdf">PDF</a>, <a href="https://williamobrochta.net/files/IntroWritingReplicationFiles.zip">Replication Files</a>, 
+  <a href="https://doi.org/10.1080/15512169.2021.2002697">Publisher Link</a>,  <a href="https://williamobrochta.net/files/IntroWriting.pdf">PDF</a>, <a href="https://williamobrochta.net/files/IntroWritingReplicationFiles.zip">Replication Files</a>, 
 <a href="#introwriting" data-toggle="collapse">Abstract</a>
   <div id="introwriting" class="collapse">
     How well can students exposed to political science for the first time work through the research article writing process? Previous research has introduced selected research article writing skills to students in introductory courses, but has not studied whether students in such courses can complete the entire process of writing and revising a research article. I re-designed an Introduction to Comparative Politics course based on the research article writing process. I hypothesized that students would make major gains in article writing skills and develop a proficient ability to write each research article component. Using a pre- and post-test design along with rubrics for each part of the research article, I found support for my hypotheses. Students reported large increases in confidence and ability to handle research article writing tasks as a result of the course and demonstrated proficiency on more than two-thirds of rubric items. These results suggest that research article writing tasks are appropriate for students in introductory courses and that their presence can help effectively introduce students to the discipline. I also provide suggestions for ways to implement parts of this course design in traditional, large introductory course settings.
@@ -36,7 +36,7 @@ permalink: "/publications"
   </div></li>
 
 
-<li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), published at <i>Research and Politics</i>.<br> 
+<li style="margin-bottom: 10px">"Anomalous Responses on Amazon Mechanical Turk: An Indian Perspective" (with Sunita Parikh), 2021. <i>Research and Politics</i> 8(2): 1-4.<br> 
   <a href="https://doi.org/10.1177/20531680211016971">Publisher Link (open access)</a>, <a href="https://doi.org/10.7910/DVN/KVJMEZ">Replication Files</a>, 
 <a href="#mturk" data-toggle="collapse">Abstract</a>
   <div id="mturk" class="collapse">
@@ -44,7 +44,7 @@ permalink: "/publications"
   </div></li>
 
 
-<li style="margin-bottom: 10px"> "Do Peers Respond? Attendance and Critical Events," published at <i>British Politics</i>.<br> 
+<li style="margin-bottom: 10px"> "Do Peers Respond? Attendance and Critical Events," 2021. <i>British Politics</i> 16(4): 456-468.<br> 
   <a href="https://doi.org/10.1057/s41293-020-00154-4">Publisher Link</a>, <a href="https://williamobrochta.net/files/PeersResponsiveness.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PeersResponsivenessDataFiles.zip">Replication Files</a>, 
 <a href="#peers" data-toggle="collapse">Abstract</a>
   <div id="peers" class="collapse">
@@ -52,7 +52,7 @@ permalink: "/publications"
   </div></li>
 
 
-<li style="margin-bottom: 10px"> "Technology and Collective Action Event Size: Lessons for India," published at <i>Studies in Indian Politics</i>.<br> 
+<li style="margin-bottom: 10px"> "Technology and Collective Action Event Size: Lessons for India," 2021. <i>Studies in Indian Politics</i> 9(1): 118-123.<br> 
   <a href="https://doi.org/10.1177/2321023021999231">Publisher Link</a>, <a href="https://williamobrochta.net/files/TechnologyEventSize.pdf">PDF</a>, 
 <a href="#events" data-toggle="collapse">Abstract</a>
   <div id="events" class="collapse">
@@ -130,7 +130,9 @@ permalink: "/publications"
 #### Other Publications
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Research Articles, Not Research Papers: Empowering Students Through Research Writing," 2021, In Daniel Mallison, Julia Marin Hellwege, and Eric Loepp (eds.) <i>Handbook of Political Research Pedagogy</i> Cham, Switzerland: Palgrave Macmillan, 367-378.<br>
+<li style="margin-bottom: 10px">"You have an Academic Job Offer...Now What? Negotiating Advice from Two Perspectives" (with Lori Poloni-Staudinger), 2022. In Kevin Lorenz II, Daniel Mallison, Julia Marin Hellwege, Davin Phoenix, and J. Cherie Strachan (eds.) <i>Strategies for Navigating Graduate School and Beyond</i> Washington, D.C.: American Political Science Association.<br> 
+
+<li style="margin-bottom: 10px">"Research Articles, Not Research Papers: Empowering Students Through Research Writing," 2021. In Daniel Mallison, Julia Marin Hellwege, and Eric Loepp (eds.) <i>Handbook of Political Research Pedagogy</i> Cham, Switzerland: Palgrave Macmillan, 367-378.<br>
  <a href="https://link.springer.com/chapter/10.1007/978-3-030-76955-0_31">Publisher Link</a>, <a href="https://williamobrochta.net/files/ArticlesNotPapers.pdf">PDF</a>, <a href="#articlesnotpapers" data-toggle="collapse">Abstract</a>
   <div id="articlesnotpapers" class="collapse">
      Both students and instructors are frequently frustrated by research paper assignments because they involve only part of the research article writing process. I argue that integrating the entire article writing process into a course empowers students to work as political scientists, makes the discipline relevant, provides critical writing skills, and improves classroom climate. I discuss my journey developing courses based on the research article writing process, describing strengths and weaknesses of this approach. Additionally, I highlight research-based simulations as a key component of article writing that helps students understand the importance of political science. I encourage instructors to embrace the shift in thinking associated with teaching the research article writing process, the results of which substantially benefit students.

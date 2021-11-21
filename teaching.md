@@ -9,23 +9,20 @@ I believe that students bring valuable perspectives and interests to political s
 
 My research investigates core aspects of diversity, equity, and inclusion. As such, I strive to create a collective political scientist identity among students in my courses, empowering students to relate political science to their own lives and to issues they care about, and setting up appropriate support structures for each student. [Click here to download my diversity, equity, and inclusion statement.](/files/OBrochta_Diversity.pdf)
 
-## Teaching Experience and Interests
-I value reflection as a way to process experiences and take feedback into consideration in order to improve my teaching. [Click here to download my teaching portfolio.](/files/OBrochtaTeachingPortfolio.pdf) [Click here to download my reflections on these teaching experiences.](/files/OBrochtaTeachingReflections.pdf)
+## Teaching Experience
+<!-- I value reflection as a way to process experiences and take feedback into consideration in order to improve my teaching. [Click here to download my teaching portfolio.](/files/OBrochtaTeachingPortfolio.pdf) [Click here to download my reflections on these teaching experiences.](/files/OBrochtaTeachingReflections.pdf) -->
 
 <!-- * **Countries That Are Growing --- Development and Stability (Instructor, Anticipated):** [Download syllabus.](/files/DevelopmentMediumClass.pdf) Synthesizes a wide literature on developing nations with a focus on both institutions and behavior, including IR perspectives and American public policy. Considers intersection with conflict and security studies. -->
-* **Representation, Identity, and Dissent (Instructor):** [Download syllabus.](/files/RepresentationIdentityDissent.pdf) Designed an interdisciplinary seminar tying together different types of identity (ethnicity, gender, regional/national, religious) and different forms of action (political representation, protest, separatism, war). Comparative politics course with emphasis on applicability to American politics and public policy. Community engagement component. Students write a research article and conduct public policy-related activities.
-* **Introduction to Comparative Politics (Instructor):** [Download syllabus.](/files/IntroComparative.pdf) Designed course around student involvement in the research process. Incorporated research methods, reflective and formative journal writing, and policy application components into the syllabus. Students engage with published research and focus on writing their own research article through collaborative methods workshops.
+* **Scope and Methods in the Social Sciences: Upper-level applied seminar course that teaches quantitative and qualitative analysis techniques within the context of writing a research article.
+* **National Government in the U.S.: Introductory course for primarily non-majors focused on teaching political science skills including the research process and translating political science theories to local community engagement.
+* **Comparative Foreign Governments: Upper-level comparative politics seminar course designed to teach foundational research skills to political science majors to prepare them to carry out individual research projects. 
+* **Representation, Identity, and Dissent:** [Download syllabus.](/files/RepresentationIdentityDissent.pdf) Designed an interdisciplinary seminar tying together different types of identity (ethnicity, gender, regional/national, religious) and different forms of action (political representation, protest, separatism, war). Comparative politics course with emphasis on applicability to American politics and public policy. Community engagement component. Students write a research article and conduct public policy-related activities.
+* **Introduction to Comparative Politics:** [Download syllabus.](/files/IntroComparative.pdf) Designed course around student involvement in the research process. Incorporated research methods, reflective and formative journal writing, and policy application components into the syllabus. Students engage with published research and focus on writing their own research article through collaborative methods workshops.
 * **Immigration, Identity, and the Internet (Co-Instructor):** [Download syllabus.](/files/ImmigrationIdentityInternet.pdf) Team taught the course with the primary instructor. Re-designed the syllabus and re-structed assessments. Focused the course on improving writing skills and community engagement opportunities.
-* **Research Workshop (Assistant in Instruction):** Mentored graduate students on writing their third year papers. Provided written and verbal feedback on writing style and content. Worked with individual students to encourage growth in their writing and research abilities.
+<!--* **Research Workshop (Assistant in Instruction):** Mentored graduate students on writing their third year papers. Provided written and verbal feedback on writing style and content. Worked with individual students to encourage growth in their writing and research abilities.
 * **Party Politics (Assistant in Instruction):** Led research article writing workshops for graduate students. Provided written and verbal feedback on writing style and content; mentored students on research ideas.
 * **Political Protest and Violence (Assistant in Instruction):** Instructor for one-third of the classes. Developed formative and summative assessments, created interactive and experiential learning activities for classes when I was not teaching.
-* **Theories of Social Justice (Assistant in Instruction):** Implemented comprehensive advising system to improve student assessment performance. Mentored individual students on research papers.
-
-#### Interests
-* **Research Design and Methods:** [Download syllabus.](/files/ResearchMethods.pdf) Students write their own research article including data analysis. Emphasizes advanced theory development and research design. Provides an introduction to both qualitative and quantitative research methods.
-* **Introduction to Formal Theory:** Design complete. Provides an introduction to rational choice and prospect theory with a focus on reading and interpreting simple formal models. Frequent use of simulations and games to make course concepts applicable and relevant. Not a course in mathematics, students will learn how formal theoretic logic can help to explain political phenomena. 
-* **Meta-Analysis for Social Scientists:** Introduces meta-analysis techniques for social scientists. Students will collaborate with me to conduct a meta-analysis on a topic of their choosing.
-* **Experimental Design:** Teach basic aspects of designing an experiment and conducting experimental data analysis. Course will be designed around a collaborative effort to conduct an experiment as a class using an online survey panel.
+* **Theories of Social Justice (Assistant in Instruction):** Implemented comprehensive advising system to improve student assessment performance. Mentored individual students on research papers. -->
 
 
 
@@ -35,12 +32,12 @@ I value reflection as a way to process experiences and take feedback into consid
 * **Graduate, Course Design Institute:** Intensive program with instruction on course design best-practices.
 * **Student, Scholarship of Teaching and Learning Course:** Semester-long interdisciplinary program to learn about SoTL research and begin designing a teaching research project.
 * **Member, Graduate Teaching and Learning Community:** Participate in monthly meetings on a variety of teaching related topics.
-* **Attendee, APSA Teaching and Learning Conference (2018, 2019, 2020)**
+* **Attendee, APSA Teaching and Learning Conference (2018, 2019, 2020, 2021)**
 
 ## Teaching Related Service
 * **Washington University Teaching Center Graduate Student Advisory Council (2017-2020):** Provide feedback on graduate student teaching programming, host events discussing pedagogy.
-* **Teaching Political Science Workshop Series (founder, 2019-):** Create and deliver workshops designed to improve pedagogy skills among graduate students.
-* **Teaching Center Orientation Mentor (2018-present):** Lead new graduate teacher workshop sessions during teaching orientation.
+* **Teaching Political Science Workshop Series (founder, 2019-2021):** Create and deliver workshops designed to improve pedagogy skills among graduate students.
+* **Teaching Center Orientation Mentor (2018-2021):** Lead new graduate teacher workshop sessions during teaching orientation.
 * **Washington University Graduate Advisory Council (2018-2019):** Cross-disciplinary group addressing graduate student issues for the graduate school including teaching responsibilities.
 * **Washington University Teaching and Professional Development Committee (2018-2019):** Assess and make recommendations to improve graduate student teaching related training across the University.
 
