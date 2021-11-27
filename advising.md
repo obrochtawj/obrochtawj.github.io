@@ -31,7 +31,7 @@ permalink: "/advising"
 	* Note that the approval signature should be your assigned academic advisor’s e-mail address in almost all circumstances. If you are adding a course where the course is closed, then you will put the course instructor’s e-mail in the approval signature field.
 	* [Click here for video explanation.](https://www.youtube.com/watch?v=w8sexX6geeU)
 
-###Finding Your Advisor
+### Finding Your Advisor
 1.	Log in to BOSS using your campus-wide ID (no dashes) and your BOSS six digit PIN.
 2.	Once logged in, look under “Student Records” and select "Advisor."
 3.	If you do not have an advisor, go to your College Dean's office.
