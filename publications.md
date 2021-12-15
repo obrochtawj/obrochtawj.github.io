@@ -159,5 +159,5 @@ permalink: "/publications"
 <li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. <i>PS: Political Science and Politics</i> 53(3): 588-590.<br> 
   <a href="https://doi.org/10.1017/S1049096520000621">Publisher Link</a>, <a href="https://williamobrochta.net/files/ResearchMethodsTrack.pdf">PDF</a></li>
 
-</ol>
+<!--</ol>
 
