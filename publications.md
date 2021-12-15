@@ -7,6 +7,20 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Perceptions of Partisanship in Local Television News," published at <i>Electronic News</i>.<br> 
+  <!--<a href="https://doi.org/10.1080/15512169.2021.2002697">Publisher Link</a>,  --> <a href="https://williamobrochta.net/files/LocalNewsPartisanship.pdf">PDF</a>, <a href="https://williamobrochta.net/files/LocalNewsPartisanshipReplicationFiles.zip">Replication Files</a>, 
+<a href="#perceptionspartisanship" data-toggle="collapse">Abstract</a>
+  <div id="perceptionspartisanship" class="collapse">
+    People turn to local media for information during crises such as the coronavirus pandemic (COVID-19). What factors impact media consumers’ decisions about which local television news broadcast to watch? This study argues that media consumers infer the partisanship of local television affiliates — judging local Fox and NBC news broadcasts to be right and left slanted, respectively, based on their perceived associations with Fox News and MSNBC. Using the results from a representative survey of Americans (N = 5,461), the study demonstrates that local Fox and NBC viewers are significantly more likely to watch Fox News or MSNBC. As a result, watching local Fox is associated with less coronavirus risk because media consumers choose local Fox believing that it will align with their existing conservative views. This study demonstrates the importance of the perceptions of local news partisanship in influencing the consumption of critically important local crisis news.
+  </div></li>
+
+<li style="margin-bottom: 10px">"Can Policy Responses to Pandemics Reduce Mass Fear?" (with Michael Bechtel and Margit Tavits), published at <i>Journal of Experimental Political Science</i>.<br> 
+  <!--<a href="https://doi.org/10.1080/15512169.2021.2002697">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/PandemicsFear.pdf">PDF</a>, <!--<a href="https://williamobrochta.net/files/IntroWritingReplicationFiles.zip">Replication Files</a>,--> 
+<a href="#introwriting" data-toggle="collapse">Abstract</a>
+  <div id="introwriting" class="collapse">
+    To successfully address large-scale public health threats such as the novel coronavirus outbreak, policymakers need to limit feelings of fear that threaten social order and political stability. We study how policy responses to an infectious disease affects mass fear using data from a survey experiment conducted on a representative sample of the adult population in the United States (N=5,461). We find that fear is affected strongly by the final policy outcome, mildly by the severity of the initial outbreak, and minimally by policy response type and rapidity. These results hold across alternative measures of fear and various subgroups of individuals regardless of their level of exposure to coronavirus, knowledge of the virus, and several other theoretically relevant characteristics. Remarkably, despite accumulating evidence of intense partisan conflict over pandemic- related attitudes and behaviors, we show that effective government policy reduces fear among Democrats, Republicans, and Independents alike.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Completing the Research Article Writing Process in an Introductory Course," published at <i>Journal of Political Science Education</i>.<br> 
   <a href="https://doi.org/10.1080/15512169.2021.2002697">Publisher Link</a>,  <a href="https://williamobrochta.net/files/IntroWriting.pdf">PDF</a>, <a href="https://williamobrochta.net/files/IntroWritingReplicationFiles.zip">Replication Files</a>, 
 <a href="#introwriting" data-toggle="collapse">Abstract</a>
