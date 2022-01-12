@@ -7,6 +7,14 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Ethnic Representational Priorities and Political Engagement in
+Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br> 
+  <!-- <a href="https://doi.org/10.1177/19312431211072504">Publisher Link</a>, --><a href="https://williamobrochta.net/files/EthnicRepresentationalPriorities.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EthnicRepresentationalPrioritiesReplicationFiles.zip">Replication Files</a>, 
+<a href="#representationalpriorities" data-toggle="collapse">Abstract</a>
+  <div id="representationalpriorities" class="collapse">
+    When do individuals in deeply divided societies participate in political activities aimed at increasing ethnic representation in cabinet ministries? I develop a cost-benefit framework to explain political engagement based on individuals’ ethnic group membership and preferences for descriptive and substantive representation in cabinet ministries. Drawing on an original survey in North Macedonia, I find that ethnic Macedonians who value substantive representation are more likely to attend public meetings compared to Macedonians who value descriptive representation, but that the opposite is true for ethnic Albanians. I also consider how willingness to attend public meetings changes when individuals value both descriptive and substantive representation. The results suggest that policy makers cannot assume that all members of the public have the same motivations for arguing for increased representation.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Perceptions of Partisanship in Local Television News," published at <i>Electronic News</i>.<br> 
   <a href="https://doi.org/10.1177/19312431211072504">Publisher Link</a>, <a href="https://williamobrochta.net/files/LocalNewsPartisanship.pdf">PDF</a>, <a href="https://williamobrochta.net/files/LocalNewsPartisanshipReplicationFiles.zip">Replication Files</a>, 
 <a href="#perceptionspartisanship" data-toggle="collapse">Abstract</a>
