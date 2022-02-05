@@ -20,12 +20,6 @@ My research investigates core aspects of diversity, equity, and inclusion. As su
 * **Introduction to Comparative Politics:** [Download syllabus.](/files/IntroComparative.pdf) Designed course around student involvement in the research process. Incorporated research methods, reflective and formative journal writing, and policy application components into the syllabus. Students engage with published research and focus on writing their own research article through collaborative methods workshops.
 * **Immigration, Identity, and the Internet (Co-Instructor):** [Download syllabus.](/files/ImmigrationIdentityInternet.pdf) Team taught the course with the primary instructor. Re-designed the syllabus and re-structed assessments. Focused the course on improving writing skills and community engagement opportunities.
 
-<!-- * **Research Workshop (Assistant in Instruction):** Mentored graduate students on writing their third year papers. Provided written and verbal feedback on writing style and content. Worked with individual students to encourage growth in their writing and research abilities.
-* **Party Politics (Assistant in Instruction):** Led research article writing workshops for graduate students. Provided written and verbal feedback on writing style and content; mentored students on research ideas.
-* **Political Protest and Violence (Assistant in Instruction):** Instructor for one-third of the classes. Developed formative and summative assessments, created interactive and experiential learning activities for classes when I was not teaching.
-* **Theories of Social Justice (Assistant in Instruction):** Implemented comprehensive advising system to improve student assessment performance. Mentored individual students on research papers. -->
-
-
 
 ## Pedagogy Training
 * **Teaching Citation (2019):** Documented and reflected on three substantial teaching experiences.
