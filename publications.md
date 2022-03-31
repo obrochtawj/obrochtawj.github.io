@@ -15,7 +15,7 @@ Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br>
     When do individuals in deeply divided societies participate in political activities aimed at increasing ethnic representation in cabinet ministries? I develop a cost-benefit framework to explain political engagement based on individuals’ ethnic group membership and preferences for descriptive and substantive representation in cabinet ministries. Drawing on an original survey in North Macedonia, I find that ethnic Macedonians who value substantive representation are more likely to attend public meetings compared to Macedonians who value descriptive representation, but that the opposite is true for ethnic Albanians. I also consider how willingness to attend public meetings changes when individuals value both descriptive and substantive representation. The results suggest that policy makers cannot assume that all members of the public have the same motivations for arguing for increased representation.
   </div></li>
 
-<li style="margin-bottom: 10px">"Perceptions of Partisanship in Local Television News," published at <i>Electronic News</i>.<br> 
+<li style="margin-bottom: 10px">"Perceptions of Partisanship in Local Television News," 2022. <i>Electronic News</i> 16(1): 3-17.<br> 
   <a href="https://doi.org/10.1177/19312431211072504">Publisher Link</a>, <a href="https://williamobrochta.net/files/LocalNewsPartisanship.pdf">PDF</a>, <a href="https://williamobrochta.net/files/LocalNewsPartisanshipReplicationFiles.zip">Replication Files</a>, 
 <a href="#perceptionspartisanship" data-toggle="collapse">Abstract</a>
   <div id="perceptionspartisanship" class="collapse">
@@ -29,7 +29,7 @@ Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br>
     To successfully address large-scale public health threats such as the novel coronavirus outbreak, policymakers need to limit feelings of fear that threaten social order and political stability. We study how policy responses to an infectious disease affects mass fear using data from a survey experiment conducted on a representative sample of the adult population in the United States (N=5,461). We find that fear is affected strongly by the final policy outcome, mildly by the severity of the initial outbreak, and minimally by policy response type and rapidity. These results hold across alternative measures of fear and various subgroups of individuals regardless of their level of exposure to coronavirus, knowledge of the virus, and several other theoretically relevant characteristics. Remarkably, despite accumulating evidence of intense partisan conflict over pandemic- related attitudes and behaviors, we show that effective government policy reduces fear among Democrats, Republicans, and Independents alike.
   </div></li>
 
-<li style="margin-bottom: 10px">"Completing the Research Article Writing Process in an Introductory Course," published at <i>Journal of Political Science Education</i>.<br> 
+<li style="margin-bottom: 10px">"Completing the Research Article Writing Process in an Introductory Course," 2022. <i>Journal of Political Science Education 18(1): 35-51</i>.<br> 
   <a href="https://doi.org/10.1080/15512169.2021.2002697">Publisher Link</a>,  <a href="https://williamobrochta.net/files/IntroWriting.pdf">PDF</a>, <a href="https://williamobrochta.net/files/IntroWritingReplicationFiles.zip">Replication Files</a>, 
 <a href="#introwriting" data-toggle="collapse">Abstract</a>
   <div id="introwriting" class="collapse">
@@ -43,8 +43,8 @@ Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br>
     The international community invests heavily in democracy promotion, but these efforts sometimes embolden leaders not interested in true democratic reform. We develop and test a formal model explaining why this occurs in the context of electoral system reform --- one of the most important signals of democratic quality. Our formal model characterizes leaders as either truly reform minded or pseudo-reformers, those who increase electoral system proportionality in order to receive international community benefits while engaging in electoral fraud. We hypothesize that the international community will be more (less) likely to detect fraud when leaders decrease (increase) proportionality, regardless of whether there is evidence of numerical fraud. Using a mixed-methods approach with cross-national and case study data from post-Communist states, we find that the international community is generally less likely to detect fraud following an increase in proportionality and vice versa. We suggest that democracy promoters over-reward perceived democratic progress such that pseudo-reformers often benefit.
   </div></li>
 
-<li style="margin-bottom: 10px">"Small-Scale Civic Engagement with Big Impacts," published at <i>PS: Political Science and Politics</i>.<br> 
-  <!-- <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/SmallCivicEngagement.pdf">PDF</a>, 
+<li style="margin-bottom: 10px">"Small-Scale Civic Engagement with Big Impacts," 2022. <i>PS: Political Science and Politics</i> 55(2): 389-391.<br> 
+  <a href="https://www.doi.org/10.1017/S1049096521001669">Publisher Link</a>,  <a href="https://williamobrochta.net/files/SmallCivicEngagement.pdf">PDF</a>, 
 <a href="#smallcivicengagement" data-toggle="collapse">Abstract</a>
   <div id="smallcivicengagement" class="collapse">
     I describe a series of small-scale civic engagement activities applicable across subfields, versions of which can be relatively easily integrated into existing course designs without requiring extensive additional time or resources. These activities focus on local community engagement as a way to help students to more effectively relate political science topics to community issues, to develop tools to solve common public policy problems, and to increase their understanding of individuals with different backgrounds and life experiences. This article is intended to provide a jumping off point for instructors beginning to teach civic engagement, while simultaneously helping them avoid common pitfalls associated with short-term civic engagement projects.
@@ -82,7 +82,7 @@ Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br>
   </div></li>
 
 
-<li style="margin-bottom: 10px"> "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), published at <i>British Journal of Political Science</i>.<br> 
+<li style="margin-bottom: 10px"> "Western Political Rhetoric and Radicalization" (with Margit Tavits and Deniz Aksoy), 2022. <i>British Journal of Political Science</i> 52(1): 437-444.<br> 
   <a href="https://doi.org/10.1017/S0007123420000484">Publisher Link</a>, <a href="https://williamobrochta.net/files/RhetoricRadicalization.pdf">PDF</a>, <a href="https://williamobrochta.net/files/RhetoricRadicalizationSupplemental.pdf">Supplemental Information</a>, <a href="https://williamobrochta.net/files/RhetoricRadicalizationDataFiles.zip">Replication Files</a>, 
 <a href="#radicalization" data-toggle="collapse">Abstract</a>
   <div id="radicalization" class="collapse">
@@ -90,7 +90,7 @@ Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br>
   </div></li>
 
 
-<li style="margin-bottom: 10px">"Ethnic Diversity in Central Government Cabinets," published at <i>Politics, Groups, and Identities</i>.<br> 
+<li style="margin-bottom: 10px">"Ethnic Diversity in Central Government Cabinets," 2022. <i>Politics, Groups, and Identities</i> 10(2): 189-208.<br> 
 	<a href="https://doi.org/10.1080/21565503.2020.1756360">Publisher Link</a>, <a href="https://williamobrochta.net/files/EthnicDiversityCabinets.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EthnicDiversitySupplemental.pdf">Supplemental Information</a>, <a href="https://williamobrochta.net/files/EthnicCabinetDiversityDataFiles.zip">Replication Files</a>, 
 <a href="#cabinets" data-toggle="collapse">Abstract</a>
   <div id="cabinets" class="collapse">
