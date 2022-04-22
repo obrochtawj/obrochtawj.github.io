@@ -23,7 +23,7 @@ Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br>
   </div></li>
 
 <li style="margin-bottom: 10px">"Can Policy Responses to Pandemics Reduce Mass Fear?" (with Michael Bechtel and Margit Tavits), published at <i>Journal of Experimental Political Science</i>.<br> 
-  <!--<a href="https://doi.org/10.1080/15512169.2021.2002697">Publisher Link</a>,  --><a href="https://williamobrochta.net/files/PandemicsFear.pdf">PDF</a>, <!--<a href="https://williamobrochta.net/files/IntroWritingReplicationFiles.zip">Replication Files</a>,--> 
+  <a href="https://www.doi.org/10.1017/XPS.2022.7">Publisher Link (open access)</a>, 
 <a href="#introwriting" data-toggle="collapse">Abstract</a>
   <div id="introwriting" class="collapse">
     To successfully address large-scale public health threats such as the novel coronavirus outbreak, policymakers need to limit feelings of fear that threaten social order and political stability. We study how policy responses to an infectious disease affects mass fear using data from a survey experiment conducted on a representative sample of the adult population in the United States (N=5,461). We find that fear is affected strongly by the final policy outcome, mildly by the severity of the initial outbreak, and minimally by policy response type and rapidity. These results hold across alternative measures of fear and various subgroups of individuals regardless of their level of exposure to coronavirus, knowledge of the virus, and several other theoretically relevant characteristics. Remarkably, despite accumulating evidence of intense partisan conflict over pandemic- related attitudes and behaviors, we show that effective government policy reduces fear among Democrats, Republicans, and Independents alike.
