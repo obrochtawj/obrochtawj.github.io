@@ -43,6 +43,6 @@ I have a broad range of teaching experience across American and comparative poli
 ## Scholarship of Teaching and Learning
 My goal as a teacher is to help students see how political science can help them solve problems in their community — what I call "engaged citizens."" As such, my scholarship of teaching and learning research focuses on how students work through the political science research process and engage with the community. I view these two topics as the most important skills that political science teaches. The research process helps students to learn reading, writing, and critical thinking skills that are especially important for careers in law, government, and at non- profit organizations. Students then apply these skills through community engagement in order to demonstrate their power and relevance. I also work on developing, implementing, and assessing pedagogy professional development opportunities. This work has led to peer-reviewed publications in outlets like <i>Journal of Political Science Education</i> and <i>PS: Political Science and Politics</i>.
 
-I describe my ongoing scholarship of teaching and learning research in my teaching portfolio. Click here to download my teaching portfolio.](/files/OBrochtaTeachingPortfolio.pdf)
+I describe my ongoing scholarship of teaching and learning research in my teaching portfolio. [Click here to download my teaching portfolio.](/files/OBrochtaTeachingPortfolio.pdf)
 
 
