@@ -8,7 +8,7 @@ permalink: "/publications"
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Ethnic Representational Priorities and Political Engagement in
-Deeply Divided Societies," published at <i>Nations and Nationalism</i>.<br> 
+Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<br> 
   <a href="http://doi.org/10.1111/nana.12820">Publisher Link</a>, <a href="https://williamobrochta.net/files/EthnicRepresentationalPriorities.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EthnicRepresentationalPrioritiesReplicationFiles.zip">Replication Files</a>, 
 <a href="#representationalpriorities" data-toggle="collapse">Abstract</a>
   <div id="representationalpriorities" class="collapse">
