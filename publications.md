@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Politicians’ Complaint Response: E-Governance and Personal Relationships," published at <i>Governance</i>.<br> 
+  <!-- <a href="http://doi.org/10.1111/nana.12820">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/PoliticiansComplaintResponse.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PoliticiansComplaintResponseReplicationFiles.zip">Replication Files</a>, 
+<a href="#representationalpriorities" data-toggle="collapse">Abstract</a>
+  <div id="representationalpriorities" class="collapse">
+    When do politicians respond to individuals’ public service complaints? Technological solutions — termed e-governance — have been shown to help increase responsiveness in some developing nations where they serve to connect individuals, politicians, and bureaucrats for the first time. I argue that in country-contexts like India, where personal connections to bureaucrats and politicians are common, politicians are less responsive to complaints registered with e-governance systems than to complaints delivered via personal connections. Using data from public complaints, complaint responses, and field interviews in Delhi, I show that politicians are not responsive when complaints submitted to e-governance systems increase, but that they are responsive to complaints submitted to them through personal connections. This result suggests that the introduction of an e-governance system does not necessarily increase government performance. Politicians are incentivized to be more responsive to complaints registered directly with them because those complaints are more likely to generate electoral benefits.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Ethnic Representational Priorities and Political Engagement in
 Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<br> 
   <a href="http://doi.org/10.1111/nana.12820">Publisher Link</a>, <a href="https://williamobrochta.net/files/EthnicRepresentationalPriorities.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EthnicRepresentationalPrioritiesReplicationFiles.zip">Replication Files</a>, 
