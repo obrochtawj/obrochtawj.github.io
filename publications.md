@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Elite Responses to Ethnic Diversity and Interethnic Contact," published at <i>Political Behavior</i>.<br> 
+  <!--<a href="http://doi.org/10.1111/gove.12727">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EliteResponsesReplicationFiles.zip">Replication Files</a>, 
+<a href="#eliteresponses" data-toggle="collapse">Abstract</a>
+  <div id="eliteresponses" class="collapse">
+    Do politicians who work alongside an ethnically diverse group of political elites improve their views toward ethnic outgroups? Political elites serve critical roles as elected representatives and public figures, but we do not know whether the act of political elites working together in an ethnically diverse environment impacts how they view ethnic outgroups. I argue that political elites work in a competitive environment wherein increased ethnic diversity can promote ethnic animosity and worsen outgroup views. However, elites share interests in maximizing resource distribution, which can lead to positive interethnic contact, improving outgroup views. I test these arguments by collecting original data from municipal government committee members in India. I show that elite outgroup views shift only to a limited extent in response to either increased committee diversity or engaging in interethnic contact. While interethnic contact shows the most promise for improving outgroup views, neither diversity nor contact alone seem to be solutions to intra-elite ethnic animosity.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Politicians’ Complaint Response: E-Governance and Personal Relationships," published at <i>Governance</i>.<br> 
   <a href="http://doi.org/10.1111/gove.12727">Publisher Link</a>, <a href="https://williamobrochta.net/files/PoliticiansComplaintResponse.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PoliticiansComplaintResponseReplicationFiles.zip">Replication Files</a>, 
 <a href="#egovernancecomplaints" data-toggle="collapse">Abstract</a>
@@ -31,8 +38,8 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 
 <li style="margin-bottom: 10px">"Can Policy Responses to Pandemics Reduce Mass Fear?" (with Michael Bechtel and Margit Tavits), published at <i>Journal of Experimental Political Science</i>.<br> 
   <a href="https://www.doi.org/10.1017/XPS.2022.7">Publisher Link (open access)</a>, 
-<a href="#introwriting" data-toggle="collapse">Abstract</a>
-  <div id="introwriting" class="collapse">
+<a href="#policyresponses" data-toggle="collapse">Abstract</a>
+  <div id="policyresponses" class="collapse">
     To successfully address large-scale public health threats such as the novel coronavirus outbreak, policymakers need to limit feelings of fear that threaten social order and political stability. We study how policy responses to an infectious disease affects mass fear using data from a survey experiment conducted on a representative sample of the adult population in the United States (N=5,461). We find that fear is affected strongly by the final policy outcome, mildly by the severity of the initial outbreak, and minimally by policy response type and rapidity. These results hold across alternative measures of fear and various subgroups of individuals regardless of their level of exposure to coronavirus, knowledge of the virus, and several other theoretically relevant characteristics. Remarkably, despite accumulating evidence of intense partisan conflict over pandemic- related attitudes and behaviors, we show that effective government policy reduces fear among Democrats, Republicans, and Independents alike.
   </div></li>
 
@@ -43,7 +50,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
     How well can students exposed to political science for the first time work through the research article writing process? Previous research has introduced selected research article writing skills to students in introductory courses, but has not studied whether students in such courses can complete the entire process of writing and revising a research article. I re-designed an Introduction to Comparative Politics course based on the research article writing process. I hypothesized that students would make major gains in article writing skills and develop a proficient ability to write each research article component. Using a pre- and post-test design along with rubrics for each part of the research article, I found support for my hypotheses. Students reported large increases in confidence and ability to handle research article writing tasks as a result of the course and demonstrated proficiency on more than two-thirds of rubric items. These results suggest that research article writing tasks are appropriate for students in introductory courses and that their presence can help effectively introduce students to the discipline. I also provide suggestions for ways to implement parts of this course design in traditional, large introductory course settings.
   </div></li>
 
-<li style="margin-bottom: 10px">"Signaling Democratic Progress Through Electoral System Reform in Post-Communist States" (with Patrick Cunha Silva), published at <i>Political Resarch Quarterly</i>.<br> 
+<li style="margin-bottom: 10px">"Signaling Democratic Progress Through Electoral System Reform in Post-Communist States" (with Patrick Cunha Silva), 2022. <i>Political Resarch Quarterly</i> 75(4): 1037-1050.<br> 
   <a href="https://doi.org/10.1177/10659129211043865">Publisher Link</a>,  <a href="https://williamobrochta.net/files/Signaling.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SignalingReplicationFiles.zip">Replication Files</a>, 
 <a href="#signaling" data-toggle="collapse">Abstract</a>
   <div id="signaling" class="collapse">
