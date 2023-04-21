@@ -7,10 +7,17 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Elite Responses to Ethnic Diversity and Interethnic Contact," published at <i>Political Behavior</i>.<br> 
-  <a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EliteResponsesReplicationFiles.zip">Replication Files</a>, 
+<li style="margin-bottom: 10px">"Tweeting Public Service Complaints," 2023. <i>Journal of Quantitative Description: Digital Media</i> 3: 1-47.<br> 
+  <!-- <a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/CQXQTS">Replication Files</a>, -->
 <a href="#eliteresponses" data-toggle="collapse">Abstract</a>
   <div id="eliteresponses" class="collapse">
+    Many local governments have added new methods to report public service complaints like submitting a complaint on Twitter, hoping to expand access to more constituents. But who submits Twitter complaints, and how do those complaints compare to those submitted using other methods? I collect data on complaints submitted to the City of St. Louis and use these data to show that complaints submitted on Twitter are primarily from wealthy white residents concerned about issues related to parks or to their commutes. These types of complaints differ sharply from those submitted using other methods. Hence this descriptive evidence lends credence to the idea that providing a Twitter account to submit complaints may not expand access to local government services as much as previously thought. Local governments may want to carefully consider how the methods that they provide to submit public service complaints could help to determine the types of complaints they are likely to receive.
+  </div></li>
+
+<li style="margin-bottom: 10px">"Elite Responses to Ethnic Diversity and Interethnic Contact," published at <i>Political Behavior</i>.<br> 
+  <a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EliteResponsesReplicationFiles.zip">Replication Files</a>, 
+<a href="#tweetingcomplaints" data-toggle="collapse">Abstract</a>
+  <div id="tweetingcomplaints" class="collapse">
     Do politicians who work alongside an ethnically diverse group of political elites improve their views toward ethnic outgroups? Political elites serve critical roles as elected representatives and public figures, but we do not know whether the act of political elites working together in an ethnically diverse environment impacts how they view ethnic outgroups. I argue that political elites work in a competitive environment wherein increased ethnic diversity can promote ethnic animosity and worsen outgroup views. However, elites share interests in maximizing resource distribution, which can lead to positive interethnic contact, improving outgroup views. I test these arguments by collecting original data from municipal government committee members in India. I show that elite outgroup views shift only to a limited extent in response to either increased committee diversity or engaging in interethnic contact. While interethnic contact shows the most promise for improving outgroup views, neither diversity nor contact alone seem to be solutions to intra-elite ethnic animosity.
   </div></li>
 
@@ -166,6 +173,9 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 #### Other Publications
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy: How to Handle Misinformation" (with Michele Calderon, Heather Katz, and Rachel Olsen), published at <i>Political Science Today</i>.<br> 
+  <!-- <a href="https://doi.org/10.1017/S1049096520000621">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/ResearchWritingInformationTrack2023.pdf">PDF</a></li>
+
 <li style="margin-bottom: 10px">"You have an Academic Job Offer...Now What? Negotiating Advice from Two Perspectives" (with Lori Poloni-Staudinger), 2022. In Kevin Lorenz II, Daniel Mallison, Julia Marin Hellwege, Davin Phoenix, and J. Cherie Strachan (eds.) <i>Strategies for Navigating Graduate School and Beyond</i> Washington, D.C.: American Political Science Association.<br> 
   <a href="https://doi.org/10.33774/apsa-2022-p211j">Open Access</a></li>
 
