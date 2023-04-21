@@ -262,7 +262,7 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 1px #886300 solid; /* Bottom accent color */
+  border-top: 1px #886300 solid; /* No idea what this does */
   margin-top: 50px;
   font-size: 14px;
   background: #EAAB00; /* Bottom main color background */
