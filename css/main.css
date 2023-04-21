@@ -6,7 +6,6 @@ layout: null
 
 /* --- General --- */
 
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
@@ -107,7 +106,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: rgb(255, 191, 184);
+  background: #EAAB00;
   border-bottom: 1px solid #EAAB00;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
