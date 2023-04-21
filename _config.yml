@@ -44,11 +44,11 @@ navbar-col: "#FFFBFB8"
 navbar-text-col: "#000000" #Bottom name and year text
 navbar-children-col: "#FFFBFB8"
 page-col: "#FFFFFF"
-link-col: "#4d3800" #Bottom link text color
+link-col: "#c38e00" #Bottom link text color
 hover-col: "#000000" #Bottom link text color when you hover over it
 footer-col: "#FFFBFB8"
 footer-text-col: "#000000" #Bottom name and year text color
-footer-link-col: "#4d3800" #Bottom link text color
+footer-link-col: "#c38e00" #Bottom link text color
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour

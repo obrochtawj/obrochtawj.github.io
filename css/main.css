@@ -124,14 +124,14 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #803D36;
+  color: #000000;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #FF786A;
+  color: #c38e00;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -262,7 +262,7 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 1px #886300 solid; /* No idea what this does */
+  border-top: 1px #c38e00 solid; /* No idea what this does */
   margin-top: 50px;
   font-size: 14px;
   background: #EAAB00; /* Bottom main color background */
