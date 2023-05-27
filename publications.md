@@ -7,7 +7,7 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Tweeting Public Service Complaints," 2023. <i>Journal of Quantitative Description: Digital Media</i> 3: 1-47.<br> 
+<li style="margin-bottom: 10px">"Tweeting Public Service Complaints," 2023. <i>Journal of Quantitative Description: Digital Media</i> 3: 1-49.<br> 
   <a href="https://doi.org/10.51685/jqd.2023.011">Publisher Link (open access)</a>, 
 <a href="#eliteresponses" data-toggle="collapse">Abstract</a>
   <div id="eliteresponses" class="collapse">
