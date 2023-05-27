@@ -8,7 +8,7 @@ permalink: "/publications"
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Tweeting Public Service Complaints," 2023. <i>Journal of Quantitative Description: Digital Media</i> 3: 1-47.<br> 
-  <!-- <a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/CQXQTS">Replication Files</a>, -->
+  <a href="https://doi.org/10.51685/jqd.2023.011">Publisher Link (open access)</a>, 
 <a href="#eliteresponses" data-toggle="collapse">Abstract</a>
   <div id="eliteresponses" class="collapse">
     Many local governments have added new methods to report public service complaints like submitting a complaint on Twitter, hoping to expand access to more constituents. But who submits Twitter complaints, and how do those complaints compare to those submitted using other methods? I collect data on complaints submitted to the City of St. Louis and use these data to show that complaints submitted on Twitter are primarily from wealthy white residents concerned about issues related to parks or to their commutes. These types of complaints differ sharply from those submitted using other methods. Hence this descriptive evidence lends credence to the idea that providing a Twitter account to submit complaints may not expand access to local government services as much as previously thought. Local governments may want to carefully consider how the methods that they provide to submit public service complaints could help to determine the types of complaints they are likely to receive.
@@ -71,7 +71,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
     I describe a series of small-scale civic engagement activities applicable across subfields, versions of which can be relatively easily integrated into existing course designs without requiring extensive additional time or resources. These activities focus on local community engagement as a way to help students to more effectively relate political science topics to community issues, to develop tools to solve common public policy problems, and to increase their understanding of individuals with different backgrounds and life experiences. This article is intended to provide a jumping off point for instructors beginning to teach civic engagement, while simultaneously helping them avoid common pitfalls associated with short-term civic engagement projects.
   </div></li>
 
-<li style="margin-bottom: 10px">"Citizen Responses to Ethnic Representation," published at <i>Political Studies</i>.<br> 
+<li style="margin-bottom: 10px">"Citizen Responses to Ethnic Representation," 2023. <i>Political Studies</i> 71(2): 418-439.<br> 
   <a href="https://doi.org/10.1177/00323217211019834">Publisher Link</a>, <a href="https://williamobrochta.net/files/CitizenResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/CitizenResponsesReplication.zip">Replication Files</a>, 
 <a href="#citizenresponses" data-toggle="collapse">Abstract</a>
   <div id="citizenresponses" class="collapse">
