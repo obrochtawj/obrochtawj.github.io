@@ -3,7 +3,7 @@ layout: page
 title: Advising
 permalink: "/advising"
 ---
-
+ 
 ## Scheduling and Preparing for an Advising Appointment
 1. Schedule an advising appointment with me at least 24 hours before you intend to meet. You must schedule and appointment at [https://calendly.com/obrochta/advising](https://calendly.com/obrochta/advising)
 2. Prepare to complete the advising Google Form.
