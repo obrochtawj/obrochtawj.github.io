@@ -174,13 +174,13 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>,"  published at <i>Journal of Political Science Education</i>.<br> 
-  <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link<</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a>,</li>
+  <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link<</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
 
 <li style="margin-bottom: 10px">"The Benefits of Early Student Involvement with Civic Engagement Programs" (with Anthony Franklin), 2023. <i>The Political Science Educator</i> 27(1): 76-79.<br> 
-  <a href="https://williamobrochta.net/files/EarlyInvolvementCivicEngagement.pdf">PDF<</a></li>
+  <a href="https://williamobrochta.net/files/EarlyInvolvementCivicEngagement.pdf">PDF</a></li>
 
 <li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy: How to Handle Misinformation" (with Michele Calderon, Heather Katz, and Rachel Olsen), 2023. <i>Political Science Today</i> 3(3): 11-13.<br> 
-  <a href="https://www.flipsnack.com/politicalsciencetoday/v3-n3.html">Open Access<</a></li>
+  <a href="https://www.flipsnack.com/politicalsciencetoday/v3-n3.html">Open Access</a></li>
 
 <li style="margin-bottom: 10px">"You have an Academic Job Offer...Now What? Negotiating Advice from Two Perspectives" (with Lori Poloni-Staudinger), 2022. In Kevin Lorenz II, Daniel Mallison, Julia Marin Hellwege, Davin Phoenix, and J. Cherie Strachan (eds.) <i>Strategies for Navigating Graduate School and Beyond</i> Washington, D.C.: American Political Science Association.<br> 
   <a href="https://doi.org/10.33774/apsa-2022-p211j">Open Access</a></li>
