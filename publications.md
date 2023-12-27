@@ -7,21 +7,35 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Gendered Ideologies, Gendered Perceptions: Do Nationalist Symbols and Gender Affect People's Perceptions of Politicians?" (with Patrick Cunha Silva), published at <i>Politics, Groups, and Identities</i>.<br>
+  <!--<a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, --><a href="https://williamobrochta.net/files/GenderedIdeologiesPerceptions.pdf">PDF</a>, 
+<a href="#genderedideologies" data-toggle="collapse">Abstract</a>
+  <div id="genderedideologies" class="collapse">
+    Politicians and parties employ nationalist symbols to attract public support in elections worldwide. Robust evidence indicates that the public perceives women politicians as more liberal than men politicians. The association between politicians’ gender and perceived ideology, combined with the close relationship between nationalism and radical right parties, prompts the question: how do individuals evaluate women politicians when they use nationalist cues? To answer this question, we field a survey experiment in Serbia, a country with a long history of nationalist movements and a digraphic language with one of the alphabets associated with nationalism. Exploiting the Cyrillic alphabet and its association with nationalism, we find that respondents perceive women politicians who use Cyrillic as nationalist as much as men using the same symbol. However, these women are perceived as more nationalist than women and men politicians who do not employ Cyrillic. We then show that women and men respondents utilize these cues differently, indicating that the gender of nationalist politicians and members of the public may affect politician evaluations.
+  </div></li>
+
+<li style="margin-bottom: 10px">"Sustaining and Supporting the Momentum of Enduring Pandemic Practices" with Sarah McCorkle, Cathy Box, and MC Dean, published at <i>To Improve the Academy: A Journal of Educational Development</i>.<br> 
+  <!--<a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, -->
+<a href="#pandemicpractices" data-toggle="collapse">Abstract</a>
+  <div id="pandemicpractices" class="collapse">
+    Faculty members impacted by the COVID-19 pandemic inadvertently participated in an historic, widespread, and rapidly occurring educational development phenomenon: the global shift towards emergency remote teaching. We surveyed faculty members (n=502) at four different institutions (a community college and a small, medium, and large university) and collected self-reported data on faculty members’ continued use of educational technology tools or teaching techniques that they adopted for the first time during the pandemic. Faculty respondents also shared their perceptions on why this change to their teaching was valuable. Approximately 62% of the faculty surveyed reported their continued use of an educational technology tool and 34% reported their continued use of a teaching technique or strategy. Higher education institutions must now consider the implications of these enduring pandemic practices, evaluate their effectiveness, and work to sustain the skill-building momentum of faculty who have invested time in adopting new technology tools and teaching techniques.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Tweeting Public Service Complaints," 2023. <i>Journal of Quantitative Description: Digital Media</i> 3: 1-49.<br> 
   <a href="https://doi.org/10.51685/jqd.2023.011">Publisher Link (open access)</a>, 
-<a href="#eliteresponses" data-toggle="collapse">Abstract</a>
-  <div id="eliteresponses" class="collapse">
+<a href="#tweetingcomplaints" data-toggle="collapse">Abstract</a>
+  <div id="tweetingcomplaints" class="collapse">
     Many local governments have added new methods to report public service complaints like submitting a complaint on Twitter, hoping to expand access to more constituents. But who submits Twitter complaints, and how do those complaints compare to those submitted using other methods? I collect data on complaints submitted to the City of St. Louis and use these data to show that complaints submitted on Twitter are primarily from wealthy white residents concerned about issues related to parks or to their commutes. These types of complaints differ sharply from those submitted using other methods. Hence this descriptive evidence lends credence to the idea that providing a Twitter account to submit complaints may not expand access to local government services as much as previously thought. Local governments may want to carefully consider how the methods that they provide to submit public service complaints could help to determine the types of complaints they are likely to receive.
   </div></li>
 
 <li style="margin-bottom: 10px">"Elite Responses to Ethnic Diversity and Interethnic Contact," published at <i>Political Behavior</i>.<br> 
   <a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EliteResponsesReplicationFiles.zip">Replication Files</a>, 
-<a href="#tweetingcomplaints" data-toggle="collapse">Abstract</a>
-  <div id="tweetingcomplaints" class="collapse">
+<a href="#eliteresponses" data-toggle="collapse">Abstract</a>
+  <div id="eliteresponses" class="collapse">
     Do politicians who work alongside an ethnically diverse group of political elites improve their views toward ethnic outgroups? Political elites serve critical roles as elected representatives and public figures, but we do not know whether the act of political elites working together in an ethnically diverse environment impacts how they view ethnic outgroups. I argue that political elites work in a competitive environment wherein increased ethnic diversity can promote ethnic animosity and worsen outgroup views. However, elites share interests in maximizing resource distribution, which can lead to positive interethnic contact, improving outgroup views. I test these arguments by collecting original data from municipal government committee members in India. I show that elite outgroup views shift only to a limited extent in response to either increased committee diversity or engaging in interethnic contact. While interethnic contact shows the most promise for improving outgroup views, neither diversity nor contact alone seem to be solutions to intra-elite ethnic animosity.
   </div></li>
 
-<li style="margin-bottom: 10px">"Politicians’ Complaint Response: E-Governance and Personal Relationships," published at <i>Governance</i>.<br> 
+<li style="margin-bottom: 10px">"Politicians’ Complaint Response: E-Governance and Personal Relationships," 2023. <i>Governance</i> 36(4): 1147-1164.<br> 
   <a href="http://doi.org/10.1111/gove.12727">Publisher Link</a>, <a href="https://williamobrochta.net/files/PoliticiansComplaintResponse.pdf">PDF</a>, <a href="https://williamobrochta.net/files/PoliticiansComplaintResponseReplicationFiles.zip">Replication Files</a>, 
 <a href="#egovernancecomplaints" data-toggle="collapse">Abstract</a>
   <div id="egovernancecomplaints" class="collapse">
@@ -57,7 +71,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
     How well can students exposed to political science for the first time work through the research article writing process? Previous research has introduced selected research article writing skills to students in introductory courses, but has not studied whether students in such courses can complete the entire process of writing and revising a research article. I re-designed an Introduction to Comparative Politics course based on the research article writing process. I hypothesized that students would make major gains in article writing skills and develop a proficient ability to write each research article component. Using a pre- and post-test design along with rubrics for each part of the research article, I found support for my hypotheses. Students reported large increases in confidence and ability to handle research article writing tasks as a result of the course and demonstrated proficiency on more than two-thirds of rubric items. These results suggest that research article writing tasks are appropriate for students in introductory courses and that their presence can help effectively introduce students to the discipline. I also provide suggestions for ways to implement parts of this course design in traditional, large introductory course settings.
   </div></li>
 
-<li style="margin-bottom: 10px">"Signaling Democratic Progress Through Electoral System Reform in Post-Communist States" (with Patrick Cunha Silva), 2022. <i>Political Resarch Quarterly</i> 75(4): 1037-1050.<br> 
+<li style="margin-bottom: 10px">"Signaling Democratic Progress Through Electoral System Reform in Post-Communist States" (with Patrick Cunha Silva), 2022. <i>Political Research Quarterly</i> 75(4): 1037-1050.<br> 
   <a href="https://doi.org/10.1177/10659129211043865">Publisher Link</a>,  <a href="https://williamobrochta.net/files/Signaling.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SignalingReplicationFiles.zip">Replication Files</a>, 
 <a href="#signaling" data-toggle="collapse">Abstract</a>
   <div id="signaling" class="collapse">
@@ -173,8 +187,8 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 #### Other Publications
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>,"  published at <i>Journal of Political Science Education</i>.<br> 
-  <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link<</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
+<li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>." 2023. <i>Journal of Political Science Education</i> 19(4): 737-739.<br> 
+  <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
 
 <li style="margin-bottom: 10px">"The Benefits of Early Student Involvement with Civic Engagement Programs" (with Anthony Franklin), 2023. <i>The Political Science Educator</i> 27(1): 76-79.<br> 
   <a href="https://williamobrochta.net/files/EarlyInvolvementCivicEngagement.pdf">PDF</a></li>
