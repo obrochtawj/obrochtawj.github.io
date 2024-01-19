@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Ethnic Cabinet Diversity, Co-Ethnic Representation, and Attitudes Toward Government,"  published at <i>Journal of Elections, Public Opinion, and Parties</i>.<br>
+  <!--<a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, --><a href="https://williamobrochta.net/files/DiversityRepresentation.pdf">PDF</a>, <a href="https://williamobrochta.net/files/DiversityRepresentationReplicationFiles.zip">Replication Files</a>
+<a href="#diversityrepresentation" data-toggle="collapse">Abstract</a>
+  <div id="diversityrepresentation" class="collapse">
+    Does co-ethnic cabinet representation change how people respond to increasing ethnic cabinet diversity? Existing literature studies co-ethnic representation and cabinet diversity separately. I argue that the interaction between co-ethnic cabinet representation and ethnic cabinet diversity lowers government confidence and impacts feelings of ethnic fairness. Using a newly constructed dataset linking both the World Values Survey and the Afrobarometer to country-year measures of ethnic cabinet diversity, I find that interacting co-ethnic representation with ethnic cabinet diversity largely has the expected results. Country leaders should think carefully about how to manage cabinet appointments in order to improve attitudes toward government.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Gendered Ideologies, Gendered Perceptions: Do Nationalist Symbols and Gender Affect People's Perceptions of Politicians?" (with Patrick Cunha Silva), published at <i>Politics, Groups, and Identities</i>.<br>
   <!--<a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, --><a href="https://williamobrochta.net/files/GenderedIdeologiesPerceptions.pdf">PDF</a>, 
 <a href="#genderedideologies" data-toggle="collapse">Abstract</a>
