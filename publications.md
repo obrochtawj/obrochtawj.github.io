@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Lower-Stakes Legislative Collaborations, Ethnicity, and Gender,"  published at <i>Political Research Quarterly</i>.<br>
+  <!-- <a href="https://doi.org/10.1080/17457289.2024.2340092">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/LowerStakes.pdf">PDF</a>
+<a href="#lowerstakes" data-toggle="collapse">Abstract</a>
+  <div id="lowerstakes" class="collapse">
+    How do legislators decide with whom to collaborate? I argue that legislative collaborations are shaped by ethnicity and gender, with legislators from dominant ethnic groups and men legislators having more opportunities to collaborate than non-dominant legislators. These dynamics are likely present even when the nature of the collaboration is not particularly electorally salient. I test this hypothesis using newly collected data on question-asking from local legislators in Delhi. Dominant caste men legislators tend to dominate question-asking collaborations as expected, with men legislators consistently having more collaboration opportunities. The results suggest that legislative power dynamics are present even in lower-stakes interactions and may mean that simply encouraging additional legislator collaborations does not address underlying discriminatory patterns in how dominant legislators select their collaborators.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Ethnic Cabinet Diversity, Co-Ethnic Representation, and Attitudes Toward Government,"  published at <i>Journal of Elections, Public Opinion, and Parties</i>.<br>
   <a href="https://doi.org/10.1080/17457289.2024.2340092">Publisher Link</a>, <a href="https://williamobrochta.net/files/DiversityRepresentation.pdf">PDF</a>, <a href="https://williamobrochta.net/files/DiversityRepresentationReplicationFiles.zip">Replication Files</a>
 <a href="#diversityrepresentation" data-toggle="collapse">Abstract</a>
@@ -194,6 +201,14 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 #### Other Publications
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Civic Engagement at Teaching-Focused Universities: Navigating the Challenges for Pre-Tenure Faculty," 2024. In Lauren Bell, Allison Rank, and Carah Ong Whaley (eds.) <i>Civic Pedagogy: Teaching Civic Engagement in an Era of Divisive Politics</i> Cham, Switzerland: Palgrave Macmillan.<br>
+ <!--<a href="https://link.springer.com/chapter/10.1007/978-3-030-76955-0_31">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/CivicEngagementTeaching.pdf">PDF</a>, <a href="#civicengagementteaching" data-toggle="collapse">Abstract</a>
+  <div id="civicengagementteaching" class="collapse">
+     Teaching-focused universities offer their faculty unique opportunities to incorporate and deploy civic engagement pedagogies and research, particularly given the socioeconomic importance of these institutions to their regions. However, these opportunities are dependent on many factors, including the institution’s support for civic engagement work (scholastic and pedagogical), the community context, and the faculty member’s personal, curricular, and professional goals. In this chapter, we provide perspectives from three pre-tenure assistant professors that discuss the challenges encountered with civic engagement work and how best to navigate the above factors. While we all come from teaching-focused universities, our institutions vary widely in their student profiles, community contexts, and institutional support towards civic engagement activities.
+
+     The chapter is divided into four sections that address separate but correlated themes: (1) Institutional structural support, or how internal and external support structures are fundamental to civic education initiatives in terms of administrative backing and resource allocation; (2) Institutional culture and focus, including how receptive the larger campus and regional community is to civic engagement endeavors; (3) Preparing students for engagement, or adopting a mindset of equity and acknowledging the diversity of student backgrounds, experiences, and civic exposure when designing and implementing civic engagement programs; and (4) Tenure and promotion, or how to ensure that your civic engagement activities are properly attributed to scholarship, teaching, and/or service. 
+  </div></li>
+
 <li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>." 2023. <i>Journal of Political Science Education</i> 19(4): 737-739.<br> 
   <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
 
