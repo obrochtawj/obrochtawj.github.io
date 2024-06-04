@@ -15,7 +15,7 @@ permalink: "/publications"
   </div></li>
 
 <li style="margin-bottom: 10px">"Lower-Stakes Legislative Collaborations, Ethnicity, and Gender,"  published at <i>Political Research Quarterly</i>.<br>
-  <!-- <a href="https://doi.org/10.1080/17457289.2024.2340092">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/LowerStakes.pdf">PDF</a>,
+  <a href="https://doi.org/10.1177/10659129241258728">Publisher Link</a>, <a href="https://williamobrochta.net/files/LowerStakes.pdf">PDF</a>,
 <a href="#lowerstakes" data-toggle="collapse">Abstract</a>
   <div id="lowerstakes" class="collapse">
     How do legislators decide with whom to collaborate? I argue that legislative collaborations are shaped by ethnicity and gender, with legislators from dominant ethnic groups and men legislators having more opportunities to collaborate than non-dominant legislators. These dynamics are likely present even when the nature of the collaboration is not particularly electorally salient. I test this hypothesis using newly collected data on question-asking from local legislators in Delhi. Dominant caste men legislators tend to dominate question-asking collaborations as expected, with men legislators consistently having more collaboration opportunities. The results suggest that legislative power dynamics are present even in lower-stakes interactions and may mean that simply encouraging additional legislator collaborations does not address underlying discriminatory patterns in how dominant legislators select their collaborators.
