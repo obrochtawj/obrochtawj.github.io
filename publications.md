@@ -7,14 +7,21 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Quantifying and Contextualizing Violent Collective Action Event Datasets" (with Sunita Parikh),  published at <i>Social Indicators Research</i>.<br>
+  <!-- <a href="https://doi.org/10.1080/17457289.2024.2340092">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/QuantifyingRiots.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/GZOG7K">Replication Files</a>, 
+<a href="#quantifyingriots" data-toggle="collapse">Abstract</a>
+  <div id="quantifyingriots" class="collapse">
+    How does newspaper-based event data compare to a government data source? While scholars have long recognized the importance of and biases present in newspaper-based event data, few studies have compared newspaper reports with official government data to better understand the severity and impact of such biases. We develop this comparison in the context of riots, a form of violent collective action that represents an important middle ground between peaceful protests and protracted civil conflict. Using newly collected police precinct-level government data from India, we compare these data to a high-quality newspaper source. Though similar at the aggregate level, newspaper riot reports correlate poorly with government data at the local level. We model the frequency of newspaper and government riot reports based on literacy, location, and other demographic characteristics to better understand the discrepancies between these two sources. We conclude that newspaper riot data does partially reflect aggregate riot trends, but the newspaper editorial process also plays an important role. Government data is better for within country comparisons and for analyzing event trends over time. Our findings suggest that using collective action event data from both sources may help ensure that results are not driven by biases in either data source.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Public Discourse About Autonomous Regions and De Facto States,"  published at <i>Studies in Ethnicity and Nationalism</i>.<br>
-  <!-- <a href="https://doi.org/10.1080/17457289.2024.2340092">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/SeparatistRhetoric.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoricReplicationFiles.zip">Replication Files</a>, 
+  <a href="https://doi.org/10.1111/sena.12436">Publisher Link</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoric.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoricReplicationFiles.zip">Replication Files</a>, 
 <a href="#separatistrhetoric" data-toggle="collapse">Abstract</a>
   <div id="separatistrhetoric" class="collapse">
    Public discourse about autonomous regions and de facto --- or unrecognized --- states can influence the policies that parent states adopt to respond to these entities. I theorize that public discourse about autonomous regions will underscore commonalities with the parent state. Public discourse about de facto states will treat the state as a separate entity. I employ newspaper data as a measure of public discourse about Adjara and Abkhazia, Georgia. Using sentiment analysis and topic models, I show that public discourse about autonomous regions discusses domestic politics whereas discourse about de facto states emphasizes international relations. This analysis of public discourse offers insight into the ways in which people in parent states discuss separatist entities and how leaders may wish to steer public discourse about these regions in the future.
   </div></li>
 
-<li style="margin-bottom: 10px">"Lower-Stakes Legislative Collaborations, Ethnicity, and Gender,"  published at <i>Political Research Quarterly</i>.<br>
+<li style="margin-bottom: 10px">"Lower-Stakes Legislative Collaborations, Ethnicity, and Gender," 2024. <i>Political Research Quarterly</i> 77(4): 1081-1095.<br>
   <a href="https://doi.org/10.1177/10659129241258728">Publisher Link</a>, <a href="https://williamobrochta.net/files/LowerStakes.pdf">PDF</a>,
 <a href="#lowerstakes" data-toggle="collapse">Abstract</a>
   <div id="lowerstakes" class="collapse">
@@ -49,7 +56,7 @@ permalink: "/publications"
     Many local governments have added new methods to report public service complaints like submitting a complaint on Twitter, hoping to expand access to more constituents. But who submits Twitter complaints, and how do those complaints compare to those submitted using other methods? I collect data on complaints submitted to the City of St. Louis and use these data to show that complaints submitted on Twitter are primarily from wealthy white residents concerned about issues related to parks or to their commutes. These types of complaints differ sharply from those submitted using other methods. Hence this descriptive evidence lends credence to the idea that providing a Twitter account to submit complaints may not expand access to local government services as much as previously thought. Local governments may want to carefully consider how the methods that they provide to submit public service complaints could help to determine the types of complaints they are likely to receive.
   </div></li>
 
-<li style="margin-bottom: 10px">"Elite Responses to Ethnic Diversity and Interethnic Contact," published at <i>Political Behavior</i>.<br> 
+<li style="margin-bottom: 10px">"Elite Responses to Ethnic Diversity and Interethnic Contact," 2024. <i>Political Behavior</i> 46: 1057-1077.<br> 
   <a href="http://doi.org/10.1007/s11109-023-09859-w">Publisher Link</a>, <a href="https://williamobrochta.net/files/EliteResponses.pdf">PDF</a>, <a href="https://williamobrochta.net/files/EliteResponsesReplicationFiles.zip">Replication Files</a>, 
 <a href="#eliteresponses" data-toggle="collapse">Abstract</a>
   <div id="eliteresponses" class="collapse">
@@ -78,7 +85,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
     People turn to local media for information during crises such as the coronavirus pandemic (COVID-19). What factors impact media consumers’ decisions about which local television news broadcast to watch? This study argues that media consumers infer the partisanship of local television affiliates — judging local Fox and NBC news broadcasts to be right and left slanted, respectively, based on their perceived associations with Fox News and MSNBC. Using the results from a representative survey of Americans (N = 5,461), the study demonstrates that local Fox and NBC viewers are significantly more likely to watch Fox News or MSNBC. As a result, watching local Fox is associated with less coronavirus risk because media consumers choose local Fox believing that it will align with their existing conservative views. This study demonstrates the importance of the perceptions of local news partisanship in influencing the consumption of critically important local crisis news.
   </div></li>
 
-<li style="margin-bottom: 10px">"Can Policy Responses to Pandemics Reduce Mass Fear?" (with Michael Bechtel and Margit Tavits), published at <i>Journal of Experimental Political Science</i>.<br> 
+<li style="margin-bottom: 10px">"Can Policy Responses to Pandemics Reduce Mass Fear?" (with Michael Bechtel and Margit Tavits), 2023. <i>Journal of Experimental Political Science</i> 10(3): 343-353.<br> 
   <a href="https://www.doi.org/10.1017/XPS.2022.7">Publisher Link (open access)</a>, 
 <a href="#policyresponses" data-toggle="collapse">Abstract</a>
   <div id="policyresponses" class="collapse">
@@ -170,14 +177,6 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
   </div></li>
 
 
-<!-- <li style="margin-bottom: 10px">"Political Space in Competitive Authoritarian Regimes: Activating Pro Forma Platforms" (with Norman Schofield), accepted with Springer Verlag.<br> 
-  <a href="https://williamobrochta.net/files/CompetitiveAuthoritarianPoliticalSpace.pdf">PDF</a>, <a href="https://williamobrochta.net/files/CompetitivePoliticalSpace.zip">Replication Files</a>, 
-<a href="#proforma" data-toggle="collapse">Abstract</a>
-  <div id="proforma" class="collapse">
-     Competitive authoritarian regimes are those in which electoral competition is allowed, but elections are not free and fair. Dozens such regimes exist around the world, but their political space is unexplored. We hypothesize that voters in these regimes define political space in two dimensions, where these dimensions are different from those in developing democracies. Using World Values Survey data from Kyrgyzstan in two time periods, we show the development of voter preferences along two dimensions: fondness for tradition and trust of political institutions. We explore why parties faced with this political space do not run on these issues even though their party platforms nominally try to appeal to them. Finally, we argue that these findings extend to regimes of a similar type by mapping political space in Kazakhstan, Georgia, and Hungary. Providing incentives for parties to run on their stated platforms may help institutionalize political competition in competitive authoritarian regimes.
-  </div></li>   -->
-
-
 <li style="margin-bottom: 10px">"Regional Autonomy in Rich Regions: Evidence from Adjara, Georgia," 2018. <i>Caucasus Survey</i> 6(1): 18-41.<br> 
   <a href="https://doi.org/10.1080/23761199.2017.1344028">Publisher Link</a>, <a href="https://williamobrochta.net/files/RegionalAutonomyAccepted.pdf">PDF</a>, <a href="https://williamobrochta.net/files/RegionalAutonomySupplemental.pdf">Supplemental Information</a>, 
 <a href="#adjara" data-toggle="collapse">Abstract</a>
@@ -209,7 +208,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Civic Engagement at Teaching-Focused Universities: Navigating the Challenges for Pre-Tenure Faculty," 2024. In Lauren Bell, Allison Rank, and Carah Ong Whaley (eds.) <i>Civic Pedagogy: Teaching Civic Engagement in an Era of Divisive Politics</i> Cham, Switzerland: Palgrave Macmillan.<br>
- <!--<a href="https://link.springer.com/chapter/10.1007/978-3-030-76955-0_31">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/CivicEngagementTeaching.pdf">PDF</a>, <a href="#civicengagementteaching" data-toggle="collapse">Abstract</a>
+ <a href="https://doi.org/10.1007/978-3-031-55155-0_15">Publisher Link</a>, <a href="https://williamobrochta.net/files/CivicEngagementTeaching.pdf">PDF</a>, <a href="#civicengagementteaching" data-toggle="collapse">Abstract</a>
   <div id="civicengagementteaching" class="collapse">
      Teaching-focused universities offer their faculty unique opportunities to incorporate and deploy civic engagement pedagogies and research, particularly given the socioeconomic importance of these institutions to their regions. However, these opportunities are dependent on many factors, including the institution’s support for civic engagement work (scholastic and pedagogical), the community context, and the faculty member’s personal, curricular, and professional goals. In this chapter, we provide perspectives from three pre-tenure assistant professors that discuss the challenges encountered with civic engagement work and how best to navigate the above factors. While we all come from teaching-focused universities, our institutions vary widely in their student profiles, community contexts, and institutional support towards civic engagement activities.
 
