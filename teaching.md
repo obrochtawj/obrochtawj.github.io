@@ -10,27 +10,29 @@ I believe that students bring valuable perspectives and interests to political s
 My research investigates core aspects of diversity, equity, and inclusion. As such, I strive to create a collective engaged citizen identity among students in my courses, empowering students to relate political science to their own lives and to issues they care about, and setting up appropriate support structures for each student. [Click here to download my diversity, equity, and inclusion statement.](/files/OBrochta_Diversity.pdf)
 
 ## Course Listing
+* **Comparative Political Economy:** Seminar reading group course linking major economic themes to their impact on individual people around the world and their stories.
+* **International Relations:** Intelligence analysis simulation through the lens of key theories of international relations.
+* **Environmental Politics:** Research seminar in environmental politics, policy, and administration. Conduct sustainability audit of campus using skills related to science policy and communication.
+* **Legal Research and Policy Analysis:** Independent study course integrating both basic legal resaerch and writing principles and the impact of those principles on policy-making.
+* **First Year Experience: Exploring the Arts and Sciences:** Common course. Taught all humanities and social science majors. Emphasis on building civic skills, discerning vocation, and becoming familiar with the university community.
+* **Legal Research and Writing:** Independent study course helping students understand the components of legal documents, read and outline cases and arguments, and conduct basic legal research.
 * **Electoral Politics:** Civic engagement seminar that introduces basic features of comparative electoral rules within the context of a student-directed research project on student civic participation.
 * **Comparative Politics:** Model UN simulation course that introduces key concepts in comparative politics with a focus on developing research questions and translating them into proposed legislation.
+* **Nationalism and Political Behavior:** Independent study course introducing key literature in the study of nationalism, particularly as it applies to political behavior in the United States.
 * **Asia and Development:** Research lab course typically focused on legal aspects of the politics of development. Special emphasis is given to development in Asia and comparisons with other countries.
 * **Data Analysis in Social Science:** Capstone course for sociology and political science majors. Builds on basic statistical concepts by teaching students the social science research process with a focus on both qualitative and quantitative empirical data and research design. Students analyze data using computer programming skills and write a research article in a collaborative environment.
-* **American Politics I:** Introductory course (about 20 student enrollment) for largely non-majors focused on both American and Texas government with an emphasis on building civic knowledge and democratic citizenship. Social science research project and community engaged group work.
+* **American Politics I:** Introductory course for largely non-majors focused on both American and Texas government with an emphasis on building civic knowledge and democratic citizenship. Social science research project and community engaged group work.
+* **Internship Supervisor:** Help students discern vocation and align with potential internship opportunities. Guide students through internship and reflection process. Several students supervised per semester.
 * **Politics of Developing Nations:** Research lab course to prepare students for the writing and analysis they will use in their future careers while also introducing development concepts from comparative politics and international relations. Collaborative research article writing for potential publication in a scholarly journal.
 * **Intelligence Policy and Analysis:** Simulation-based course teaching public policy approaches and briefing skills.
 * **Representation, Identity, and Community:** Senior-level community engagement seminar in American and comparative politics. Students work as a project team to develop a proposal to increase civic and community engagement on campus.
 * **Scope and Methods in the Social Sciences:** Major capstone course that teaches quantitative and qualitative analysis techniques within the context of writing a research article. Introduces foundational statistical and computer programming concepts. Students analyze data and write individual research articles in a collaborative environment.
-* **National Government in the U.S.:** Introductory course (40-160 student enrollment) for primarily non-majors focused on democratic citizenship, building civic knowledge skills, and possible avenues for involvement in local government.
-* **Comparative Foreign Governments:** Major required course introducing analysis of scholarly literature and theoretical development in a scaffolded writing assignment. Key comparative politics and internantional relations concepts within a Model UN simulation environment.
 * **Representation, Identity, and Dissent:** Junior-level interdisciplinary seminar tying together different types of identity (ethnicity, gender, regional/national, religious) and different forms of action (political representation, protest, separatism, war). Comparative politics course with emphasis on applicability to American politics and public policy. Community engagement component. Students write a research article and conduct public policy-related activities.
-* **Introduction to Comparative Politics:** Intro-level seminar designed around student involvement in the research process. Incorporated research methods, reflective and formative journal writing, and policy application components into the syllabus. Students engage with published research and focus on writing their own research article through collaborative methods workshops.
 * **Immigration, Identity, and the Internet (Co-Instructor):** Senior-level writing intensive seminar. Draws on American and comparative politics literature, contemporary pieces, and cross-disciplinary sociology and anthropology work.
 
 ## Courses in Development
-* **Comparative Political Economy** 
 * **War and Peace** 
-* **International Relations**
 * **Public Administration**
-* **Environmental Politics**
 
 
 
