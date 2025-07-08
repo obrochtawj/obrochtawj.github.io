@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Social Benefits Motivate Young Adult Civic Engagement,"  published at <i>PS: Political Science &amp; Politics</i>.<br>
+  <!--<a href="https://doi.org/10.1007/s11109-025-10008-8">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/CivicEngagementMotivations.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/W2XTT7">Replication Files</a>,
+<a href="#civicengagementmotivations" data-toggle="collapse">Abstract</a>
+  <div id="civicengagementmotivations" class="collapse">
+    Civic engagement benefits both participants and society, but what motivates young adults to decide to become civically engaged? A cost-benefit analysis concludes that resume-building is a major motivator for young adult civic engagement participation because it has more visible short-term impacts compared to social or community motivators. Using a pre-registered survey experiment and follow-up focus groups fielded to college students, I demonstrate that respondents exposed to a treatment describing the social benefits of civic engagement are significantly more willing to increase their civic engagement. Counter to expectations, career benefits are, at best, a secondary motivating factor. These results suggest that civic engagement does not sell itself as inherently beneficial to young adults. Non-profit organizations and educators should consider ways to draw attention to the social benefits of civic engagement as a method of attracting additional program interest.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Language Cues and Perceptions of Nationalism" (with Patrick Cunha Silva),  published at <i>Political Behavior</i>.<br>
   <a href="https://doi.org/10.1007/s11109-025-10008-8">Publisher Link (open access)</a>, <a href="https://doi.org/10.7910/DVN/KF8L4L">Replication Files</a>,
 <a href="#languagenationalism" data-toggle="collapse">Abstract</a>
@@ -14,14 +21,14 @@ permalink: "/publications"
     How do people respond to symbols related to nationalism, and does having political context matter? We argue that nationalist symbols influence perceptions when in a political context. Leveraging that the Serbian language can be rendered in Cyrillic and Latin and Cyrillic is associated with nationalism, we examine the use of linguistic symbols in Serbia. Using social media data, we demonstrate that politicians employ Cyrillic to discuss topics traditionally associated with nationalism. Then, based on a pre-registered survey experiment, we show that exposure to Cyrillic absent political context does not alter nationalist attitudes but that respondents exposed to a politician’s message in Cyrillic view that politician as more nationalist. Our findings speak to the power of nationalist symbols, demonstrating that said symbols are powerful even when associated with subtle, language-based manipulations. Moreover, they have broad implications for how politicians signal their political beliefs, including how they work to associate themselves with everyday symbols.
   </div></li>
 
-<li style="margin-bottom: 10px">"Quantifying and Contextualizing Violent Collective Action Event Datasets" (with Sunita Parikh),  published at <i>Social Indicators Research</i>.<br>
+<li style="margin-bottom: 10px">"Quantifying and Contextualizing Violent Collective Action Event Datasets" (with Sunita Parikh), <i>Social Indicators Research</i> 176: 883-902.<br>
   <a href="https://doi.org/10.1007/s11205-024-03484-8">Publisher Link (open access)</a>, <!--<a href="https://williamobrochta.net/files/QuantifyingRiots.pdf">PDF</a>, --> <a href="https://doi.org/10.7910/DVN/GZOG7K">Replication Files</a>, 
 <a href="#quantifyingriots" data-toggle="collapse">Abstract</a>
   <div id="quantifyingriots" class="collapse">
     How does newspaper-based event data compare to a government data source? While scholars have long recognized the importance of and biases present in newspaper-based event data, few studies have compared newspaper reports with official government data to better understand the severity and impact of such biases. We develop this comparison in the context of riots, a form of violent collective action that represents an important middle ground between peaceful protests and protracted civil conflict. Using newly collected police precinct-level government data from India, we compare these data to a high-quality newspaper source. Though similar at the aggregate level, newspaper riot reports correlate poorly with government data at the local level. We model the frequency of newspaper and government riot reports based on literacy, location, and other demographic characteristics to better understand the discrepancies between these two sources. We conclude that newspaper riot data does partially reflect aggregate riot trends, but the newspaper editorial process also plays an important role. Government data is better for within country comparisons and for analyzing event trends over time. Our findings suggest that using collective action event data from both sources may help ensure that results are not driven by biases in either data source.
   </div></li>
 
-<li style="margin-bottom: 10px">"Public Discourse About Autonomous Regions and De Facto States,"  published at <i>Studies in Ethnicity and Nationalism</i>.<br>
+<li style="margin-bottom: 10px">"Public Discourse About Autonomous Regions and De Facto States," <i>Studies in Ethnicity and Nationalism</i> 24(3): 307-402.<br>
   <a href="https://doi.org/10.1111/sena.12436">Publisher Link</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoric.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoricReplicationFiles.zip">Replication Files</a>, 
 <a href="#separatistrhetoric" data-toggle="collapse">Abstract</a>
   <div id="separatistrhetoric" class="collapse">
@@ -42,7 +49,7 @@ permalink: "/publications"
     Does co-ethnic cabinet representation change how people respond to increasing ethnic cabinet diversity? Existing literature studies co-ethnic representation and cabinet diversity separately. I argue that the interaction between co-ethnic cabinet representation and ethnic cabinet diversity lowers government confidence and impacts feelings of ethnic fairness. Using a newly constructed dataset linking both the World Values Survey and the Afrobarometer to country-year measures of ethnic cabinet diversity, I find that interacting co-ethnic representation with ethnic cabinet diversity largely has the expected results. Country leaders should think carefully about how to manage cabinet appointments in order to improve attitudes toward government.
   </div></li>
 
-<li style="margin-bottom: 10px">"Gendered Ideologies, Gendered Perceptions: Do Nationalist Symbols and Gender Affect People's Perceptions of Politicians?" (with Patrick Cunha Silva), published at <i>Politics, Groups, and Identities</i>.<br>
+<li style="margin-bottom: 10px">"Gendered Ideologies, Gendered Perceptions: Do Nationalist Symbols and Gender Affect People's Perceptions of Politicians?" (with Patrick Cunha Silva), <i>Politics, Groups, and Identities</i> 13(1): 46-63.<br>
   <a href="https://doi.org/10.1080/21565503.2024.2308823">Publisher Link</a>, <a href="https://williamobrochta.net/files/GenderedIdeologiesPerceptions.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/UASLTC">Replication Files</a>, 
 <a href="#genderedideologies" data-toggle="collapse">Abstract</a>
   <div id="genderedideologies" class="collapse">
@@ -113,7 +120,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
     The international community invests heavily in democracy promotion, but these efforts sometimes embolden leaders not interested in true democratic reform. We develop and test a formal model explaining why this occurs in the context of electoral system reform --- one of the most important signals of democratic quality. Our formal model characterizes leaders as either truly reform minded or pseudo-reformers, those who increase electoral system proportionality in order to receive international community benefits while engaging in electoral fraud. We hypothesize that the international community will be more (less) likely to detect fraud when leaders decrease (increase) proportionality, regardless of whether there is evidence of numerical fraud. Using a mixed-methods approach with cross-national and case study data from post-Communist states, we find that the international community is generally less likely to detect fraud following an increase in proportionality and vice versa. We suggest that democracy promoters over-reward perceived democratic progress such that pseudo-reformers often benefit.
   </div></li>
 
-<li style="margin-bottom: 10px">"Small-Scale Civic Engagement with Big Impacts," 2022. <i>PS: Political Science and Politics</i> 55(2): 389-391.<br> 
+<li style="margin-bottom: 10px">"Small-Scale Civic Engagement with Big Impacts," 2022. <i>PS: Political Science &amp; Politics</i> 55(2): 389-391.<br> 
   <a href="https://www.doi.org/10.1017/S1049096521001669">Publisher Link</a>,  <a href="https://williamobrochta.net/files/SmallCivicEngagement.pdf">PDF</a>, 
 <a href="#smallcivicengagement" data-toggle="collapse">Abstract</a>
   <div id="smallcivicengagement" class="collapse">
@@ -211,7 +218,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 
 <br>
 
-#### Other Publications
+#### Book Chapters
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Civic Engagement at Teaching-Focused Universities: Navigating the Challenges for Pre-Tenure Faculty," 2024. In Lauren Bell, Allison Rank, and Carah Ong Whaley (eds.) <i>Civic Pedagogy: Teaching Civic Engagement in an Era of Divisive Politics</i> Cham, Switzerland: Palgrave Macmillan.<br>
@@ -222,15 +229,6 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
      The chapter is divided into four sections that address separate but correlated themes: (1) Institutional structural support, or how internal and external support structures are fundamental to civic education initiatives in terms of administrative backing and resource allocation; (2) Institutional culture and focus, including how receptive the larger campus and regional community is to civic engagement endeavors; (3) Preparing students for engagement, or adopting a mindset of equity and acknowledging the diversity of student backgrounds, experiences, and civic exposure when designing and implementing civic engagement programs; and (4) Tenure and promotion, or how to ensure that your civic engagement activities are properly attributed to scholarship, teaching, and/or service. 
   </div></li>
 
-<li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>." 2023. <i>Journal of Political Science Education</i> 19(4): 737-739.<br> 
-  <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
-
-<li style="margin-bottom: 10px">"The Benefits of Early Student Involvement with Civic Engagement Programs" (with Anthony Franklin), 2023. <i>The Political Science Educator</i> 27(1): 76-79.<br> 
-  <a href="https://williamobrochta.net/files/EarlyInvolvementCivicEngagement.pdf">PDF</a></li>
-
-<li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy: How to Handle Misinformation" (with Michele Calderon, Heather Katz, and Rachel Olsen), 2023. <i>Political Science Today</i> 3(3): 11-13.<br> 
-  <a href="https://www.flipsnack.com/politicalsciencetoday/v3-n3.html">Open Access</a></li>
-
 <li style="margin-bottom: 10px">"You have an Academic Job Offer...Now What? Negotiating Advice from Two Perspectives" (with Lori Poloni-Staudinger), 2022. In Kevin Lorentz II, Daniel Mallison, Julia Marin Hellwege, Davin Phoenix, and J. Cherie Strachan (eds.) <i>Strategies for Navigating Graduate School and Beyond</i> Washington, D.C.: American Political Science Association.<br> 
   <a href="https://doi.org/10.33774/apsa-2022-p211j">Open Access</a></li>
 
@@ -240,11 +238,33 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
      Both students and instructors are frequently frustrated by research paper assignments because they involve only part of the research article writing process. I argue that integrating the entire article writing process into a course empowers students to work as political scientists, makes the discipline relevant, provides critical writing skills, and improves classroom climate. I discuss my journey developing courses based on the research article writing process, describing strengths and weaknesses of this approach. Additionally, I highlight research-based simulations as a key component of article writing that helps students understand the importance of political science. I encourage instructors to embrace the shift in thinking associated with teaching the research article writing process, the results of which substantially benefit students.
   </div></li>
 
+
+
+</ol>
+
+<br>
+
+#### Other Publications
+
+
+<li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>." 2023. <i>Journal of Political Science Education</i> 19(4): 737-739.<br> 
+  <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
+
+<li style="margin-bottom: 10px">"The Benefits of Early Student Involvement with Civic Engagement Programs" (with Anthony Franklin), 2023. <i>The Political Science Educator</i> 27(1): 76-79.<br> 
+  <a href="https://williamobrochta.net/files/EarlyInvolvementCivicEngagement.pdf">PDF</a></li>
+
+<li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy: How to Handle Misinformation" (with Michele Calderon, Heather Katz, and Rachel Olsen), 2023. <i>Political Science Today</i> 3(3): 11-13.<br> 
+  <a href="https://www.flipsnack.com/politicalsciencetoday/v3-n3.html">Open Access</a></li>
+
 <li style="margin-bottom: 10px">"Department-Level Graduate Student Peer Teaching Workshops" (with Bryant Moy), 2021. <i>The Political Science Educator</i> 25(1): 6-8.<br> 
   <a href="https://williamobrochta.net/files/PeerTeachingMentoring.pdf">PDF</a></li>
 
 
-<li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. <i>PS: Political Science and Politics</i> 53(3): 588-590.<br> 
+<li style="margin-bottom: 10px">"Teaching Research, Writing, and Information Literacy" (with Julia Marin Hellwege), 2020. <i>PS: Political Science &amp; Politics</i> 53(3): 588-590.<br> 
   <a href="https://doi.org/10.1017/S1049096520000621">Publisher Link</a>, <a href="https://williamobrochta.net/files/ResearchMethodsTrack.pdf">PDF</a></li>
 
 
+
+</ol>
+
+<br>
