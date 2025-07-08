@@ -246,7 +246,7 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 
 #### Other Publications
 
-
+<ol reversed>
 <li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>." 2023. <i>Journal of Political Science Education</i> 19(4): 737-739.<br> 
   <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
 
