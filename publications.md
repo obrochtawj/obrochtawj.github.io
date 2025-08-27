@@ -8,7 +8,7 @@ permalink: "/publications"
 
 <ol reversed>
 <li style="margin-bottom: 10px">"Social Benefits Motivate Young Adult Civic Engagement,"  published at <i>PS: Political Science &amp; Politics</i>.<br>
-  <!--<a href="https://doi.org/10.1007/s11109-025-10008-8">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/CivicEngagementMotivations.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/W2XTT7">Replication Files</a>,
+  <a href="https://doi.org/10.1017/S1049096525101303">Publisher Link</a>, <a href="https://williamobrochta.net/files/CivicEngagementMotivations.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/W2XTT7">Replication Files</a>,
 <a href="#civicengagementmotivations" data-toggle="collapse">Abstract</a>
   <div id="civicengagementmotivations" class="collapse">
     Civic engagement benefits both participants and society, but what motivates young adults to decide to become civically engaged? A cost-benefit analysis concludes that resume-building is a major motivator for young adult civic engagement participation because it has more visible short-term impacts compared to social or community motivators. Using a pre-registered survey experiment and follow-up focus groups fielded to college students, I demonstrate that respondents exposed to a treatment describing the social benefits of civic engagement are significantly more willing to increase their civic engagement. Counter to expectations, career benefits are, at best, a secondary motivating factor. These results suggest that civic engagement does not sell itself as inherently beneficial to young adults. Non-profit organizations and educators should consider ways to draw attention to the social benefits of civic engagement as a method of attracting additional program interest.
