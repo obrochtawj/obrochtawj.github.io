@@ -10,18 +10,20 @@ I believe that students bring valuable perspectives and interests to political s
 My research investigates core aspects of diversity, equity, and inclusion. As such, I strive to create a collective engaged citizen identity among students in my courses, empowering students to relate political science to their own lives and to issues they care about, and setting up appropriate support structures for each student. [Click here to download my diversity, equity, and inclusion statement.](/files/OBrochta_Diversity.pdf)
 
 ## Course Listing
+* **Public Administration:** Community lab course on the bureaucracy's role in public administration of immigration. Photovoice assignment and close textual reading of policy and government documents. Cross-listed with communication studies and social innovation and social entrepreneurship.
+* **Asia and Development:** Research lab course focused on legal aspects of the politics of development through legal research and simulation. Special emphasis is given to development in Asia and comparisons with other countries. Cross-listed with economics and social innovation and social entrepreneurship.
+* **Comparative Politics:** Model UN simulation course that introduces key concepts in comparative politics with a focus on developing research questions and translating them into proposed legislation.
+* **First Year Experience: Exploring the Arts and Sciences:** Common course. Taught all humanities and social science majors. Emphasis on building civic skills, discerning vocation, and becoming familiar with the university community.
+* **Legal Research and Policy Analysis:** Independent study course integrating both basic legal research and writing principles and the impact of those principles on policy-making.
+* **Data Analysis in Social Science:** Capstone course for sociology and political science majors. Builds on basic statistical concepts by teaching students the social science research process with a focus on both qualitative and quantitative empirical data and research design. Students analyze data using computer programming skills and write a research article in a collaborative environment.
+* **American Politics I:** Introductory course for largely non-majors focused on both American and Texas government with an emphasis on building civic knowledge and democratic citizenship. Social science research project and community engaged group work.
 * **Comparative Political Economy:** Seminar reading group course linking major economic themes to their impact on individual people around the world and their stories.
 * **International Relations:** Intelligence analysis simulation through the lens of key theories of international relations.
 * **Environmental Politics:** Research seminar in environmental politics, policy, and administration. Conduct sustainability audit of campus using skills related to science policy and communication.
-* **Legal Research and Policy Analysis:** Independent study course integrating both basic legal resaerch and writing principles and the impact of those principles on policy-making.
-* **First Year Experience: Exploring the Arts and Sciences:** Common course. Taught all humanities and social science majors. Emphasis on building civic skills, discerning vocation, and becoming familiar with the university community.
+* **Qualitative Research Methods and Writing:** Independent study course helping students understand the components of the qualitative analysis of focus group data as well as report writing and presentation skills.
 * **Legal Research and Writing:** Independent study course helping students understand the components of legal documents, read and outline cases and arguments, and conduct basic legal research.
 * **Electoral Politics:** Civic engagement seminar that introduces basic features of comparative electoral rules within the context of a student-directed research project on student civic participation.
-* **Comparative Politics:** Model UN simulation course that introduces key concepts in comparative politics with a focus on developing research questions and translating them into proposed legislation.
 * **Nationalism and Political Behavior:** Independent study course introducing key literature in the study of nationalism, particularly as it applies to political behavior in the United States.
-* **Asia and Development:** Research lab course typically focused on legal aspects of the politics of development. Special emphasis is given to development in Asia and comparisons with other countries.
-* **Data Analysis in Social Science:** Capstone course for sociology and political science majors. Builds on basic statistical concepts by teaching students the social science research process with a focus on both qualitative and quantitative empirical data and research design. Students analyze data using computer programming skills and write a research article in a collaborative environment.
-* **American Politics I:** Introductory course for largely non-majors focused on both American and Texas government with an emphasis on building civic knowledge and democratic citizenship. Social science research project and community engaged group work.
 * **Internship Supervisor:** Help students discern vocation and align with potential internship opportunities. Guide students through internship and reflection process. Several students supervised per semester.
 * **Politics of Developing Nations:** Research lab course to prepare students for the writing and analysis they will use in their future careers while also introducing development concepts from comparative politics and international relations. Collaborative research article writing for potential publication in a scholarly journal.
 * **Intelligence Policy and Analysis:** Simulation-based course teaching public policy approaches and briefing skills.
@@ -32,7 +34,6 @@ My research investigates core aspects of diversity, equity, and inclusion. As su
 
 ## Courses in Development
 * **War and Peace** 
-* **Public Administration**
 
 
 

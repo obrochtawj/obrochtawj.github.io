@@ -7,6 +7,13 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"How Human Coding is Used and Described,"  published at <i>PS: Political Studies Review</i>.<br>
+  <!-- <a href="https://doi.org/10.1017/S1049096525101303">Publisher Link</a>, --><a href="https://williamobrochta.net/files/HumanCoding.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/WYEL4P">Replication Files</a>,
+<a href="#humancoding" data-toggle="collapse">Abstract</a>
+  <div id="humancoding" class="collapse">
+    Human coding remains an important part of the data generating process for many political scientists. Yet, we lack a systematic understanding of how researchers approach and describe the human coding process. I analyze published articles in major political science journals from 2010 to 2024 that mention human coders (N=258). While articles largely state some form of intercoder reliability measure, a substantial percentage of articles lack minimally descriptive information on coder qualifications and replicable coding procedures --- components that, respectively, are a best practice and are important for ensuring research transparency. The results suggest that some researchers emphasize the product of human coding without fully addressing how human coding is used as a process. I conclude with suggestions for better describing human coders’ work.
+  </div></li>
+
 <li style="margin-bottom: 10px">"Social Benefits Motivate Young Adult Civic Engagement,"  published at <i>PS: Political Science &amp; Politics</i>.<br>
   <a href="https://doi.org/10.1017/S1049096525101303">Publisher Link</a>, <a href="https://williamobrochta.net/files/CivicEngagementMotivations.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/W2XTT7">Replication Files</a>,
 <a href="#civicengagementmotivations" data-toggle="collapse">Abstract</a>
@@ -14,7 +21,7 @@ permalink: "/publications"
     Civic engagement benefits both participants and society, but what motivates young adults to decide to become civically engaged? A cost-benefit analysis concludes that resume-building is a major motivator for young adult civic engagement participation because it has more visible short-term impacts compared to social or community motivators. Using a pre-registered survey experiment and follow-up focus groups fielded to college students, I demonstrate that respondents exposed to a treatment describing the social benefits of civic engagement are significantly more willing to increase their civic engagement. Counter to expectations, career benefits are, at best, a secondary motivating factor. These results suggest that civic engagement does not sell itself as inherently beneficial to young adults. Non-profit organizations and educators should consider ways to draw attention to the social benefits of civic engagement as a method of attracting additional program interest.
   </div></li>
 
-<li style="margin-bottom: 10px">"Language Cues and Perceptions of Nationalism" (with Patrick Cunha Silva),  published at <i>Political Behavior</i>.<br>
+<li style="margin-bottom: 10px">"Language Cues and Perceptions of Nationalism" (with Patrick Cunha Silva), published at <i>Political Behavior</i>.<br>
   <a href="https://doi.org/10.1007/s11109-025-10008-8">Publisher Link (open access)</a>, <a href="https://doi.org/10.7910/DVN/KF8L4L">Replication Files</a>,
 <a href="#languagenationalism" data-toggle="collapse">Abstract</a>
   <div id="languagenationalism" class="collapse">
@@ -247,6 +254,9 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 #### Other Publications
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Career Preparation in the Political Science Curriculum" (with Cameron Arnzen, Ivy Orr Hamerly, Chloe O'Neill, Rebecca Grace Tan, and Joshua Wood), 2025. <i>Political Science Today</i> 5(3): 20-22.<br> 
+  <a href="https://doi.org/10.1017/psj.2025.10094">Open Access</a></li>
+
 <li style="margin-bottom: 10px">"Review of <i>What Teaching Looks Like: Higher Education Through Photographs</i>." 2023. <i>Journal of Political Science Education</i> 19(4): 737-739.<br> 
   <a href="https://www.tandfonline.com/doi/full/10.1080/15512169.2023.2252540">Publisher Link</a>, <a href="https://williamobrochta.net/files/WhatTeachingLooksLikeReview.pdf">PDF</a></li>
 
