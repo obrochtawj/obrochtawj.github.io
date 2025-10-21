@@ -7,7 +7,7 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
-<li style="margin-bottom: 10px">"How Human Coding is Used and Described,"  published at <i>PS: Political Studies Review</i>.<br>
+<li style="margin-bottom: 10px">"How Human Coding is Used and Described,"  published at <i>Political Studies Review</i>.<br>
   <!-- <a href="https://doi.org/10.1017/S1049096525101303">Publisher Link</a>, --><a href="https://williamobrochta.net/files/HumanCoding.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/WYEL4P">Replication Files</a>,
 <a href="#humancoding" data-toggle="collapse">Abstract</a>
   <div id="humancoding" class="collapse">
