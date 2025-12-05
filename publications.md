@@ -8,7 +8,7 @@ permalink: "/publications"
 
 <ol reversed>
 <li style="margin-bottom: 10px">"How Human Coding is Used and Described,"  published at <i>Political Studies Review</i>.<br>
-  <!-- <a href="https://doi.org/10.1017/S1049096525101303">Publisher Link</a>, --><a href="https://williamobrochta.net/files/HumanCoding.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/WYEL4P">Replication Files</a>,
+  <a href="https://doi.org/10.1177/14789299251395515">Publisher Link</a>, <a href="https://williamobrochta.net/files/HumanCoding.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/WYEL4P">Replication Files</a>,
 <a href="#humancoding" data-toggle="collapse">Abstract</a>
   <div id="humancoding" class="collapse">
     Human coding remains an important part of the data generating process for many political scientists. Yet, we lack a systematic understanding of how researchers approach and describe the human coding process. I analyze published articles in major political science journals from 2010 to 2024 that mention human coders (N=258). While articles largely state some form of intercoder reliability measure, a substantial percentage of articles lack minimally descriptive information on coder qualifications and replicable coding procedures --- components that, respectively, are a best practice and are important for ensuring research transparency. The results suggest that some researchers emphasize the product of human coding without fully addressing how human coding is used as a process. I conclude with suggestions for better describing human coders’ work.
