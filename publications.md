@@ -7,6 +7,14 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Students Build Skills Self-Assessing Their Class Notes,"  published at <i>Journal of College Reading and Learning</i>.<br>
+  <!--<a href="https://doi.org/10.1177/14789299251395515">Publisher Link</a>, --> <a href="https://williamobrochta.net/files/ClassNotes.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/NJJLMP">Replication Files</a>,
+<a href="#classnotes" data-toggle="collapse">Abstract</a>
+  <div id="classnotes" class="collapse">
+    Instructors expect students to take notes during class, but students are often unfamiliar with effective notetaking strategies. This article examines whether teaching students to take notes using self-assessments helps to improve student notetaking ability and aids students in understanding how to accurately evaluate their own notes. Students complete a class notes assignment wherein they learn how to take notes and self-assess their performance twice throughout an academic term. Using class notes and self-assessments from nine introduction to American politics courses with this assignment (N=194), the article shows that students’ notetaking ability improved during the course. Instructors should think carefully about their expectations for student notetaking ability and consider incorporating opportunities for students to develop and assess their own notetaking strategies as part of course assignments.
+  </div></li>
+
+
 <li style="margin-bottom: 10px">"How Human Coding is Used and Described,"  published at <i>Political Studies Review</i>.<br>
   <a href="https://doi.org/10.1177/14789299251395515">Publisher Link</a>, <a href="https://williamobrochta.net/files/HumanCoding.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/WYEL4P">Replication Files</a>,
 <a href="#humancoding" data-toggle="collapse">Abstract</a>
