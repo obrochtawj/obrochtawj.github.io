@@ -262,6 +262,9 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 #### Other Publications
 
 <ol reversed>
+<li style="margin-bottom: 10px">"American Government Activity Workbook" (with Julia Marin Hellwege), 2026. OpenStax.<br> 
+  <a href="https://openstax.org/details/books/american-government-4e?Instructor%20resources">Open Access</a>, <a href="https://williamobrochta.net/files/AmericanGovernmentWorkbook.pdf">PDF</a></li>
+
 <li style="margin-bottom: 10px">"Career Preparation in the Political Science Curriculum" (with Cameron Arnzen, Ivy Orr Hamerly, Chloe O'Neill, Rebecca Grace Tan, and Joshua Wood), 2025. <i>Political Science Today</i> 5(3): 20-22.<br> 
   <a href="https://doi.org/10.1017/psj.2025.10094">Open Access</a></li>
 
