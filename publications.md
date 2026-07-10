@@ -7,7 +7,14 @@ permalink: "/publications"
 <!-- Read my research statement [(click here)](/files/OBrochta_Research.pdf). -->
 
 <ol reversed>
-<li style="margin-bottom: 10px">"Students Build Skills Self-Assessing Their Class Notes,"  published at <i>Journal of College Reading and Learning</i>.<br>
+<li style="margin-bottom: 10px">"Approaches to Coding Caste" (with Sunita Parikh),  published at <i>Studies in Indian Politics</i>.<br>
+  <!--<a href="https://doi.org/10.1080/10790195.2026.2621312">Publisher Link</a>, --><a href="https://williamobrochta.net/files/CasteCoding.pdf">PDF</a>,
+<a href="#castecoding" data-toggle="collapse">Abstract</a>
+  <div id="castecoding" class="collapse">
+    Caste identity is contextually dependent, making identifying and coding caste challenging. We describe how existing approaches to coding caste capture different contexts, use different categories, and select and order different caste coding methods. We then develop a series of suggestions to more effectively describe caste coding procedures with a focus on caste coding in electorally-relevant contexts. We conclude by discussing strategies to align caste coding objectives with methodological techniques.
+  </div></li>
+
+<li style="margin-bottom: 10px">"Students Build Skills Self-Assessing Their Class Notes,"  2026. <i>Journal of College Reading and Learning</i> 56(1): 34-47.<br>
   <a href="https://doi.org/10.1080/10790195.2026.2621312">Publisher Link</a>, <a href="https://williamobrochta.net/files/ClassNotes.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/NJJLMP">Replication Files</a>,
 <a href="#classnotes" data-toggle="collapse">Abstract</a>
   <div id="classnotes" class="collapse">
@@ -15,35 +22,35 @@ permalink: "/publications"
   </div></li>
 
 
-<li style="margin-bottom: 10px">"How Human Coding is Used and Described,"  published at <i>Political Studies Review</i>.<br>
+<li style="margin-bottom: 10px">"How Human Coding is Used and Described," 2026. <i>Political Studies Review</i> 24(2): 335-347.<br>
   <a href="https://doi.org/10.1177/14789299251395515">Publisher Link</a>, <a href="https://williamobrochta.net/files/HumanCoding.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/WYEL4P">Replication Files</a>,
 <a href="#humancoding" data-toggle="collapse">Abstract</a>
   <div id="humancoding" class="collapse">
     Human coding remains an important part of the data generating process for many political scientists. Yet, we lack a systematic understanding of how researchers approach and describe the human coding process. I analyze published articles in major political science journals from 2010 to 2024 that mention human coders (N=258). While articles largely state some form of intercoder reliability measure, a substantial percentage of articles lack minimally descriptive information on coder qualifications and replicable coding procedures --- components that, respectively, are a best practice and are important for ensuring research transparency. The results suggest that some researchers emphasize the product of human coding without fully addressing how human coding is used as a process. I conclude with suggestions for better describing human coders’ work.
   </div></li>
 
-<li style="margin-bottom: 10px">"Social Benefits Motivate Young Adult Civic Engagement,"  published at <i>PS: Political Science &amp; Politics</i>.<br>
+<li style="margin-bottom: 10px">"Social Benefits Motivate Young Adult Civic Engagement,"  2026. <i>PS: Political Science &amp; Politics</i> 59(1): 1-8.<br>
   <a href="https://doi.org/10.1017/S1049096525101303">Publisher Link</a>, <a href="https://williamobrochta.net/files/CivicEngagementMotivations.pdf">PDF</a>, <a href="https://doi.org/10.7910/DVN/W2XTT7">Replication Files</a>,
 <a href="#civicengagementmotivations" data-toggle="collapse">Abstract</a>
   <div id="civicengagementmotivations" class="collapse">
     Civic engagement benefits both participants and society, but what motivates young adults to decide to become civically engaged? A cost-benefit analysis concludes that resume-building is a major motivator for young adult civic engagement participation because it has more visible short-term impacts compared to social or community motivators. Using a pre-registered survey experiment and follow-up focus groups fielded to college students, I demonstrate that respondents exposed to a treatment describing the social benefits of civic engagement are significantly more willing to increase their civic engagement. Counter to expectations, career benefits are, at best, a secondary motivating factor. These results suggest that civic engagement does not sell itself as inherently beneficial to young adults. Non-profit organizations and educators should consider ways to draw attention to the social benefits of civic engagement as a method of attracting additional program interest.
   </div></li>
 
-<li style="margin-bottom: 10px">"Language Cues and Perceptions of Nationalism" (with Patrick Cunha Silva), published at <i>Political Behavior</i>.<br>
+<li style="margin-bottom: 10px">"Language Cues and Perceptions of Nationalism" (with Patrick Cunha Silva), 2025. <i>Political Behavior</i> 47: 1687-1710.<br>
   <a href="https://doi.org/10.1007/s11109-025-10008-8">Publisher Link (open access)</a>, <a href="https://doi.org/10.7910/DVN/KF8L4L">Replication Files</a>,
 <a href="#languagenationalism" data-toggle="collapse">Abstract</a>
   <div id="languagenationalism" class="collapse">
     How do people respond to symbols related to nationalism, and does having political context matter? We argue that nationalist symbols influence perceptions when in a political context. Leveraging that the Serbian language can be rendered in Cyrillic and Latin and Cyrillic is associated with nationalism, we examine the use of linguistic symbols in Serbia. Using social media data, we demonstrate that politicians employ Cyrillic to discuss topics traditionally associated with nationalism. Then, based on a pre-registered survey experiment, we show that exposure to Cyrillic absent political context does not alter nationalist attitudes but that respondents exposed to a politician’s message in Cyrillic view that politician as more nationalist. Our findings speak to the power of nationalist symbols, demonstrating that said symbols are powerful even when associated with subtle, language-based manipulations. Moreover, they have broad implications for how politicians signal their political beliefs, including how they work to associate themselves with everyday symbols.
   </div></li>
 
-<li style="margin-bottom: 10px">"Quantifying and Contextualizing Violent Collective Action Event Datasets" (with Sunita Parikh), <i>Social Indicators Research</i> 176: 883-902.<br>
+<li style="margin-bottom: 10px">"Quantifying and Contextualizing Violent Collective Action Event Datasets" (with Sunita Parikh), 2025. <i>Social Indicators Research</i> 176: 883-902.<br>
   <a href="https://doi.org/10.1007/s11205-024-03484-8">Publisher Link (open access)</a>, <!--<a href="https://williamobrochta.net/files/QuantifyingRiots.pdf">PDF</a>, --> <a href="https://doi.org/10.7910/DVN/GZOG7K">Replication Files</a>, 
 <a href="#quantifyingriots" data-toggle="collapse">Abstract</a>
   <div id="quantifyingriots" class="collapse">
     How does newspaper-based event data compare to a government data source? While scholars have long recognized the importance of and biases present in newspaper-based event data, few studies have compared newspaper reports with official government data to better understand the severity and impact of such biases. We develop this comparison in the context of riots, a form of violent collective action that represents an important middle ground between peaceful protests and protracted civil conflict. Using newly collected police precinct-level government data from India, we compare these data to a high-quality newspaper source. Though similar at the aggregate level, newspaper riot reports correlate poorly with government data at the local level. We model the frequency of newspaper and government riot reports based on literacy, location, and other demographic characteristics to better understand the discrepancies between these two sources. We conclude that newspaper riot data does partially reflect aggregate riot trends, but the newspaper editorial process also plays an important role. Government data is better for within country comparisons and for analyzing event trends over time. Our findings suggest that using collective action event data from both sources may help ensure that results are not driven by biases in either data source.
   </div></li>
 
-<li style="margin-bottom: 10px">"Public Discourse About Autonomous Regions and De Facto States," <i>Studies in Ethnicity and Nationalism</i> 24(3): 307-402.<br>
+<li style="margin-bottom: 10px">"Public Discourse About Autonomous Regions and De Facto States," 2024. <i>Studies in Ethnicity and Nationalism</i> 24(3): 307-402.<br>
   <a href="https://doi.org/10.1111/sena.12436">Publisher Link</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoric.pdf">PDF</a>, <a href="https://williamobrochta.net/files/SeparatistRhetoricReplicationFiles.zip">Replication Files</a>, 
 <a href="#separatistrhetoric" data-toggle="collapse">Abstract</a>
   <div id="separatistrhetoric" class="collapse">
@@ -265,6 +272,9 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 <li style="margin-bottom: 10px">"American Government Activity Workbook" (with Julia Marin Hellwege), 2026. OpenStax.<br> 
   <a href="https://openstax.org/details/books/american-government-4e?Instructor%20resources">Open Access</a>, <a href="https://williamobrochta.net/files/AmericanGovernmentWorkbook.pdf">PDF</a></li>
 
+<li style="margin-bottom: 10px">"Civic Engagement and Faith Perspectives," 2026. <i>Intersections: Faith, Learning, and the Vocation of Lutheran Higher Education</i> 63: 8-11.<br> 
+  <a href="https://digitalcommons.augustana.edu/cgi/viewcontent.cgi?article=1676&context=intersections">Open Access</a></li>
+  
 <li style="margin-bottom: 10px">"Career Preparation in the Political Science Curriculum" (with Cameron Arnzen, Ivy Orr Hamerly, Chloe O'Neill, Rebecca Grace Tan, and Joshua Wood), 2025. <i>Political Science Today</i> 5(3): 20-22.<br> 
   <a href="https://doi.org/10.1017/psj.2025.10094">Open Access</a></li>
 
