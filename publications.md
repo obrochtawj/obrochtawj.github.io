@@ -269,6 +269,9 @@ Deeply Divided Societies," 2022. <i>Nations and Nationalism</i> 28(3): 777-787.<
 #### Other Publications
 
 <ol reversed>
+<li style="margin-bottom: 10px">"Centering Career Preparation in Political Science," Forthcoming. <i>Journal of Political Science Education</i>.<br> 
+  <!--<a href="https://openstax.org/details/books/american-government-4e?Instructor%20resources">Publisher Link</a>, --><a href="https://williamobrochta.net/files/CareerSymposium.pdf">PDF</a></li>
+
 <li style="margin-bottom: 10px">"American Government Activity Workbook" (with Julia Marin Hellwege), 2026. OpenStax.<br> 
   <a href="https://openstax.org/details/books/american-government-4e?Instructor%20resources">Open Access</a>, <a href="https://williamobrochta.net/files/AmericanGovernmentWorkbook.pdf">PDF</a></li>
 
