@@ -8,7 +8,7 @@ permalink: "/advising"
 1. Schedule an advising appointment with me at least 24 hours before you intend to meet. You must schedule and appointment at [https://calendly.com/obrochta/advising](https://calendly.com/obrochta/advising)
 2. Prepare to complete the advising form.
 	* **Degree Plan:** Download the appropriate degree plan, fill it out, and be prepared to upload it to the advising form. [Click here to find your degree plan.](https://my.tlu.edu/ICS/Public/Registrar.jnz)
-	* **Tentative Schedule:** The form will ask you to list the courses you plan to take for next semester as well as at least one alternate course. To find courses go to [https://www.tlu.edu/academics/registrar](https://www.tlu.edu/academics/registrar) and then select "Course Schedule" for the semester you wish to register for. You can also view the course schedule on myTLU. You must confirm that you have met the pre-requisites for all courses you intend to register for. Review pre-requisites on the course schedule on myTLU or by looking at the course catalog on the registrar's website.
+	* **Tentative Schedule:** The form will ask you to list the courses you plan to take for next semester as well as at least one alternate course. To find courses go to [https://www.tlu.edu/department/academic-affairs/registration-and-records/](https://www.tlu.edu/department/academic-affairs/registration-and-records/) and then select "Course Schedule" for the semester you wish to register for. You can also view the course schedule on myTLU. You must confirm that you have met the pre-requisites for all courses you intend to register for. Review pre-requisites on the course schedule on myTLU or by looking at the course catalog on the registrar's website.
 	* **Advising Needs:** The form will ask you to complete a few questions about your progress and your plans so that I can best assist you.
 3. Complete the advising form at [https://forms.microsoft.com/r/fxC4tdUUkE](https://forms.office.com/r/fxC4tdUUkE)
 4. Arrive at your advising appointment on time and be ready to discuss! I will not meet with you unless all of the above steps have been completed.
@@ -34,7 +34,7 @@ permalink: "/advising"
 
 
 ### Adding or Dropping a Course
-1. Are you adding/dropping before the end of the add/drop period? Find the end of the add/drop period on the academic calendar [https://www.tlu.edu/academics/registrar](https://www.tlu.edu/academics/registrar).
+1. Are you adding/dropping before the end of the add/drop period? Find the end of the add/drop period on the academic calendar [https://www.tlu.edu/department/academic-affairs/registration-and-records/](https://www.tlu.edu/department/academic-affairs/registration-and-records/).
 	* If so, go to myTLU and navigate to your course schedule. Add or drop the course from there.
 2. Are you adding/dropping after the end of the add/drop period?
 	* Go to [https://my.tlu.edu/ICS/Public/Registrar.jnz](https://my.tlu.edu/ICS/Public/Registrar.jnz) and select the "schedule change" form.
